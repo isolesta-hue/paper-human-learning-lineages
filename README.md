@@ -1,11 +1,13 @@
 # Learning from Its Own Input — paper 1 and its release files
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23585254.svg)](https://doi.org/10.5281/zenodo.23585254)
+
 **isolesta-hue** (Independent Researcher)
 
 This repository releases the first paper of a small, hobby research project on learners that try to improve *how* they learn, together with everything needed to check its numbers: the code of the main learner, the shared sealed exam (generator, grader, the opened edition and its keys) and every graded answer set.
 
 - **Paper**: [`paper1/PAPER.pdf`](paper1/PAPER.pdf) ([Markdown](paper1/PAPER.md)) · Korean translation [`paper1/PAPER_ko.pdf`](paper1/PAPER_ko.pdf) ([Markdown](paper1/PAPER_ko.md))
-- **Archived copy and DOI**: Zenodo (each GitHub release of this repository is archived there with its own DOI).
+- **Archived copy and DOI**: Zenodo, [10.5281/zenodo.23585254](https://doi.org/10.5281/zenodo.23585254) (version 1.0; each later GitHub release gets its own DOI).
 - 한국어 안내: [`README_ko.md`](README_ko.md)
 
 ## In one paragraph
@@ -49,4 +51,6 @@ export OMP_NUM_THREADS=1 MKL_NUM_THREADS=1 OPENBLAS_NUM_THREADS=1
 The author, isolesta-hue, is the sole human author and is responsible for all content: the research questions, the decisions, the pass lines and every go/no-go. AI systems are not authors. Claude (Anthropic), through Claude Code, designed and wrote the code, ran the experiments, kept the records and drafted the paper under the author's direction — one assistant session per learner, each with its own repository. ChatGPT (OpenAI) and Gemini (Google) were used for idea discussion. Every world, story and test item the learners met was produced by code; no text written by an AI system was used as training material.
 
 ## Citation
-See [`CITATION.cff`](CITATION.cff); the Zenodo record gives the DOI of each version.
+isolesta-hue (2026). *Learning from Its Own Input: A Small Self-Tuning Learner, Its Infant-Inspired Logic, and a Sealed Exam* (Version 1.0). Zenodo. [10.5281/zenodo.23585254](https://doi.org/10.5281/zenodo.23585254)
+
+See also [`CITATION.cff`](CITATION.cff).

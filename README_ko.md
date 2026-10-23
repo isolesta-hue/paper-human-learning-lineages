@@ -1,11 +1,13 @@
 # 자기 입력에서 배우기 — 첫 논문과 공개 파일
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23585254.svg)](https://doi.org/10.5281/zenodo.23585254)
+
 **isolesta-hue** (독립 연구자)
 
 아기의 내부 따라 하기(입력이 곧 정답)를 중심에 두고, 배우는 방식 자체를 스스로 나아지게 하는 작은 학습자를 다루는 취미 연구의 첫 논문과, 그 숫자를 확인하는 데 필요한 모든 것을 공개한다: 주 학습자의 코드, 세 학습자가 함께 친 봉인 시험(생성기·채점기·연 판과 열쇠), 채점한 모든 답.
 
 - **논문**: [`paper1/PAPER.pdf`](paper1/PAPER.pdf)(영어 원문) · 한국어 번역본 [`paper1/PAPER_ko.pdf`](paper1/PAPER_ko.pdf) ([마크다운](paper1/PAPER_ko.md))
-- **보관과 DOI**: Zenodo(이 저장소의 GitHub 릴리스마다 Zenodo에 보관되고 DOI가 붙음).
+- **보관과 DOI**: Zenodo, [10.5281/zenodo.23585254](https://doi.org/10.5281/zenodo.23585254) (1.0판; 뒤의 GitHub 릴리스마다 새 DOI가 붙음).
 
 ## 세 학습자
 | 공개 이름 | 몸 | 작업 이름(코드·기록·검토 파일에 남은 이름) |

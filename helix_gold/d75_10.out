@@ -1,0 +1,12 @@
+D11 resume: session 11/16 on
+D11 resume: session 16/16 on
+=== D75 step 1: movement from before / after scenes, no role markers (10 seeds, development test) ===
+R1 P END scene: mean 0.998, pooled 3205/3210 Wilson 95% LB 0.996; per seed [1.0, 1.0, 1.0, 0.991, 1.0, 1.0, 1.0, 1.0, 1.0, 0.994]; chance 0.20-0.25
+R2 P - S END: mean +0.794 (10:0, p = 0.0020); S END 0.204
+R2 P - S LIFE: mean +0.765 (10:0, p = 0.0020); S LIFE 0.235
+R3 P - P body END: mean +0.795; body 0.203
+R4 record (P END): events 726 (seed 0), words 97.0
+R5 cost: P CPU per life 17.7 min
+DECISION: 배움(표지 없이)
+exit 0
+exit 0

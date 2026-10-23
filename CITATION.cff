@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: article
+title: "Learning from Its Own Input: A Small Self-Tuning Learner, Its Infant-Inspired Logic, and a Sealed Exam"
+authors:
+  - alias: isolesta-hue
+    affiliation: "Independent Researcher"
+version: "1.0"
+date-released: "2026-10-23"
+license: CC-BY-4.0
+repository-code: "https://github.com/isolesta-hue/paper-human-learning-lineages"
+keywords:
+  - self-improving learner
+  - world model
+  - pre-registered ablation
+  - sealed exam
+  - developmental machine learning

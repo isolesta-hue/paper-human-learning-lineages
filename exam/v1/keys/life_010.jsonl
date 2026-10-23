@@ -1,0 +1,625 @@
+{"id": "L010-0000", "criterion": 2, "kind": "new word name", "detail": {"exposures": 4, "session": 11, "timing": "end"}, "lang": "ko", "order": false, "when": "end", "answer": "농통"}
+{"id": "L010-0001", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 8, "take": 7, "inside": 1, "taught": false, "impossible": "one more"}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0002", "criterion": 7, "kind": "story where", "detail": {"sentences": 3, "verb": "put"}, "lang": "en", "order": true, "when": "every", "answer": [3, 0]}
+{"id": "L010-0003", "criterion": 0, "kind": "name (box)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "동골"}
+{"id": "L010-0004", "criterion": 3, "kind": "number -> scene", "detail": {"n": 2}, "lang": "ko", "order": false, "when": "every", "answer": "A"}
+{"id": "L010-0005", "criterion": 2, "kind": "new word name", "detail": {"exposures": 2, "session": 6, "timing": "end"}, "lang": "ko", "order": false, "when": "end", "answer": "덩롬"}
+{"id": "L010-0006", "criterion": 5, "kind": "cross-language what", "detail": {"verb": "put", "rel": "in", "told": "en", "asked": "ko"}, "lang": "en", "order": false, "when": "every", "answer": "t1_4382"}
+{"id": "L010-0007", "criterion": 2, "kind": "new word which", "detail": {"exposures": 2, "session": 13, "timing": "right after"}, "lang": "en", "order": false, "when": "after_session_13", "answer": "t12_2986"}
+{"id": "L010-0008", "criterion": 9, "kind": "scene -> word", "detail": {"rel": "beside"}, "lang": "en", "order": false, "when": "every", "answer": "beside"}
+{"id": "L010-0009", "criterion": 3, "kind": "number -> scene", "detail": {"n": 6}, "lang": "en", "order": false, "when": "every", "answer": "C"}
+{"id": "L010-0010", "criterion": 3, "kind": "next number (report only)", "detail": {"n": 2}, "lang": "ko", "order": false, "when": "every", "answer": "셋"}
+{"id": "L010-0011", "criterion": 6, "kind": "solidity pair", "detail": {"area": "solidity", "novel": true}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0012", "criterion": 3, "kind": "scene -> number", "detail": {"n": 4}, "lang": "en", "order": false, "when": "every", "answer": "four"}
+{"id": "L010-0013", "criterion": 1, "kind": "new combination who", "detail": {"verb": "put", "rel": "in", "triple": ["c2", "put", 4]}, "lang": "en", "order": false, "when": "every", "answer": "c2"}
+{"id": "L010-0014", "criterion": 3, "kind": "next number (report only)", "detail": {"n": 6}, "lang": "ko", "order": false, "when": "every", "answer": "일곱"}
+{"id": "L010-0015", "criterion": 0, "kind": "name (box)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "동골"}
+{"id": "L010-0016", "criterion": 9, "kind": "scene -> word", "detail": {"rel": "beside"}, "lang": "ko", "order": false, "when": "every", "answer": "옆"}
+{"id": "L010-0017", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 5, "take": 3, "inside": 2, "taught": false, "impossible": "one more"}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0018", "criterion": 0, "kind": "particle (direction)", "detail": {"form": "으로"}, "lang": "ko", "order": false, "when": "every", "answer": "으로"}
+{"id": "L010-0019", "criterion": 1, "kind": "new combination who", "detail": {"verb": "take", "rel": null, "triple": ["c3", "take", 0]}, "lang": "en", "order": false, "when": "every", "answer": "c3"}
+{"id": "L010-0020", "criterion": 6, "kind": "contact prediction", "detail": {"area": "contact", "novel": true}, "lang": "ko", "order": false, "when": "every", "answer": "B"}
+{"id": "L010-0021", "criterion": 4, "kind": "how many inside", "detail": {"put": 3, "take": 1, "inside": 2, "taught": false}, "lang": "en", "order": false, "when": "every", "answer": "two"}
+{"id": "L010-0022", "criterion": 1, "kind": "new combination what", "detail": {"verb": "put", "rel": "in", "triple": ["c2", "put", 0]}, "lang": "en", "order": false, "when": "every", "answer": "t0_2846"}
+{"id": "L010-0023", "criterion": 6, "kind": "support pair", "detail": {"area": "support", "novel": true}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0024", "criterion": 7, "kind": "story who", "detail": {"sentences": 2, "verb": "put"}, "lang": "ko", "order": false, "when": "every", "answer": "c0"}
+{"id": "L010-0025", "criterion": 3, "kind": "number -> scene", "detail": {"n": 1}, "lang": "en", "order": false, "when": "every", "answer": "D"}
+{"id": "L010-0026", "criterion": 7, "kind": "story who", "detail": {"sentences": 2, "verb": "put"}, "lang": "ko", "order": false, "when": "every", "answer": "c1"}
+{"id": "L010-0027", "criterion": 1, "kind": "new combination who", "detail": {"verb": "put", "rel": "on", "triple": ["c1", "put", 3]}, "lang": "en", "order": false, "when": "every", "answer": "c1"}
+{"id": "L010-0028", "criterion": 1, "kind": "new combination who", "detail": {"verb": "take", "rel": null, "triple": ["c3", "take", 0]}, "lang": "ko", "order": false, "when": "every", "answer": "c3"}
+{"id": "L010-0029", "criterion": 8, "kind": "where before", "detail": {"sentences": 3, "long": false, "moves": 2}, "lang": "ko", "order": false, "when": "every", "answer": [1, 1]}
+{"id": "L010-0030", "criterion": 3, "kind": "scene -> number", "detail": {"n": 2}, "lang": "en", "order": false, "when": "every", "answer": "two"}
+{"id": "L010-0031", "criterion": 6, "kind": "permanence prediction", "detail": {"area": "permanence", "novel": false}, "lang": "en", "order": false, "when": "every", "answer": "A"}
+{"id": "L010-0032", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 8, "take": 5, "inside": 3, "taught": false, "impossible": "one fewer"}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0033", "criterion": 6, "kind": "support prediction", "detail": {"area": "support", "novel": false}, "lang": "en", "order": false, "when": "every", "answer": "C"}
+{"id": "L010-0034", "criterion": 7, "kind": "story what", "detail": {"sentences": 2, "verb": "put"}, "lang": "en", "order": false, "when": "every", "answer": "t6_4684"}
+{"id": "L010-0035", "criterion": 2, "kind": "new word name", "detail": {"exposures": 4, "session": 2, "timing": "end"}, "lang": "ko", "order": false, "when": "end", "answer": "코넹"}
+{"id": "L010-0036", "criterion": 2, "kind": "new word which", "detail": {"exposures": 8, "session": 11, "timing": "end"}, "lang": "en", "order": false, "when": "end", "answer": "t17_3107"}
+{"id": "L010-0037", "criterion": 2, "kind": "new word name", "detail": {"exposures": 1, "session": 3, "timing": "right after"}, "lang": "en", "order": false, "when": "after_session_3", "answer": "gadral"}
+{"id": "L010-0038", "criterion": 1, "kind": "new combination what", "detail": {"verb": "put", "rel": "on", "triple": ["c1", "put", 3]}, "lang": "en", "order": false, "when": "every", "answer": "t3_2826"}
+{"id": "L010-0039", "criterion": 7, "kind": "story when", "detail": {"sentences": 2, "verb": "put"}, "lang": "ko", "order": false, "when": "every", "answer": 1}
+{"id": "L010-0040", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 4, "take": 2, "inside": 2, "taught": false, "impossible": "one fewer"}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0041", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "bleglop"}
+{"id": "L010-0042", "criterion": 3, "kind": "number -> scene", "detail": {"n": 5}, "lang": "en", "order": false, "when": "every", "answer": "C"}
+{"id": "L010-0043", "criterion": 2, "kind": "new word which", "detail": {"exposures": 4, "session": 2, "timing": "end"}, "lang": "ko", "order": false, "when": "end", "answer": "t14_3042"}
+{"id": "L010-0044", "criterion": 7, "kind": "story what", "detail": {"sentences": 4, "verb": "put"}, "lang": "en", "order": false, "when": "every", "answer": "t0_4687"}
+{"id": "L010-0045", "criterion": 3, "kind": "scene -> number", "detail": {"n": 2}, "lang": "ko", "order": false, "when": "every", "answer": "둘"}
+{"id": "L010-0046", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 5, "take": 4, "inside": 1, "taught": true, "impossible": "one more"}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0047", "criterion": 3, "kind": "scene -> number", "detail": {"n": 1}, "lang": "en", "order": false, "when": "every", "answer": "one"}
+{"id": "L010-0048", "criterion": 2, "kind": "new word which", "detail": {"exposures": 1, "session": 3, "timing": "right after"}, "lang": "en", "order": false, "when": "after_session_3", "answer": "t10_2941"}
+{"id": "L010-0049", "criterion": 5, "kind": "cross-language what", "detail": {"verb": "put", "rel": "in", "told": "ko", "asked": "en"}, "lang": "ko", "order": false, "when": "every", "answer": "t2_4254"}
+{"id": "L010-0050", "criterion": 7, "kind": "story who", "detail": {"sentences": 4, "verb": "push"}, "lang": "ko", "order": false, "when": "every", "answer": "c0"}
+{"id": "L010-0051", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 7, "take": 0, "inside": 7, "taught": false, "impossible": "one fewer"}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0052", "criterion": 5, "kind": "cross-language what", "detail": {"verb": "put", "rel": "on", "told": "en", "asked": "ko"}, "lang": "en", "order": false, "when": "every", "answer": "t2_4379"}
+{"id": "L010-0053", "criterion": 6, "kind": "contact prediction", "detail": {"area": "contact", "novel": true}, "lang": "en", "order": false, "when": "every", "answer": "B"}
+{"id": "L010-0054", "criterion": 9, "kind": "scene -> word", "detail": {"rel": "under"}, "lang": "en", "order": true, "when": "every", "answer": "under"}
+{"id": "L010-0055", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 8, "take": 6, "inside": 2, "taught": false, "impossible": "one fewer"}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0056", "criterion": 9, "kind": "word -> scene", "detail": {"rel": "under"}, "lang": "ko", "order": false, "when": "every", "answer": "C"}
+{"id": "L010-0057", "criterion": 3, "kind": "number -> scene", "detail": {"n": 4}, "lang": "en", "order": false, "when": "every", "answer": "A"}
+{"id": "L010-0058", "criterion": 0, "kind": "particle (subject)", "detail": {"form": "이"}, "lang": "ko", "order": false, "when": "every", "answer": "이"}
+{"id": "L010-0059", "criterion": 2, "kind": "new word name", "detail": {"exposures": 2, "session": 13, "timing": "right after"}, "lang": "en", "order": false, "when": "after_session_13", "answer": "glatam"}
+{"id": "L010-0060", "criterion": 0, "kind": "particle (object)", "detail": {"form": "를"}, "lang": "ko", "order": false, "when": "every", "answer": "를"}
+{"id": "L010-0061", "criterion": 9, "kind": "event -> word", "detail": {"rel": "on"}, "lang": "ko", "order": false, "when": "every", "answer": "위"}
+{"id": "L010-0062", "criterion": 3, "kind": "number -> scene", "detail": {"n": 6}, "lang": "ko", "order": false, "when": "every", "answer": "C"}
+{"id": "L010-0063", "criterion": 9, "kind": "scene -> word", "detail": {"rel": "on"}, "lang": "en", "order": true, "when": "every", "answer": "on"}
+{"id": "L010-0064", "criterion": 6, "kind": "contact prediction", "detail": {"area": "contact", "novel": false}, "lang": "ko", "order": false, "when": "every", "answer": "B"}
+{"id": "L010-0065", "criterion": 1, "kind": "new combination who", "detail": {"verb": "take", "rel": null, "triple": ["c2", "take", 6]}, "lang": "en", "order": false, "when": "every", "answer": "c2"}
+{"id": "L010-0066", "criterion": 6, "kind": "support pair", "detail": {"area": "support", "novel": true}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0067", "criterion": 5, "kind": "cross-language who", "detail": {"verb": "push", "rel": null, "told": "en", "asked": "ko"}, "lang": "en", "order": false, "when": "every", "answer": "c2"}
+{"id": "L010-0068", "criterion": 1, "kind": "new combination who", "detail": {"verb": "push", "rel": null, "triple": ["c1", "push", 7]}, "lang": "ko", "order": false, "when": "every", "answer": "c1"}
+{"id": "L010-0069", "criterion": 6, "kind": "support prediction", "detail": {"area": "support", "novel": true}, "lang": "ko", "order": false, "when": "every", "answer": "B"}
+{"id": "L010-0070", "criterion": 9, "kind": "event -> word", "detail": {"rel": "on"}, "lang": "en", "order": false, "when": "every", "answer": "on"}
+{"id": "L010-0071", "criterion": 0, "kind": "name (box)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "slebox"}
+{"id": "L010-0072", "criterion": 2, "kind": "new word which", "detail": {"exposures": 1, "session": 3, "timing": "right after"}, "lang": "en", "order": false, "when": "after_session_3", "answer": "t10_2945"}
+{"id": "L010-0073", "criterion": 2, "kind": "new word name", "detail": {"exposures": 8, "session": 7, "timing": "end"}, "lang": "en", "order": false, "when": "end", "answer": "gaid"}
+{"id": "L010-0074", "criterion": 4, "kind": "how many inside", "detail": {"put": 5, "take": 0, "inside": 5, "taught": true}, "lang": "en", "order": false, "when": "every", "answer": "five"}
+{"id": "L010-0075", "criterion": 9, "kind": "event -> word", "detail": {"rel": "on"}, "lang": "en", "order": false, "when": "every", "answer": "on"}
+{"id": "L010-0076", "criterion": 1, "kind": "new combination what", "detail": {"verb": "put", "rel": "in", "triple": ["c2", "put", 0]}, "lang": "ko", "order": false, "when": "every", "answer": "t0_2839"}
+{"id": "L010-0077", "criterion": 2, "kind": "new word which", "detail": {"exposures": 4, "session": 11, "timing": "right after"}, "lang": "ko", "order": false, "when": "after_session_11", "answer": "t15_3054"}
+{"id": "L010-0078", "criterion": 2, "kind": "new word name", "detail": {"exposures": 8, "session": 7, "timing": "end"}, "lang": "en", "order": false, "when": "end", "answer": "gaid"}
+{"id": "L010-0079", "criterion": 2, "kind": "new word which", "detail": {"exposures": 8, "session": 7, "timing": "right after"}, "lang": "en", "order": false, "when": "after_session_7", "answer": "t16_3073"}
+{"id": "L010-0080", "criterion": 8, "kind": "where now", "detail": {"sentences": 6, "long": true, "moves": 2}, "lang": "ko", "order": true, "when": "every", "answer": [1, 1]}
+{"id": "L010-0081", "criterion": 9, "kind": "scene -> word", "detail": {"rel": "on"}, "lang": "en", "order": true, "when": "every", "answer": "on"}
+{"id": "L010-0082", "criterion": 8, "kind": "where before", "detail": {"sentences": 4, "long": false, "moves": 2}, "lang": "en", "order": false, "when": "every", "answer": [1, 1]}
+{"id": "L010-0083", "criterion": 6, "kind": "contact prediction", "detail": {"area": "contact", "novel": false}, "lang": "en", "order": false, "when": "every", "answer": "B"}
+{"id": "L010-0084", "criterion": 8, "kind": "where before", "detail": {"sentences": 4, "long": true, "moves": 3}, "lang": "en", "order": false, "when": "every", "answer": [1, 0]}
+{"id": "L010-0085", "criterion": 6, "kind": "permanence prediction", "detail": {"area": "permanence", "novel": false}, "lang": "ko", "order": false, "when": "every", "answer": "A"}
+{"id": "L010-0086", "criterion": 0, "kind": "particle (object)", "detail": {"form": "을"}, "lang": "ko", "order": false, "when": "every", "answer": "을"}
+{"id": "L010-0087", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "bleglop"}
+{"id": "L010-0088", "criterion": 3, "kind": "next number (report only)", "detail": {"n": 1}, "lang": "en", "order": false, "when": "every", "answer": "two"}
+{"id": "L010-0089", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "녹목"}
+{"id": "L010-0090", "criterion": 3, "kind": "next number (report only)", "detail": {"n": 2}, "lang": "en", "order": false, "when": "every", "answer": "three"}
+{"id": "L010-0091", "criterion": 9, "kind": "scene -> word", "detail": {"rel": "on"}, "lang": "en", "order": true, "when": "every", "answer": "on"}
+{"id": "L010-0092", "criterion": 6, "kind": "permanence prediction", "detail": {"area": "permanence", "novel": true}, "lang": "en", "order": false, "when": "every", "answer": "B"}
+{"id": "L010-0093", "criterion": 7, "kind": "story when", "detail": {"sentences": 2, "verb": "put"}, "lang": "ko", "order": false, "when": "every", "answer": 0}
+{"id": "L010-0094", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 9, "take": 8, "inside": 1, "taught": false, "impossible": "one more"}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0095", "criterion": 2, "kind": "new word which", "detail": {"exposures": 1, "session": 3, "timing": "end"}, "lang": "en", "order": false, "when": "end", "answer": "t10_2954"}
+{"id": "L010-0096", "criterion": 6, "kind": "permanence pair", "detail": {"area": "permanence", "novel": true}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0097", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 4, "take": 2, "inside": 2, "taught": false, "impossible": "one more"}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0098", "criterion": 1, "kind": "new combination who", "detail": {"verb": "put", "rel": "in", "triple": ["c2", "put", 4]}, "lang": "ko", "order": false, "when": "every", "answer": "c2"}
+{"id": "L010-0099", "criterion": 3, "kind": "scene -> number", "detail": {"n": 4}, "lang": "ko", "order": false, "when": "every", "answer": "넷"}
+{"id": "L010-0100", "criterion": 8, "kind": "where now", "detail": {"sentences": 2, "long": false, "moves": 2}, "lang": "ko", "order": false, "when": "every", "answer": [1, 1]}
+{"id": "L010-0101", "criterion": 6, "kind": "permanence pair", "detail": {"area": "permanence", "novel": true}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0102", "criterion": 3, "kind": "next number (report only)", "detail": {"n": 6}, "lang": "en", "order": false, "when": "every", "answer": "seven"}
+{"id": "L010-0103", "criterion": 2, "kind": "new word which", "detail": {"exposures": 2, "session": 13, "timing": "end"}, "lang": "en", "order": false, "when": "end", "answer": "t12_3004"}
+{"id": "L010-0104", "criterion": 3, "kind": "scene -> number", "detail": {"n": 5}, "lang": "en", "order": false, "when": "every", "answer": "five"}
+{"id": "L010-0105", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 8, "take": 7, "inside": 1, "taught": false, "impossible": "one more"}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0106", "criterion": 3, "kind": "scene -> number", "detail": {"n": 6}, "lang": "en", "order": false, "when": "every", "answer": "six"}
+{"id": "L010-0107", "criterion": 9, "kind": "word -> scene", "detail": {"rel": "on"}, "lang": "ko", "order": true, "when": "every", "answer": "C"}
+{"id": "L010-0108", "criterion": 1, "kind": "new combination where", "detail": {"verb": "take", "rel": null, "triple": ["c2", "take", 6]}, "lang": "en", "order": false, "when": "every", "answer": [2, 1]}
+{"id": "L010-0109", "criterion": 5, "kind": "cross-language what", "detail": {"verb": "take", "rel": null, "told": "ko", "asked": "en"}, "lang": "ko", "order": false, "when": "every", "answer": "t0_4284"}
+{"id": "L010-0110", "criterion": 1, "kind": "new combination who", "detail": {"verb": "put", "rel": "on", "triple": ["c2", "put", 0]}, "lang": "en", "order": false, "when": "every", "answer": "c2"}
+{"id": "L010-0111", "criterion": 1, "kind": "new combination who", "detail": {"verb": "push", "rel": null, "triple": ["c1", "push", 7]}, "lang": "ko", "order": false, "when": "every", "answer": "c1"}
+{"id": "L010-0112", "criterion": 0, "kind": "particle (direction)", "detail": {"form": "로"}, "lang": "ko", "order": false, "when": "every", "answer": "로"}
+{"id": "L010-0113", "criterion": 3, "kind": "scene -> number", "detail": {"n": 8}, "lang": "ko", "order": false, "when": "every", "answer": "여덟"}
+{"id": "L010-0114", "criterion": 7, "kind": "story where", "detail": {"sentences": 2, "verb": "put"}, "lang": "ko", "order": true, "when": "every", "answer": [3, 1]}
+{"id": "L010-0115", "criterion": 0, "kind": "name (person)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "우털"}
+{"id": "L010-0116", "criterion": 7, "kind": "story what", "detail": {"sentences": 2, "verb": "put"}, "lang": "ko", "order": false, "when": "every", "answer": "t3_4661"}
+{"id": "L010-0117", "criterion": 3, "kind": "scene -> number", "detail": {"n": 10}, "lang": "en", "order": false, "when": "every", "answer": "ten"}
+{"id": "L010-0118", "criterion": 2, "kind": "new word which", "detail": {"exposures": 8, "session": 7, "timing": "right after"}, "lang": "en", "order": false, "when": "after_session_7", "answer": "t16_3081"}
+{"id": "L010-0119", "criterion": 2, "kind": "new word name", "detail": {"exposures": 8, "session": 11, "timing": "end"}, "lang": "en", "order": false, "when": "end", "answer": "gatroog"}
+{"id": "L010-0120", "criterion": 6, "kind": "solidity pair", "detail": {"area": "solidity", "novel": true}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0121", "criterion": 0, "kind": "name (person)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "믐그"}
+{"id": "L010-0122", "criterion": 3, "kind": "number -> scene", "detail": {"n": 8}, "lang": "en", "order": false, "when": "every", "answer": "A"}
+{"id": "L010-0123", "criterion": 3, "kind": "scene -> number", "detail": {"n": 9}, "lang": "en", "order": false, "when": "every", "answer": "nine"}
+{"id": "L010-0124", "criterion": 6, "kind": "solidity pair", "detail": {"area": "solidity", "novel": false}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0125", "criterion": 8, "kind": "where now", "detail": {"sentences": 6, "long": true, "moves": 2}, "lang": "en", "order": true, "when": "every", "answer": [3, 1]}
+{"id": "L010-0126", "criterion": 1, "kind": "new combination who", "detail": {"verb": "take", "rel": null, "triple": ["c3", "take", 0]}, "lang": "en", "order": false, "when": "every", "answer": "c3"}
+{"id": "L010-0127", "criterion": 2, "kind": "new word which", "detail": {"exposures": 2, "session": 6, "timing": "end"}, "lang": "ko", "order": false, "when": "end", "answer": "t13_3023"}
+{"id": "L010-0128", "criterion": 6, "kind": "permanence prediction", "detail": {"area": "permanence", "novel": true}, "lang": "ko", "order": false, "when": "every", "answer": "C"}
+{"id": "L010-0129", "criterion": 2, "kind": "new word name", "detail": {"exposures": 1, "session": 12, "timing": "right after"}, "lang": "ko", "order": false, "when": "after_session_12", "answer": "즈큼"}
+{"id": "L010-0130", "criterion": 6, "kind": "contact prediction", "detail": {"area": "contact", "novel": false}, "lang": "ko", "order": false, "when": "every", "answer": "A"}
+{"id": "L010-0131", "criterion": 7, "kind": "story when", "detail": {"sentences": 4, "verb": "put"}, "lang": "en", "order": false, "when": "every", "answer": 1}
+{"id": "L010-0132", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 9, "take": 1, "inside": 8, "taught": false, "impossible": "one more"}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0133", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 1, "take": 0, "inside": 1, "taught": true, "impossible": "one more"}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0134", "criterion": 6, "kind": "solidity prediction", "detail": {"area": "solidity", "novel": true}, "lang": "en", "order": false, "when": "every", "answer": "B"}
+{"id": "L010-0135", "criterion": 3, "kind": "next number (report only)", "detail": {"n": 1}, "lang": "ko", "order": false, "when": "every", "answer": "둘"}
+{"id": "L010-0136", "criterion": 2, "kind": "new word which", "detail": {"exposures": 1, "session": 12, "timing": "end"}, "lang": "ko", "order": false, "when": "end", "answer": "t11_2982"}
+{"id": "L010-0137", "criterion": 4, "kind": "how many inside", "detail": {"put": 2, "take": 0, "inside": 2, "taught": true}, "lang": "en", "order": false, "when": "every", "answer": "two"}
+{"id": "L010-0138", "criterion": 1, "kind": "new combination who", "detail": {"verb": "put", "rel": "in", "triple": ["c2", "put", 0]}, "lang": "en", "order": false, "when": "every", "answer": "c2"}
+{"id": "L010-0139", "criterion": 0, "kind": "particle (subject)", "detail": {"form": "이"}, "lang": "ko", "order": false, "when": "every", "answer": "이"}
+{"id": "L010-0140", "criterion": 3, "kind": "number -> scene", "detail": {"n": 7}, "lang": "en", "order": false, "when": "every", "answer": "D"}
+{"id": "L010-0141", "criterion": 5, "kind": "cross-language what", "detail": {"verb": "push", "rel": null, "told": "en", "asked": "ko"}, "lang": "en", "order": false, "when": "every", "answer": "t2_4376"}
+{"id": "L010-0142", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 6, "take": 4, "inside": 2, "taught": false, "impossible": "one fewer"}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0143", "criterion": 4, "kind": "how many inside", "detail": {"put": 8, "take": 5, "inside": 3, "taught": false}, "lang": "ko", "order": false, "when": "every", "answer": "셋"}
+{"id": "L010-0144", "criterion": 7, "kind": "story where", "detail": {"sentences": 4, "verb": "put"}, "lang": "en", "order": true, "when": "every", "answer": [4, 0]}
+{"id": "L010-0145", "criterion": 3, "kind": "scene -> number", "detail": {"n": 1}, "lang": "en", "order": false, "when": "every", "answer": "one"}
+{"id": "L010-0146", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "프패"}
+{"id": "L010-0147", "criterion": 9, "kind": "word -> scene", "detail": {"rel": "beside"}, "lang": "ko", "order": false, "when": "every", "answer": "A"}
+{"id": "L010-0148", "criterion": 7, "kind": "story who", "detail": {"sentences": 4, "verb": "put"}, "lang": "en", "order": true, "when": "every", "answer": "c1"}
+{"id": "L010-0149", "criterion": 3, "kind": "number -> scene", "detail": {"n": 3}, "lang": "ko", "order": false, "when": "every", "answer": "C"}
+{"id": "L010-0150", "criterion": 2, "kind": "new word which", "detail": {"exposures": 8, "session": 11, "timing": "right after"}, "lang": "en", "order": false, "when": "after_session_11", "answer": "t17_3098"}
+{"id": "L010-0151", "criterion": 1, "kind": "new combination who", "detail": {"verb": "take", "rel": null, "triple": ["c2", "take", 6]}, "lang": "en", "order": false, "when": "every", "answer": "c2"}
+{"id": "L010-0152", "criterion": 0, "kind": "name (person)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "릴프"}
+{"id": "L010-0153", "criterion": 7, "kind": "story when", "detail": {"sentences": 4, "verb": "push"}, "lang": "ko", "order": false, "when": "every", "answer": 3}
+{"id": "L010-0154", "criterion": 5, "kind": "cross-language who", "detail": {"verb": "take", "rel": null, "told": "en", "asked": "ko"}, "lang": "en", "order": false, "when": "every", "answer": "c1"}
+{"id": "L010-0155", "criterion": 7, "kind": "story what", "detail": {"sentences": 2, "verb": "put"}, "lang": "ko", "order": false, "when": "every", "answer": "t7_4656"}
+{"id": "L010-0156", "criterion": 1, "kind": "new combination who", "detail": {"verb": "put", "rel": "in", "triple": ["c1", "put", 3]}, "lang": "ko", "order": false, "when": "every", "answer": "c1"}
+{"id": "L010-0157", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "gaipram"}
+{"id": "L010-0158", "criterion": 9, "kind": "word -> scene", "detail": {"rel": "under"}, "lang": "en", "order": true, "when": "every", "answer": "A"}
+{"id": "L010-0159", "criterion": 6, "kind": "permanence prediction", "detail": {"area": "permanence", "novel": true}, "lang": "ko", "order": false, "when": "every", "answer": "B"}
+{"id": "L010-0160", "criterion": 9, "kind": "event -> word", "detail": {"rel": "in"}, "lang": "en", "order": false, "when": "every", "answer": "in"}
+{"id": "L010-0161", "criterion": 6, "kind": "permanence prediction", "detail": {"area": "permanence", "novel": true}, "lang": "ko", "order": false, "when": "every", "answer": "A"}
+{"id": "L010-0162", "criterion": 6, "kind": "permanence prediction", "detail": {"area": "permanence", "novel": false}, "lang": "en", "order": false, "when": "every", "answer": "B"}
+{"id": "L010-0163", "criterion": 4, "kind": "how many inside", "detail": {"put": 7, "take": 2, "inside": 5, "taught": false}, "lang": "en", "order": false, "when": "every", "answer": "five"}
+{"id": "L010-0164", "criterion": 2, "kind": "new word which", "detail": {"exposures": 2, "session": 13, "timing": "end"}, "lang": "en", "order": false, "when": "end", "answer": "t12_2998"}
+{"id": "L010-0165", "criterion": 5, "kind": "cross-language where", "detail": {"verb": "take", "rel": null, "told": "en", "asked": "ko"}, "lang": "en", "order": false, "when": "every", "answer": [1, 1]}
+{"id": "L010-0166", "criterion": 2, "kind": "new word name", "detail": {"exposures": 8, "session": 11, "timing": "right after"}, "lang": "en", "order": false, "when": "after_session_11", "answer": "gatroog"}
+{"id": "L010-0167", "criterion": 4, "kind": "how many inside", "detail": {"put": 10, "take": 3, "inside": 7, "taught": false}, "lang": "en", "order": false, "when": "every", "answer": "seven"}
+{"id": "L010-0168", "criterion": 4, "kind": "how many inside", "detail": {"put": 4, "take": 2, "inside": 2, "taught": false}, "lang": "en", "order": false, "when": "every", "answer": "two"}
+{"id": "L010-0169", "criterion": 9, "kind": "scene -> word", "detail": {"rel": "under"}, "lang": "en", "order": true, "when": "every", "answer": "under"}
+{"id": "L010-0170", "criterion": 0, "kind": "name (box)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "slebox"}
+{"id": "L010-0171", "criterion": 3, "kind": "next number (report only)", "detail": {"n": 3}, "lang": "en", "order": false, "when": "every", "answer": "four"}
+{"id": "L010-0172", "criterion": 6, "kind": "support prediction", "detail": {"area": "support", "novel": false}, "lang": "ko", "order": false, "when": "every", "answer": "C"}
+{"id": "L010-0173", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "glil"}
+{"id": "L010-0174", "criterion": 5, "kind": "cross-language who", "detail": {"verb": "push", "rel": null, "told": "ko", "asked": "en"}, "lang": "ko", "order": false, "when": "every", "answer": "c1"}
+{"id": "L010-0175", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "gaipram"}
+{"id": "L010-0176", "criterion": 3, "kind": "scene -> number", "detail": {"n": 6}, "lang": "en", "order": false, "when": "every", "answer": "six"}
+{"id": "L010-0177", "criterion": 9, "kind": "word -> scene", "detail": {"rel": "on"}, "lang": "ko", "order": false, "when": "every", "answer": "A"}
+{"id": "L010-0178", "criterion": 9, "kind": "scene -> word", "detail": {"rel": "under"}, "lang": "ko", "order": true, "when": "every", "answer": "아래"}
+{"id": "L010-0179", "criterion": 6, "kind": "support pair", "detail": {"area": "support", "novel": false}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0180", "criterion": 4, "kind": "how many inside", "detail": {"put": 5, "take": 1, "inside": 4, "taught": true}, "lang": "ko", "order": false, "when": "every", "answer": "넷"}
+{"id": "L010-0181", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 2, "take": 0, "inside": 2, "taught": true, "impossible": "one fewer"}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0182", "criterion": 5, "kind": "cross-language who", "detail": {"verb": "put", "rel": "on", "told": "en", "asked": "ko"}, "lang": "en", "order": false, "when": "every", "answer": "c2"}
+{"id": "L010-0183", "criterion": 1, "kind": "new combination where", "detail": {"verb": "push", "rel": null, "triple": ["c1", "push", 7]}, "lang": "en", "order": false, "when": "every", "answer": [2, 0]}
+{"id": "L010-0184", "criterion": 1, "kind": "new combination what", "detail": {"verb": "take", "rel": null, "triple": ["c2", "take", 6]}, "lang": "ko", "order": false, "when": "every", "answer": "t6_2876"}
+{"id": "L010-0185", "criterion": 6, "kind": "support pair", "detail": {"area": "support", "novel": true}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0186", "criterion": 3, "kind": "next number (report only)", "detail": {"n": 8}, "lang": "en", "order": false, "when": "every", "answer": "nine"}
+{"id": "L010-0187", "criterion": 2, "kind": "new word which", "detail": {"exposures": 4, "session": 2, "timing": "right after"}, "lang": "ko", "order": false, "when": "after_session_2", "answer": "t14_3033"}
+{"id": "L010-0188", "criterion": 6, "kind": "support prediction", "detail": {"area": "support", "novel": false}, "lang": "en", "order": false, "when": "every", "answer": "B"}
+{"id": "L010-0189", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "피파"}
+{"id": "L010-0190", "criterion": 3, "kind": "scene -> number", "detail": {"n": 7}, "lang": "ko", "order": false, "when": "every", "answer": "일곱"}
+{"id": "L010-0191", "criterion": 7, "kind": "story who", "detail": {"sentences": 3, "verb": "put"}, "lang": "en", "order": false, "when": "every", "answer": "c3"}
+{"id": "L010-0192", "criterion": 0, "kind": "name (box)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "웅리"}
+{"id": "L010-0193", "criterion": 1, "kind": "new combination what", "detail": {"verb": "take", "rel": null, "triple": ["c3", "take", 0]}, "lang": "en", "order": false, "when": "every", "answer": "t0_2923"}
+{"id": "L010-0194", "criterion": 5, "kind": "cross-language what", "detail": {"verb": "take", "rel": null, "told": "ko", "asked": "en"}, "lang": "ko", "order": false, "when": "every", "answer": "t3_4276"}
+{"id": "L010-0195", "criterion": 9, "kind": "scene -> word", "detail": {"rel": "beside"}, "lang": "en", "order": false, "when": "every", "answer": "beside"}
+{"id": "L010-0196", "criterion": 7, "kind": "story where", "detail": {"sentences": 2, "verb": "put"}, "lang": "ko", "order": true, "when": "every", "answer": [4, 1]}
+{"id": "L010-0197", "criterion": 6, "kind": "permanence pair", "detail": {"area": "permanence", "novel": false}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0198", "criterion": 3, "kind": "scene -> number", "detail": {"n": 8}, "lang": "en", "order": false, "when": "every", "answer": "eight"}
+{"id": "L010-0199", "criterion": 2, "kind": "new word which", "detail": {"exposures": 2, "session": 6, "timing": "right after"}, "lang": "ko", "order": false, "when": "after_session_6", "answer": "t13_3009"}
+{"id": "L010-0200", "criterion": 9, "kind": "word -> scene", "detail": {"rel": "beside"}, "lang": "en", "order": false, "when": "every", "answer": "C"}
+{"id": "L010-0201", "criterion": 3, "kind": "scene -> number", "detail": {"n": 5}, "lang": "ko", "order": false, "when": "every", "answer": "다섯"}
+{"id": "L010-0202", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 3, "take": 0, "inside": 3, "taught": true, "impossible": "one more"}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0203", "criterion": 2, "kind": "new word which", "detail": {"exposures": 1, "session": 3, "timing": "end"}, "lang": "en", "order": false, "when": "end", "answer": "t10_2960"}
+{"id": "L010-0204", "criterion": 7, "kind": "story who", "detail": {"sentences": 3, "verb": "put"}, "lang": "ko", "order": false, "when": "every", "answer": "c3"}
+{"id": "L010-0205", "criterion": 7, "kind": "story who", "detail": {"sentences": 4, "verb": "put"}, "lang": "en", "order": false, "when": "every", "answer": "c1"}
+{"id": "L010-0206", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "렝네"}
+{"id": "L010-0207", "criterion": 6, "kind": "solidity pair", "detail": {"area": "solidity", "novel": false}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0208", "criterion": 3, "kind": "scene -> number", "detail": {"n": 5}, "lang": "ko", "order": false, "when": "every", "answer": "다섯"}
+{"id": "L010-0209", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 2, "take": 0, "inside": 2, "taught": true, "impossible": "one more"}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0210", "criterion": 1, "kind": "new combination what", "detail": {"verb": "put", "rel": "in", "triple": ["c2", "put", 4]}, "lang": "en", "order": false, "when": "every", "answer": "t4_2868"}
+{"id": "L010-0211", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 7, "take": 5, "inside": 2, "taught": false, "impossible": "one fewer"}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0212", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 10, "take": 5, "inside": 5, "taught": false, "impossible": "one fewer"}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0213", "criterion": 3, "kind": "next number (report only)", "detail": {"n": 5}, "lang": "ko", "order": false, "when": "every", "answer": "여섯"}
+{"id": "L010-0214", "criterion": 6, "kind": "solidity prediction", "detail": {"area": "solidity", "novel": true}, "lang": "en", "order": false, "when": "every", "answer": "C"}
+{"id": "L010-0215", "criterion": 4, "kind": "how many inside", "detail": {"put": 5, "take": 4, "inside": 1, "taught": true}, "lang": "en", "order": false, "when": "every", "answer": "one"}
+{"id": "L010-0216", "criterion": 0, "kind": "name (box)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "동골"}
+{"id": "L010-0217", "criterion": 1, "kind": "new combination what", "detail": {"verb": "push", "rel": null, "triple": ["c1", "push", 7]}, "lang": "ko", "order": false, "when": "every", "answer": "t7_2555"}
+{"id": "L010-0218", "criterion": 5, "kind": "cross-language who", "detail": {"verb": "push", "rel": null, "told": "ko", "asked": "en"}, "lang": "ko", "order": false, "when": "every", "answer": "c0"}
+{"id": "L010-0219", "criterion": 8, "kind": "where now", "detail": {"sentences": 6, "long": true, "moves": 3}, "lang": "en", "order": true, "when": "every", "answer": [3, 1]}
+{"id": "L010-0220", "criterion": 9, "kind": "scene -> word", "detail": {"rel": "on"}, "lang": "ko", "order": false, "when": "every", "answer": "위"}
+{"id": "L010-0221", "criterion": 7, "kind": "story when", "detail": {"sentences": 2, "verb": "put"}, "lang": "en", "order": false, "when": "every", "answer": 0}
+{"id": "L010-0222", "criterion": 5, "kind": "cross-language where", "detail": {"verb": "take", "rel": null, "told": "ko", "asked": "en"}, "lang": "ko", "order": false, "when": "every", "answer": [1, 2]}
+{"id": "L010-0223", "criterion": 6, "kind": "support prediction", "detail": {"area": "support", "novel": true}, "lang": "en", "order": false, "when": "every", "answer": "A"}
+{"id": "L010-0224", "criterion": 8, "kind": "where before", "detail": {"sentences": 6, "long": true, "moves": 2}, "lang": "en", "order": true, "when": "every", "answer": [0, 1]}
+{"id": "L010-0225", "criterion": 0, "kind": "name (person)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "우털"}
+{"id": "L010-0226", "criterion": 3, "kind": "scene -> number", "detail": {"n": 7}, "lang": "ko", "order": false, "when": "every", "answer": "일곱"}
+{"id": "L010-0227", "criterion": 7, "kind": "story when", "detail": {"sentences": 2, "verb": "put"}, "lang": "en", "order": false, "when": "every", "answer": 1}
+{"id": "L010-0228", "criterion": 2, "kind": "new word which", "detail": {"exposures": 4, "session": 2, "timing": "end"}, "lang": "ko", "order": false, "when": "end", "answer": "t14_3048"}
+{"id": "L010-0229", "criterion": 0, "kind": "name (person)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "첸독"}
+{"id": "L010-0230", "criterion": 5, "kind": "cross-language where", "detail": {"verb": "put", "rel": "on", "told": "en", "asked": "ko"}, "lang": "en", "order": true, "when": "every", "answer": [1, 1]}
+{"id": "L010-0231", "criterion": 5, "kind": "cross-language where", "detail": {"verb": "push", "rel": null, "told": "ko", "asked": "en"}, "lang": "ko", "order": false, "when": "every", "answer": [4, 0]}
+{"id": "L010-0232", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "산헝"}
+{"id": "L010-0233", "criterion": 2, "kind": "new word which", "detail": {"exposures": 1, "session": 12, "timing": "end"}, "lang": "ko", "order": false, "when": "end", "answer": "t11_2974"}
+{"id": "L010-0234", "criterion": 3, "kind": "scene -> number", "detail": {"n": 9}, "lang": "en", "order": false, "when": "every", "answer": "nine"}
+{"id": "L010-0235", "criterion": 6, "kind": "solidity pair", "detail": {"area": "solidity", "novel": true}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0236", "criterion": 3, "kind": "number -> scene", "detail": {"n": 4}, "lang": "ko", "order": false, "when": "every", "answer": "A"}
+{"id": "L010-0237", "criterion": 1, "kind": "new combination where", "detail": {"verb": "put", "rel": "on", "triple": ["c1", "put", 3]}, "lang": "en", "order": true, "when": "every", "answer": [2, 1]}
+{"id": "L010-0238", "criterion": 1, "kind": "new combination what", "detail": {"verb": "take", "rel": null, "triple": ["c2", "take", 6]}, "lang": "ko", "order": false, "when": "every", "answer": "t6_2871"}
+{"id": "L010-0239", "criterion": 2, "kind": "new word which", "detail": {"exposures": 2, "session": 13, "timing": "right after"}, "lang": "en", "order": false, "when": "after_session_13", "answer": "t12_2990"}
+{"id": "L010-0240", "criterion": 3, "kind": "scene -> number", "detail": {"n": 3}, "lang": "ko", "order": false, "when": "every", "answer": "셋"}
+{"id": "L010-0241", "criterion": 3, "kind": "scene -> number", "detail": {"n": 2}, "lang": "en", "order": false, "when": "every", "answer": "two"}
+{"id": "L010-0242", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "정바"}
+{"id": "L010-0243", "criterion": 7, "kind": "story when", "detail": {"sentences": 4, "verb": "put"}, "lang": "en", "order": false, "when": "every", "answer": 0}
+{"id": "L010-0244", "criterion": 7, "kind": "story when", "detail": {"sentences": 3, "verb": "put"}, "lang": "en", "order": false, "when": "every", "answer": 0}
+{"id": "L010-0245", "criterion": 0, "kind": "particle (subject)", "detail": {"form": "이"}, "lang": "ko", "order": false, "when": "every", "answer": "이"}
+{"id": "L010-0246", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 10, "take": 8, "inside": 2, "taught": false, "impossible": "one more"}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0247", "criterion": 3, "kind": "scene -> number", "detail": {"n": 10}, "lang": "en", "order": false, "when": "every", "answer": "ten"}
+{"id": "L010-0248", "criterion": 6, "kind": "permanence pair", "detail": {"area": "permanence", "novel": false}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0249", "criterion": 1, "kind": "new combination who", "detail": {"verb": "put", "rel": "on", "triple": ["c2", "put", 0]}, "lang": "ko", "order": false, "when": "every", "answer": "c2"}
+{"id": "L010-0250", "criterion": 1, "kind": "new combination who", "detail": {"verb": "put", "rel": "in", "triple": ["c2", "put", 0]}, "lang": "ko", "order": false, "when": "every", "answer": "c2"}
+{"id": "L010-0251", "criterion": 9, "kind": "word -> scene", "detail": {"rel": "on"}, "lang": "en", "order": true, "when": "every", "answer": "C"}
+{"id": "L010-0252", "criterion": 8, "kind": "where now", "detail": {"sentences": 4, "long": false, "moves": 2}, "lang": "en", "order": true, "when": "every", "answer": [0, 1]}
+{"id": "L010-0253", "criterion": 0, "kind": "particle (object)", "detail": {"form": "를"}, "lang": "ko", "order": false, "when": "every", "answer": "를"}
+{"id": "L010-0254", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "산헝"}
+{"id": "L010-0255", "criterion": 2, "kind": "new word which", "detail": {"exposures": 2, "session": 6, "timing": "end"}, "lang": "ko", "order": false, "when": "end", "answer": "t13_3018"}
+{"id": "L010-0256", "criterion": 2, "kind": "new word which", "detail": {"exposures": 4, "session": 11, "timing": "end"}, "lang": "ko", "order": false, "when": "end", "answer": "t15_3063"}
+{"id": "L010-0257", "criterion": 2, "kind": "new word which", "detail": {"exposures": 1, "session": 12, "timing": "right after"}, "lang": "ko", "order": false, "when": "after_session_12", "answer": "t11_2969"}
+{"id": "L010-0258", "criterion": 4, "kind": "how many inside", "detail": {"put": 4, "take": 1, "inside": 3, "taught": true}, "lang": "ko", "order": false, "when": "every", "answer": "셋"}
+{"id": "L010-0259", "criterion": 3, "kind": "next number (report only)", "detail": {"n": 7}, "lang": "ko", "order": false, "when": "every", "answer": "여덟"}
+{"id": "L010-0260", "criterion": 0, "kind": "name (person)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "첸독"}
+{"id": "L010-0261", "criterion": 2, "kind": "new word name", "detail": {"exposures": 4, "session": 11, "timing": "right after"}, "lang": "ko", "order": false, "when": "after_session_11", "answer": "농통"}
+{"id": "L010-0262", "criterion": 1, "kind": "new combination where", "detail": {"verb": "take", "rel": null, "triple": ["c3", "take", 0]}, "lang": "en", "order": false, "when": "every", "answer": [1, 0]}
+{"id": "L010-0263", "criterion": 1, "kind": "new combination where", "detail": {"verb": "take", "rel": null, "triple": ["c2", "take", 6]}, "lang": "ko", "order": false, "when": "every", "answer": [2, 1]}
+{"id": "L010-0264", "criterion": 1, "kind": "new combination where", "detail": {"verb": "take", "rel": null, "triple": ["c2", "take", 6]}, "lang": "ko", "order": false, "when": "every", "answer": [2, 1]}
+{"id": "L010-0265", "criterion": 6, "kind": "permanence prediction", "detail": {"area": "permanence", "novel": true}, "lang": "en", "order": false, "when": "every", "answer": "C"}
+{"id": "L010-0266", "criterion": 3, "kind": "scene -> number", "detail": {"n": 4}, "lang": "ko", "order": false, "when": "every", "answer": "넷"}
+{"id": "L010-0267", "criterion": 7, "kind": "story where", "detail": {"sentences": 4, "verb": "push"}, "lang": "ko", "order": false, "when": "every", "answer": [2, 0]}
+{"id": "L010-0268", "criterion": 2, "kind": "new word which", "detail": {"exposures": 2, "session": 13, "timing": "right after"}, "lang": "en", "order": false, "when": "after_session_13", "answer": "t12_2992"}
+{"id": "L010-0269", "criterion": 1, "kind": "new combination who", "detail": {"verb": "put", "rel": "on", "triple": ["c1", "put", 3]}, "lang": "ko", "order": false, "when": "every", "answer": "c1"}
+{"id": "L010-0270", "criterion": 6, "kind": "permanence pair", "detail": {"area": "permanence", "novel": true}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0271", "criterion": 2, "kind": "new word name", "detail": {"exposures": 4, "session": 2, "timing": "end"}, "lang": "ko", "order": false, "when": "end", "answer": "코넹"}
+{"id": "L010-0272", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "ket"}
+{"id": "L010-0273", "criterion": 0, "kind": "particle (object)", "detail": {"form": "를"}, "lang": "ko", "order": false, "when": "every", "answer": "를"}
+{"id": "L010-0274", "criterion": 0, "kind": "name (person)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "우털"}
+{"id": "L010-0275", "criterion": 6, "kind": "support pair", "detail": {"area": "support", "novel": false}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0276", "criterion": 7, "kind": "story when", "detail": {"sentences": 3, "verb": "put"}, "lang": "ko", "order": false, "when": "every", "answer": 1}
+{"id": "L010-0277", "criterion": 2, "kind": "new word which", "detail": {"exposures": 8, "session": 11, "timing": "right after"}, "lang": "en", "order": false, "when": "after_session_11", "answer": "t17_3103"}
+{"id": "L010-0278", "criterion": 3, "kind": "scene -> number", "detail": {"n": 1}, "lang": "ko", "order": false, "when": "every", "answer": "하나"}
+{"id": "L010-0279", "criterion": 3, "kind": "scene -> number", "detail": {"n": 4}, "lang": "en", "order": false, "when": "every", "answer": "four"}
+{"id": "L010-0280", "criterion": 7, "kind": "story what", "detail": {"sentences": 4, "verb": "put"}, "lang": "en", "order": false, "when": "every", "answer": "t1_4680"}
+{"id": "L010-0281", "criterion": 3, "kind": "number -> scene", "detail": {"n": 9}, "lang": "ko", "order": false, "when": "every", "answer": "C"}
+{"id": "L010-0282", "criterion": 7, "kind": "story where", "detail": {"sentences": 2, "verb": "put"}, "lang": "en", "order": true, "when": "every", "answer": [2, 0]}
+{"id": "L010-0283", "criterion": 6, "kind": "contact prediction", "detail": {"area": "contact", "novel": false}, "lang": "ko", "order": false, "when": "every", "answer": "B"}
+{"id": "L010-0284", "criterion": 7, "kind": "story where", "detail": {"sentences": 2, "verb": "put"}, "lang": "en", "order": true, "when": "every", "answer": [4, 1]}
+{"id": "L010-0285", "criterion": 0, "kind": "name (person)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "릴프"}
+{"id": "L010-0286", "criterion": 6, "kind": "permanence prediction", "detail": {"area": "permanence", "novel": true}, "lang": "en", "order": false, "when": "every", "answer": "B"}
+{"id": "L010-0287", "criterion": 0, "kind": "name (box)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "teesk"}
+{"id": "L010-0288", "criterion": 2, "kind": "new word name", "detail": {"exposures": 1, "session": 3, "timing": "right after"}, "lang": "en", "order": false, "when": "after_session_3", "answer": "gadral"}
+{"id": "L010-0289", "criterion": 6, "kind": "contact pair", "detail": {"area": "contact", "novel": false}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0290", "criterion": 1, "kind": "new combination what", "detail": {"verb": "push", "rel": null, "triple": ["c1", "push", 7]}, "lang": "en", "order": false, "when": "every", "answer": "t7_2796"}
+{"id": "L010-0291", "criterion": 5, "kind": "cross-language what", "detail": {"verb": "put", "rel": "on", "told": "ko", "asked": "en"}, "lang": "ko", "order": false, "when": "every", "answer": "t5_4242"}
+{"id": "L010-0292", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "glil"}
+{"id": "L010-0293", "criterion": 2, "kind": "new word which", "detail": {"exposures": 2, "session": 6, "timing": "right after"}, "lang": "ko", "order": false, "when": "after_session_6", "answer": "t13_3012"}
+{"id": "L010-0294", "criterion": 6, "kind": "permanence pair", "detail": {"area": "permanence", "novel": true}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0295", "criterion": 9, "kind": "event -> word", "detail": {"rel": "in"}, "lang": "ko", "order": false, "when": "every", "answer": "안"}
+{"id": "L010-0296", "criterion": 2, "kind": "new word which", "detail": {"exposures": 4, "session": 11, "timing": "right after"}, "lang": "ko", "order": false, "when": "after_session_11", "answer": "t15_3058"}
+{"id": "L010-0297", "criterion": 1, "kind": "new combination where", "detail": {"verb": "put", "rel": "on", "triple": ["c1", "put", 3]}, "lang": "ko", "order": false, "when": "every", "answer": [3, 1]}
+{"id": "L010-0298", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "수투"}
+{"id": "L010-0299", "criterion": 5, "kind": "cross-language where", "detail": {"verb": "put", "rel": "on", "told": "ko", "asked": "en"}, "lang": "ko", "order": true, "when": "every", "answer": [3, 1]}
+{"id": "L010-0300", "criterion": 2, "kind": "new word name", "detail": {"exposures": 8, "session": 11, "timing": "right after"}, "lang": "en", "order": false, "when": "after_session_11", "answer": "gatroog"}
+{"id": "L010-0301", "criterion": 2, "kind": "new word which", "detail": {"exposures": 1, "session": 12, "timing": "right after"}, "lang": "ko", "order": false, "when": "after_session_12", "answer": "t11_2964"}
+{"id": "L010-0302", "criterion": 2, "kind": "new word which", "detail": {"exposures": 4, "session": 2, "timing": "right after"}, "lang": "ko", "order": false, "when": "after_session_2", "answer": "t14_3035"}
+{"id": "L010-0303", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "수투"}
+{"id": "L010-0304", "criterion": 3, "kind": "scene -> number", "detail": {"n": 1}, "lang": "ko", "order": false, "when": "every", "answer": "하나"}
+{"id": "L010-0305", "criterion": 5, "kind": "cross-language who", "detail": {"verb": "put", "rel": "on", "told": "ko", "asked": "en"}, "lang": "ko", "order": false, "when": "every", "answer": "c1"}
+{"id": "L010-0306", "criterion": 1, "kind": "new combination where", "detail": {"verb": "push", "rel": null, "triple": ["c1", "push", 7]}, "lang": "ko", "order": false, "when": "every", "answer": [4, 0]}
+{"id": "L010-0307", "criterion": 1, "kind": "new combination what", "detail": {"verb": "take", "rel": null, "triple": ["c2", "take", 6]}, "lang": "en", "order": false, "when": "every", "answer": "t6_2886"}
+{"id": "L010-0308", "criterion": 5, "kind": "cross-language where", "detail": {"verb": "put", "rel": "on", "told": "ko", "asked": "en"}, "lang": "ko", "order": true, "when": "every", "answer": [2, 1]}
+{"id": "L010-0309", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 4, "take": 1, "inside": 3, "taught": true, "impossible": "one more"}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0310", "criterion": 8, "kind": "where before", "detail": {"sentences": 2, "long": false, "moves": 2}, "lang": "ko", "order": false, "when": "every", "answer": [0, 1]}
+{"id": "L010-0311", "criterion": 3, "kind": "scene -> number", "detail": {"n": 2}, "lang": "ko", "order": false, "when": "every", "answer": "둘"}
+{"id": "L010-0312", "criterion": 6, "kind": "solidity prediction", "detail": {"area": "solidity", "novel": false}, "lang": "en", "order": false, "when": "every", "answer": "C"}
+{"id": "L010-0313", "criterion": 0, "kind": "name (box)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "slebox"}
+{"id": "L010-0314", "criterion": 3, "kind": "next number (report only)", "detail": {"n": 3}, "lang": "ko", "order": false, "when": "every", "answer": "넷"}
+{"id": "L010-0315", "criterion": 0, "kind": "particle (object)", "detail": {"form": "를"}, "lang": "ko", "order": false, "when": "every", "answer": "를"}
+{"id": "L010-0316", "criterion": 3, "kind": "scene -> number", "detail": {"n": 10}, "lang": "ko", "order": false, "when": "every", "answer": "열"}
+{"id": "L010-0317", "criterion": 1, "kind": "new combination who", "detail": {"verb": "put", "rel": "on", "triple": ["c2", "put", 4]}, "lang": "en", "order": false, "when": "every", "answer": "c2"}
+{"id": "L010-0318", "criterion": 6, "kind": "solidity pair", "detail": {"area": "solidity", "novel": false}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0319", "criterion": 5, "kind": "cross-language what", "detail": {"verb": "put", "rel": "on", "told": "ko", "asked": "en"}, "lang": "ko", "order": false, "when": "every", "answer": "t3_4241"}
+{"id": "L010-0320", "criterion": 6, "kind": "support prediction", "detail": {"area": "support", "novel": false}, "lang": "en", "order": false, "when": "every", "answer": "C"}
+{"id": "L010-0321", "criterion": 4, "kind": "how many inside", "detail": {"put": 5, "take": 3, "inside": 2, "taught": false}, "lang": "ko", "order": false, "when": "every", "answer": "둘"}
+{"id": "L010-0322", "criterion": 2, "kind": "new word which", "detail": {"exposures": 4, "session": 2, "timing": "end"}, "lang": "ko", "order": false, "when": "end", "answer": "t14_3045"}
+{"id": "L010-0323", "criterion": 9, "kind": "word -> scene", "detail": {"rel": "under"}, "lang": "ko", "order": true, "when": "every", "answer": "C"}
+{"id": "L010-0324", "criterion": 6, "kind": "contact pair", "detail": {"area": "contact", "novel": false}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0325", "criterion": 1, "kind": "new combination where", "detail": {"verb": "push", "rel": null, "triple": ["c1", "push", 7]}, "lang": "en", "order": false, "when": "every", "answer": [4, 0]}
+{"id": "L010-0326", "criterion": 1, "kind": "new combination what", "detail": {"verb": "take", "rel": null, "triple": ["c3", "take", 0]}, "lang": "ko", "order": false, "when": "every", "answer": "t0_2897"}
+{"id": "L010-0327", "criterion": 4, "kind": "how many inside", "detail": {"put": 8, "take": 7, "inside": 1, "taught": false}, "lang": "en", "order": false, "when": "every", "answer": "one"}
+{"id": "L010-0328", "criterion": 7, "kind": "story who", "detail": {"sentences": 3, "verb": "put"}, "lang": "ko", "order": false, "when": "every", "answer": "c1"}
+{"id": "L010-0329", "criterion": 9, "kind": "event -> word", "detail": {"rel": "on"}, "lang": "ko", "order": false, "when": "every", "answer": "위"}
+{"id": "L010-0330", "criterion": 5, "kind": "cross-language who", "detail": {"verb": "put", "rel": "in", "told": "ko", "asked": "en"}, "lang": "ko", "order": false, "when": "every", "answer": "c0"}
+{"id": "L010-0331", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 8, "take": 4, "inside": 4, "taught": false, "impossible": "one fewer"}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0332", "criterion": 8, "kind": "where now", "detail": {"sentences": 4, "long": false, "moves": 2}, "lang": "en", "order": false, "when": "every", "answer": [2, 1]}
+{"id": "L010-0333", "criterion": 6, "kind": "solidity pair", "detail": {"area": "solidity", "novel": false}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0334", "criterion": 6, "kind": "contact prediction", "detail": {"area": "contact", "novel": false}, "lang": "en", "order": false, "when": "every", "answer": "A"}
+{"id": "L010-0335", "criterion": 6, "kind": "contact pair", "detail": {"area": "contact", "novel": false}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0336", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 10, "take": 3, "inside": 7, "taught": false, "impossible": "one more"}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0337", "criterion": 9, "kind": "scene -> word", "detail": {"rel": "on"}, "lang": "ko", "order": true, "when": "every", "answer": "위"}
+{"id": "L010-0338", "criterion": 8, "kind": "where before", "detail": {"sentences": 6, "long": true, "moves": 3}, "lang": "en", "order": true, "when": "every", "answer": [3, 1]}
+{"id": "L010-0339", "criterion": 6, "kind": "solidity prediction", "detail": {"area": "solidity", "novel": true}, "lang": "ko", "order": false, "when": "every", "answer": "A"}
+{"id": "L010-0340", "criterion": 2, "kind": "new word which", "detail": {"exposures": 8, "session": 11, "timing": "end"}, "lang": "en", "order": false, "when": "end", "answer": "t17_3114"}
+{"id": "L010-0341", "criterion": 2, "kind": "new word which", "detail": {"exposures": 8, "session": 7, "timing": "end"}, "lang": "en", "order": false, "when": "end", "answer": "t16_3087"}
+{"id": "L010-0342", "criterion": 2, "kind": "new word which", "detail": {"exposures": 1, "session": 12, "timing": "end"}, "lang": "ko", "order": false, "when": "end", "answer": "t11_2979"}
+{"id": "L010-0343", "criterion": 6, "kind": "support pair", "detail": {"area": "support", "novel": false}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0344", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 5, "take": 1, "inside": 4, "taught": true, "impossible": "one fewer"}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0345", "criterion": 8, "kind": "where now", "detail": {"sentences": 6, "long": true, "moves": 3}, "lang": "en", "order": true, "when": "every", "answer": [0, 1]}
+{"id": "L010-0346", "criterion": 8, "kind": "where before", "detail": {"sentences": 4, "long": false, "moves": 2}, "lang": "en", "order": true, "when": "every", "answer": [1, 1]}
+{"id": "L010-0347", "criterion": 3, "kind": "scene -> number", "detail": {"n": 7}, "lang": "en", "order": false, "when": "every", "answer": "seven"}
+{"id": "L010-0348", "criterion": 5, "kind": "cross-language what", "detail": {"verb": "push", "rel": null, "told": "ko", "asked": "en"}, "lang": "ko", "order": false, "when": "every", "answer": "t6_4222"}
+{"id": "L010-0349", "criterion": 0, "kind": "name (box)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "웅리"}
+{"id": "L010-0350", "criterion": 3, "kind": "next number (report only)", "detail": {"n": 4}, "lang": "en", "order": false, "when": "every", "answer": "five"}
+{"id": "L010-0351", "criterion": 0, "kind": "particle (subject)", "detail": {"form": "가"}, "lang": "ko", "order": false, "when": "every", "answer": "가"}
+{"id": "L010-0352", "criterion": 7, "kind": "story what", "detail": {"sentences": 3, "verb": "put"}, "lang": "ko", "order": false, "when": "every", "answer": "t0_4675"}
+{"id": "L010-0353", "criterion": 2, "kind": "new word which", "detail": {"exposures": 8, "session": 7, "timing": "end"}, "lang": "en", "order": false, "when": "end", "answer": "t16_3092"}
+{"id": "L010-0354", "criterion": 4, "kind": "how many inside", "detail": {"put": 1, "take": 0, "inside": 1, "taught": true}, "lang": "ko", "order": false, "when": "every", "answer": "하나"}
+{"id": "L010-0355", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 7, "take": 2, "inside": 5, "taught": false, "impossible": "one more"}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0356", "criterion": 3, "kind": "scene -> number", "detail": {"n": 5}, "lang": "en", "order": false, "when": "every", "answer": "five"}
+{"id": "L010-0357", "criterion": 4, "kind": "how many inside", "detail": {"put": 9, "take": 8, "inside": 1, "taught": false}, "lang": "ko", "order": false, "when": "every", "answer": "하나"}
+{"id": "L010-0358", "criterion": 3, "kind": "number -> scene", "detail": {"n": 7}, "lang": "ko", "order": false, "when": "every", "answer": "B"}
+{"id": "L010-0359", "criterion": 1, "kind": "new combination where", "detail": {"verb": "put", "rel": "on", "triple": ["c2", "put", 0]}, "lang": "ko", "order": false, "when": "every", "answer": [0, 1]}
+{"id": "L010-0360", "criterion": 6, "kind": "contact pair", "detail": {"area": "contact", "novel": true}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0361", "criterion": 5, "kind": "cross-language what", "detail": {"verb": "take", "rel": null, "told": "en", "asked": "ko"}, "lang": "en", "order": false, "when": "every", "answer": "t3_4411"}
+{"id": "L010-0362", "criterion": 3, "kind": "next number (report only)", "detail": {"n": 4}, "lang": "ko", "order": false, "when": "every", "answer": "다섯"}
+{"id": "L010-0363", "criterion": 2, "kind": "new word which", "detail": {"exposures": 2, "session": 6, "timing": "end"}, "lang": "ko", "order": false, "when": "end", "answer": "t13_3025"}
+{"id": "L010-0364", "criterion": 4, "kind": "how many inside", "detail": {"put": 8, "take": 7, "inside": 1, "taught": false}, "lang": "ko", "order": false, "when": "every", "answer": "하나"}
+{"id": "L010-0365", "criterion": 3, "kind": "number -> scene", "detail": {"n": 9}, "lang": "en", "order": false, "when": "every", "answer": "D"}
+{"id": "L010-0366", "criterion": 1, "kind": "new combination what", "detail": {"verb": "put", "rel": "on", "triple": ["c2", "put", 4]}, "lang": "en", "order": false, "when": "every", "answer": "t4_2858"}
+{"id": "L010-0367", "criterion": 6, "kind": "contact pair", "detail": {"area": "contact", "novel": false}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0368", "criterion": 9, "kind": "word -> scene", "detail": {"rel": "under"}, "lang": "en", "order": true, "when": "every", "answer": "B"}
+{"id": "L010-0369", "criterion": 2, "kind": "new word name", "detail": {"exposures": 2, "session": 13, "timing": "end"}, "lang": "en", "order": false, "when": "end", "answer": "glatam"}
+{"id": "L010-0370", "criterion": 6, "kind": "contact prediction", "detail": {"area": "contact", "novel": false}, "lang": "en", "order": false, "when": "every", "answer": "A"}
+{"id": "L010-0371", "criterion": 6, "kind": "support pair", "detail": {"area": "support", "novel": true}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0372", "criterion": 6, "kind": "contact pair", "detail": {"area": "contact", "novel": true}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0373", "criterion": 0, "kind": "particle (object)", "detail": {"form": "을"}, "lang": "ko", "order": false, "when": "every", "answer": "을"}
+{"id": "L010-0374", "criterion": 2, "kind": "new word name", "detail": {"exposures": 1, "session": 3, "timing": "end"}, "lang": "en", "order": false, "when": "end", "answer": "gadral"}
+{"id": "L010-0375", "criterion": 6, "kind": "solidity prediction", "detail": {"area": "solidity", "novel": true}, "lang": "en", "order": false, "when": "every", "answer": "A"}
+{"id": "L010-0376", "criterion": 1, "kind": "new combination who", "detail": {"verb": "take", "rel": null, "triple": ["c2", "take", 6]}, "lang": "ko", "order": false, "when": "every", "answer": "c2"}
+{"id": "L010-0377", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 3, "take": 1, "inside": 2, "taught": false, "impossible": "one more"}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0378", "criterion": 4, "kind": "how many inside", "detail": {"put": 3, "take": 1, "inside": 2, "taught": false}, "lang": "ko", "order": false, "when": "every", "answer": "둘"}
+{"id": "L010-0379", "criterion": 6, "kind": "permanence prediction", "detail": {"area": "permanence", "novel": false}, "lang": "ko", "order": false, "when": "every", "answer": "A"}
+{"id": "L010-0380", "criterion": 9, "kind": "scene -> word", "detail": {"rel": "under"}, "lang": "ko", "order": true, "when": "every", "answer": "아래"}
+{"id": "L010-0381", "criterion": 1, "kind": "new combination what", "detail": {"verb": "take", "rel": null, "triple": ["c2", "take", 6]}, "lang": "en", "order": false, "when": "every", "answer": "t6_2879"}
+{"id": "L010-0382", "criterion": 2, "kind": "new word which", "detail": {"exposures": 1, "session": 3, "timing": "end"}, "lang": "en", "order": false, "when": "end", "answer": "t10_2956"}
+{"id": "L010-0383", "criterion": 6, "kind": "contact prediction", "detail": {"area": "contact", "novel": true}, "lang": "en", "order": false, "when": "every", "answer": "C"}
+{"id": "L010-0384", "criterion": 1, "kind": "new combination what", "detail": {"verb": "take", "rel": null, "triple": ["c3", "take", 0]}, "lang": "en", "order": false, "when": "every", "answer": "t0_2939"}
+{"id": "L010-0385", "criterion": 4, "kind": "how many inside", "detail": {"put": 10, "take": 0, "inside": 10, "taught": false}, "lang": "en", "order": false, "when": "every", "answer": "ten"}
+{"id": "L010-0386", "criterion": 0, "kind": "name (box)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "teesk"}
+{"id": "L010-0387", "criterion": 1, "kind": "new combination where", "detail": {"verb": "take", "rel": null, "triple": ["c3", "take", 0]}, "lang": "ko", "order": false, "when": "every", "answer": [3, 0]}
+{"id": "L010-0388", "criterion": 5, "kind": "cross-language what", "detail": {"verb": "put", "rel": "in", "told": "ko", "asked": "en"}, "lang": "ko", "order": false, "when": "every", "answer": "t3_4258"}
+{"id": "L010-0389", "criterion": 5, "kind": "cross-language what", "detail": {"verb": "put", "rel": "in", "told": "en", "asked": "ko"}, "lang": "en", "order": false, "when": "every", "answer": "t0_4391"}
+{"id": "L010-0390", "criterion": 2, "kind": "new word which", "detail": {"exposures": 2, "session": 13, "timing": "end"}, "lang": "en", "order": false, "when": "end", "answer": "t12_2999"}
+{"id": "L010-0391", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "피파"}
+{"id": "L010-0392", "criterion": 0, "kind": "name (person)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "우털"}
+{"id": "L010-0393", "criterion": 1, "kind": "new combination who", "detail": {"verb": "put", "rel": "in", "triple": ["c1", "put", 3]}, "lang": "en", "order": false, "when": "every", "answer": "c1"}
+{"id": "L010-0394", "criterion": 4, "kind": "how many inside", "detail": {"put": 8, "take": 4, "inside": 4, "taught": false}, "lang": "ko", "order": false, "when": "every", "answer": "넷"}
+{"id": "L010-0395", "criterion": 0, "kind": "particle (direction)", "detail": {"form": "으로"}, "lang": "ko", "order": false, "when": "every", "answer": "으로"}
+{"id": "L010-0396", "criterion": 8, "kind": "where before", "detail": {"sentences": 6, "long": true, "moves": 3}, "lang": "ko", "order": true, "when": "every", "answer": [0, 1]}
+{"id": "L010-0397", "criterion": 1, "kind": "new combination where", "detail": {"verb": "put", "rel": "on", "triple": ["c2", "put", 4]}, "lang": "ko", "order": false, "when": "every", "answer": [1, 1]}
+{"id": "L010-0398", "criterion": 8, "kind": "where before", "detail": {"sentences": 4, "long": true, "moves": 2}, "lang": "ko", "order": false, "when": "every", "answer": [3, 1]}
+{"id": "L010-0399", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "beetroot"}
+{"id": "L010-0400", "criterion": 1, "kind": "new combination who", "detail": {"verb": "take", "rel": null, "triple": ["c2", "take", 6]}, "lang": "ko", "order": false, "when": "every", "answer": "c2"}
+{"id": "L010-0401", "criterion": 4, "kind": "how many inside", "detail": {"put": 5, "take": 3, "inside": 2, "taught": false}, "lang": "en", "order": false, "when": "every", "answer": "two"}
+{"id": "L010-0402", "criterion": 0, "kind": "name (person)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "첸독"}
+{"id": "L010-0403", "criterion": 8, "kind": "where now", "detail": {"sentences": 4, "long": true, "moves": 3}, "lang": "en", "order": false, "when": "every", "answer": [0, 0]}
+{"id": "L010-0404", "criterion": 1, "kind": "new combination who", "detail": {"verb": "put", "rel": "on", "triple": ["c2", "put", 4]}, "lang": "ko", "order": false, "when": "every", "answer": "c2"}
+{"id": "L010-0405", "criterion": 1, "kind": "new combination who", "detail": {"verb": "push", "rel": null, "triple": ["c1", "push", 7]}, "lang": "en", "order": false, "when": "every", "answer": "c1"}
+{"id": "L010-0406", "criterion": 2, "kind": "new word which", "detail": {"exposures": 1, "session": 12, "timing": "right after"}, "lang": "ko", "order": false, "when": "after_session_12", "answer": "t11_2966"}
+{"id": "L010-0407", "criterion": 4, "kind": "how many inside", "detail": {"put": 4, "take": 2, "inside": 2, "taught": false}, "lang": "ko", "order": false, "when": "every", "answer": "둘"}
+{"id": "L010-0408", "criterion": 6, "kind": "contact pair", "detail": {"area": "contact", "novel": true}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0409", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "breglaig"}
+{"id": "L010-0410", "criterion": 2, "kind": "new word name", "detail": {"exposures": 8, "session": 7, "timing": "right after"}, "lang": "en", "order": false, "when": "after_session_7", "answer": "gaid"}
+{"id": "L010-0411", "criterion": 8, "kind": "where now", "detail": {"sentences": 3, "long": false, "moves": 2}, "lang": "en", "order": false, "when": "every", "answer": [2, 2]}
+{"id": "L010-0412", "criterion": 3, "kind": "number -> scene", "detail": {"n": 1}, "lang": "ko", "order": false, "when": "every", "answer": "A"}
+{"id": "L010-0413", "criterion": 6, "kind": "solidity pair", "detail": {"area": "solidity", "novel": false}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0414", "criterion": 5, "kind": "cross-language what", "detail": {"verb": "push", "rel": null, "told": "ko", "asked": "en"}, "lang": "ko", "order": false, "when": "every", "answer": "t2_4238"}
+{"id": "L010-0415", "criterion": 3, "kind": "scene -> number", "detail": {"n": 9}, "lang": "ko", "order": false, "when": "every", "answer": "아홉"}
+{"id": "L010-0416", "criterion": 5, "kind": "cross-language what", "detail": {"verb": "push", "rel": null, "told": "en", "asked": "ko"}, "lang": "en", "order": false, "when": "every", "answer": "t3_4373"}
+{"id": "L010-0417", "criterion": 8, "kind": "where before", "detail": {"sentences": 6, "long": true, "moves": 3}, "lang": "en", "order": true, "when": "every", "answer": [4, 0]}
+{"id": "L010-0418", "criterion": 3, "kind": "number -> scene", "detail": {"n": 5}, "lang": "ko", "order": false, "when": "every", "answer": "A"}
+{"id": "L010-0419", "criterion": 3, "kind": "number -> scene", "detail": {"n": 2}, "lang": "en", "order": false, "when": "every", "answer": "D"}
+{"id": "L010-0420", "criterion": 0, "kind": "name (box)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "웅리"}
+{"id": "L010-0421", "criterion": 7, "kind": "story who", "detail": {"sentences": 2, "verb": "put"}, "lang": "en", "order": false, "when": "every", "answer": "c1"}
+{"id": "L010-0422", "criterion": 9, "kind": "word -> scene", "detail": {"rel": "on"}, "lang": "en", "order": true, "when": "every", "answer": "B"}
+{"id": "L010-0423", "criterion": 8, "kind": "where now", "detail": {"sentences": 4, "long": false, "moves": 2}, "lang": "en", "order": true, "when": "every", "answer": [1, 1]}
+{"id": "L010-0424", "criterion": 0, "kind": "particle (object)", "detail": {"form": "을"}, "lang": "ko", "order": false, "when": "every", "answer": "을"}
+{"id": "L010-0425", "criterion": 3, "kind": "number -> scene", "detail": {"n": 3}, "lang": "en", "order": false, "when": "every", "answer": "C"}
+{"id": "L010-0426", "criterion": 1, "kind": "new combination what", "detail": {"verb": "put", "rel": "in", "triple": ["c1", "put", 3]}, "lang": "ko", "order": false, "when": "every", "answer": "t3_2823"}
+{"id": "L010-0427", "criterion": 2, "kind": "new word which", "detail": {"exposures": 8, "session": 11, "timing": "right after"}, "lang": "en", "order": false, "when": "after_session_11", "answer": "t17_3095"}
+{"id": "L010-0428", "criterion": 6, "kind": "contact prediction", "detail": {"area": "contact", "novel": true}, "lang": "en", "order": false, "when": "every", "answer": "C"}
+{"id": "L010-0429", "criterion": 6, "kind": "contact prediction", "detail": {"area": "contact", "novel": true}, "lang": "ko", "order": false, "when": "every", "answer": "C"}
+{"id": "L010-0430", "criterion": 6, "kind": "solidity pair", "detail": {"area": "solidity", "novel": false}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0431", "criterion": 2, "kind": "new word name", "detail": {"exposures": 1, "session": 12, "timing": "end"}, "lang": "ko", "order": false, "when": "end", "answer": "즈큼"}
+{"id": "L010-0432", "criterion": 0, "kind": "name (person)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "믐그"}
+{"id": "L010-0433", "criterion": 7, "kind": "story where", "detail": {"sentences": 3, "verb": "put"}, "lang": "ko", "order": false, "when": "every", "answer": [3, 1]}
+{"id": "L010-0434", "criterion": 2, "kind": "new word name", "detail": {"exposures": 1, "session": 12, "timing": "end"}, "lang": "ko", "order": false, "when": "end", "answer": "즈큼"}
+{"id": "L010-0435", "criterion": 1, "kind": "new combination what", "detail": {"verb": "push", "rel": null, "triple": ["c1", "push", 7]}, "lang": "en", "order": false, "when": "every", "answer": "t7_2765"}
+{"id": "L010-0436", "criterion": 6, "kind": "contact pair", "detail": {"area": "contact", "novel": true}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0437", "criterion": 4, "kind": "how many inside", "detail": {"put": 6, "take": 4, "inside": 2, "taught": false}, "lang": "en", "order": false, "when": "every", "answer": "two"}
+{"id": "L010-0438", "criterion": 6, "kind": "permanence prediction", "detail": {"area": "permanence", "novel": false}, "lang": "en", "order": false, "when": "every", "answer": "C"}
+{"id": "L010-0439", "criterion": 6, "kind": "contact pair", "detail": {"area": "contact", "novel": false}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0440", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "beetroot"}
+{"id": "L010-0441", "criterion": 6, "kind": "support prediction", "detail": {"area": "support", "novel": true}, "lang": "en", "order": false, "when": "every", "answer": "B"}
+{"id": "L010-0442", "criterion": 3, "kind": "scene -> number", "detail": {"n": 3}, "lang": "ko", "order": false, "when": "every", "answer": "셋"}
+{"id": "L010-0443", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 5, "take": 0, "inside": 5, "taught": true, "impossible": "one more"}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0444", "criterion": 6, "kind": "contact pair", "detail": {"area": "contact", "novel": true}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0445", "criterion": 3, "kind": "scene -> number", "detail": {"n": 8}, "lang": "ko", "order": false, "when": "every", "answer": "여덟"}
+{"id": "L010-0446", "criterion": 0, "kind": "name (person)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "첸독"}
+{"id": "L010-0447", "criterion": 5, "kind": "cross-language who", "detail": {"verb": "push", "rel": null, "told": "en", "asked": "ko"}, "lang": "en", "order": false, "when": "every", "answer": "c2"}
+{"id": "L010-0448", "criterion": 5, "kind": "cross-language who", "detail": {"verb": "take", "rel": null, "told": "ko", "asked": "en"}, "lang": "ko", "order": false, "when": "every", "answer": "c0"}
+{"id": "L010-0449", "criterion": 3, "kind": "number -> scene", "detail": {"n": 8}, "lang": "ko", "order": false, "when": "every", "answer": "B"}
+{"id": "L010-0450", "criterion": 0, "kind": "particle (subject)", "detail": {"form": "가"}, "lang": "ko", "order": false, "when": "every", "answer": "가"}
+{"id": "L010-0451", "criterion": 1, "kind": "new combination where", "detail": {"verb": "put", "rel": "on", "triple": ["c2", "put", 4]}, "lang": "en", "order": true, "when": "every", "answer": [2, 1]}
+{"id": "L010-0452", "criterion": 4, "kind": "how many inside", "detail": {"put": 10, "take": 8, "inside": 2, "taught": false}, "lang": "ko", "order": false, "when": "every", "answer": "둘"}
+{"id": "L010-0453", "criterion": 1, "kind": "new combination what", "detail": {"verb": "put", "rel": "on", "triple": ["c1", "put", 3]}, "lang": "ko", "order": false, "when": "every", "answer": "t3_2801"}
+{"id": "L010-0454", "criterion": 0, "kind": "particle (direction)", "detail": {"form": "으로"}, "lang": "ko", "order": false, "when": "every", "answer": "으로"}
+{"id": "L010-0455", "criterion": 2, "kind": "new word name", "detail": {"exposures": 1, "session": 3, "timing": "end"}, "lang": "en", "order": false, "when": "end", "answer": "gadral"}
+{"id": "L010-0456", "criterion": 0, "kind": "particle (subject)", "detail": {"form": "가"}, "lang": "ko", "order": false, "when": "every", "answer": "가"}
+{"id": "L010-0457", "criterion": 8, "kind": "where before", "detail": {"sentences": 3, "long": false, "moves": 2}, "lang": "en", "order": false, "when": "every", "answer": [1, 2]}
+{"id": "L010-0458", "criterion": 7, "kind": "story what", "detail": {"sentences": 4, "verb": "push"}, "lang": "ko", "order": false, "when": "every", "answer": "t4_4653"}
+{"id": "L010-0459", "criterion": 6, "kind": "contact pair", "detail": {"area": "contact", "novel": true}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0460", "criterion": 1, "kind": "new combination what", "detail": {"verb": "put", "rel": "in", "triple": ["c1", "put", 3]}, "lang": "en", "order": false, "when": "every", "answer": "t3_2829"}
+{"id": "L010-0461", "criterion": 8, "kind": "where before", "detail": {"sentences": 6, "long": true, "moves": 2}, "lang": "ko", "order": true, "when": "every", "answer": [4, 1]}
+{"id": "L010-0462", "criterion": 4, "kind": "how many inside", "detail": {"put": 10, "take": 5, "inside": 5, "taught": false}, "lang": "ko", "order": false, "when": "every", "answer": "다섯"}
+{"id": "L010-0463", "criterion": 2, "kind": "new word name", "detail": {"exposures": 2, "session": 6, "timing": "end"}, "lang": "ko", "order": false, "when": "end", "answer": "덩롬"}
+{"id": "L010-0464", "criterion": 6, "kind": "permanence pair", "detail": {"area": "permanence", "novel": true}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0465", "criterion": 0, "kind": "name (person)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "릴프"}
+{"id": "L010-0466", "criterion": 7, "kind": "story who", "detail": {"sentences": 2, "verb": "put"}, "lang": "en", "order": false, "when": "every", "answer": "c2"}
+{"id": "L010-0467", "criterion": 0, "kind": "particle (subject)", "detail": {"form": "가"}, "lang": "ko", "order": false, "when": "every", "answer": "가"}
+{"id": "L010-0468", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "breglaig"}
+{"id": "L010-0469", "criterion": 4, "kind": "how many inside", "detail": {"put": 2, "take": 0, "inside": 2, "taught": true}, "lang": "ko", "order": false, "when": "every", "answer": "둘"}
+{"id": "L010-0470", "criterion": 8, "kind": "where now", "detail": {"sentences": 6, "long": true, "moves": 3}, "lang": "ko", "order": true, "when": "every", "answer": [0, 0]}
+{"id": "L010-0471", "criterion": 2, "kind": "new word which", "detail": {"exposures": 1, "session": 3, "timing": "right after"}, "lang": "en", "order": false, "when": "after_session_3", "answer": "t10_2948"}
+{"id": "L010-0472", "criterion": 7, "kind": "story what", "detail": {"sentences": 2, "verb": "put"}, "lang": "en", "order": false, "when": "every", "answer": "t2_4678"}
+{"id": "L010-0473", "criterion": 6, "kind": "support pair", "detail": {"area": "support", "novel": false}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0474", "criterion": 0, "kind": "name (box)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "teesk"}
+{"id": "L010-0475", "criterion": 8, "kind": "where now", "detail": {"sentences": 3, "long": false, "moves": 2}, "lang": "ko", "order": false, "when": "every", "answer": [1, 0]}
+{"id": "L010-0476", "criterion": 9, "kind": "event -> word", "detail": {"rel": "in"}, "lang": "ko", "order": false, "when": "every", "answer": "안"}
+{"id": "L010-0477", "criterion": 3, "kind": "scene -> number", "detail": {"n": 8}, "lang": "en", "order": false, "when": "every", "answer": "eight"}
+{"id": "L010-0478", "criterion": 9, "kind": "scene -> word", "detail": {"rel": "beside"}, "lang": "ko", "order": false, "when": "every", "answer": "옆"}
+{"id": "L010-0479", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 3, "take": 1, "inside": 2, "taught": false, "impossible": "one fewer"}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0480", "criterion": 6, "kind": "support pair", "detail": {"area": "support", "novel": false}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0481", "criterion": 3, "kind": "next number (report only)", "detail": {"n": 9}, "lang": "ko", "order": false, "when": "every", "answer": "열"}
+{"id": "L010-0482", "criterion": 1, "kind": "new combination where", "detail": {"verb": "take", "rel": null, "triple": ["c3", "take", 0]}, "lang": "ko", "order": false, "when": "every", "answer": [4, 0]}
+{"id": "L010-0483", "criterion": 1, "kind": "new combination where", "detail": {"verb": "put", "rel": "on", "triple": ["c2", "put", 0]}, "lang": "en", "order": true, "when": "every", "answer": [0, 2]}
+{"id": "L010-0484", "criterion": 2, "kind": "new word which", "detail": {"exposures": 8, "session": 7, "timing": "right after"}, "lang": "en", "order": false, "when": "after_session_7", "answer": "t16_3076"}
+{"id": "L010-0485", "criterion": 6, "kind": "support prediction", "detail": {"area": "support", "novel": true}, "lang": "ko", "order": false, "when": "every", "answer": "A"}
+{"id": "L010-0486", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "커렝"}
+{"id": "L010-0487", "criterion": 1, "kind": "new combination what", "detail": {"verb": "put", "rel": "on", "triple": ["c2", "put", 0]}, "lang": "en", "order": false, "when": "every", "answer": "t0_2843"}
+{"id": "L010-0488", "criterion": 1, "kind": "new combination what", "detail": {"verb": "push", "rel": null, "triple": ["c1", "push", 7]}, "lang": "ko", "order": false, "when": "every", "answer": "t7_2642"}
+{"id": "L010-0489", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 6, "take": 0, "inside": 6, "taught": false, "impossible": "one fewer"}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0490", "criterion": 6, "kind": "support prediction", "detail": {"area": "support", "novel": true}, "lang": "en", "order": false, "when": "every", "answer": "A"}
+{"id": "L010-0491", "criterion": 0, "kind": "name (box)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "동골"}
+{"id": "L010-0492", "criterion": 6, "kind": "permanence prediction", "detail": {"area": "permanence", "novel": false}, "lang": "ko", "order": false, "when": "every", "answer": "A"}
+{"id": "L010-0493", "criterion": 4, "kind": "how many inside", "detail": {"put": 8, "take": 6, "inside": 2, "taught": false}, "lang": "ko", "order": false, "when": "every", "answer": "둘"}
+{"id": "L010-0494", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "stizu"}
+{"id": "L010-0495", "criterion": 6, "kind": "contact prediction", "detail": {"area": "contact", "novel": true}, "lang": "ko", "order": false, "when": "every", "answer": "A"}
+{"id": "L010-0496", "criterion": 2, "kind": "new word which", "detail": {"exposures": 4, "session": 11, "timing": "right after"}, "lang": "ko", "order": false, "when": "after_session_11", "answer": "t15_3053"}
+{"id": "L010-0497", "criterion": 2, "kind": "new word which", "detail": {"exposures": 8, "session": 11, "timing": "end"}, "lang": "en", "order": false, "when": "end", "answer": "t17_3110"}
+{"id": "L010-0498", "criterion": 8, "kind": "where before", "detail": {"sentences": 8, "long": true, "moves": 5}, "lang": "ko", "order": false, "when": "every", "answer": [1, 1]}
+{"id": "L010-0499", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 10, "take": 0, "inside": 10, "taught": false, "impossible": "one more"}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0500", "criterion": 2, "kind": "new word name", "detail": {"exposures": 4, "session": 2, "timing": "right after"}, "lang": "ko", "order": false, "when": "after_session_2", "answer": "코넹"}
+{"id": "L010-0501", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "정바"}
+{"id": "L010-0502", "criterion": 5, "kind": "cross-language where", "detail": {"verb": "push", "rel": null, "told": "ko", "asked": "en"}, "lang": "ko", "order": false, "when": "every", "answer": [0, 0]}
+{"id": "L010-0503", "criterion": 2, "kind": "new word name", "detail": {"exposures": 4, "session": 11, "timing": "end"}, "lang": "ko", "order": false, "when": "end", "answer": "농통"}
+{"id": "L010-0504", "criterion": 9, "kind": "word -> scene", "detail": {"rel": "beside"}, "lang": "ko", "order": false, "when": "every", "answer": "B"}
+{"id": "L010-0505", "criterion": 6, "kind": "permanence pair", "detail": {"area": "permanence", "novel": false}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0506", "criterion": 1, "kind": "new combination what", "detail": {"verb": "put", "rel": "on", "triple": ["c2", "put", 0]}, "lang": "ko", "order": false, "when": "every", "answer": "t0_2832"}
+{"id": "L010-0507", "criterion": 6, "kind": "solidity prediction", "detail": {"area": "solidity", "novel": true}, "lang": "ko", "order": false, "when": "every", "answer": "B"}
+{"id": "L010-0508", "criterion": 2, "kind": "new word name", "detail": {"exposures": 8, "session": 7, "timing": "right after"}, "lang": "en", "order": false, "when": "after_session_7", "answer": "gaid"}
+{"id": "L010-0509", "criterion": 9, "kind": "scene -> word", "detail": {"rel": "beside"}, "lang": "en", "order": false, "when": "every", "answer": "beside"}
+{"id": "L010-0510", "criterion": 3, "kind": "scene -> number", "detail": {"n": 9}, "lang": "ko", "order": false, "when": "every", "answer": "아홉"}
+{"id": "L010-0511", "criterion": 5, "kind": "cross-language who", "detail": {"verb": "take", "rel": null, "told": "en", "asked": "ko"}, "lang": "en", "order": false, "when": "every", "answer": "c3"}
+{"id": "L010-0512", "criterion": 6, "kind": "support prediction", "detail": {"area": "support", "novel": false}, "lang": "ko", "order": false, "when": "every", "answer": "A"}
+{"id": "L010-0513", "criterion": 2, "kind": "new word name", "detail": {"exposures": 2, "session": 13, "timing": "right after"}, "lang": "en", "order": false, "when": "after_session_13", "answer": "glatam"}
+{"id": "L010-0514", "criterion": 1, "kind": "new combination where", "detail": {"verb": "take", "rel": null, "triple": ["c3", "take", 0]}, "lang": "en", "order": false, "when": "every", "answer": [1, 1]}
+{"id": "L010-0515", "criterion": 1, "kind": "new combination what", "detail": {"verb": "put", "rel": "in", "triple": ["c2", "put", 4]}, "lang": "ko", "order": false, "when": "every", "answer": "t4_2852"}
+{"id": "L010-0516", "criterion": 3, "kind": "number -> scene", "detail": {"n": 10}, "lang": "en", "order": false, "when": "every", "answer": "B"}
+{"id": "L010-0517", "criterion": 9, "kind": "scene -> word", "detail": {"rel": "under"}, "lang": "ko", "order": false, "when": "every", "answer": "아래"}
+{"id": "L010-0518", "criterion": 6, "kind": "solidity prediction", "detail": {"area": "solidity", "novel": false}, "lang": "en", "order": false, "when": "every", "answer": "C"}
+{"id": "L010-0519", "criterion": 5, "kind": "cross-language who", "detail": {"verb": "put", "rel": "on", "told": "ko", "asked": "en"}, "lang": "ko", "order": false, "when": "every", "answer": "c2"}
+{"id": "L010-0520", "criterion": 6, "kind": "support pair", "detail": {"area": "support", "novel": true}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0521", "criterion": 4, "kind": "how many inside", "detail": {"put": 6, "take": 0, "inside": 6, "taught": false}, "lang": "en", "order": false, "when": "every", "answer": "six"}
+{"id": "L010-0522", "criterion": 8, "kind": "where before", "detail": {"sentences": 4, "long": false, "moves": 2}, "lang": "en", "order": true, "when": "every", "answer": [3, 1]}
+{"id": "L010-0523", "criterion": 2, "kind": "new word name", "detail": {"exposures": 8, "session": 11, "timing": "end"}, "lang": "en", "order": false, "when": "end", "answer": "gatroog"}
+{"id": "L010-0524", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "프패"}
+{"id": "L010-0525", "criterion": 8, "kind": "where before", "detail": {"sentences": 3, "long": false, "moves": 2}, "lang": "ko", "order": false, "when": "every", "answer": [1, 1]}
+{"id": "L010-0526", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "stizu"}
+{"id": "L010-0527", "criterion": 2, "kind": "new word name", "detail": {"exposures": 4, "session": 11, "timing": "right after"}, "lang": "ko", "order": false, "when": "after_session_11", "answer": "농통"}
+{"id": "L010-0528", "criterion": 5, "kind": "cross-language who", "detail": {"verb": "put", "rel": "in", "told": "en", "asked": "ko"}, "lang": "en", "order": false, "when": "every", "answer": "c1"}
+{"id": "L010-0529", "criterion": 0, "kind": "name (person)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "믐그"}
+{"id": "L010-0530", "criterion": 6, "kind": "contact pair", "detail": {"area": "contact", "novel": false}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0531", "criterion": 4, "kind": "how many inside", "detail": {"put": 6, "take": 1, "inside": 5, "taught": false}, "lang": "en", "order": false, "when": "every", "answer": "five"}
+{"id": "L010-0532", "criterion": 2, "kind": "new word name", "detail": {"exposures": 2, "session": 6, "timing": "right after"}, "lang": "ko", "order": false, "when": "after_session_6", "answer": "덩롬"}
+{"id": "L010-0533", "criterion": 1, "kind": "new combination who", "detail": {"verb": "take", "rel": null, "triple": ["c3", "take", 0]}, "lang": "ko", "order": false, "when": "every", "answer": "c3"}
+{"id": "L010-0534", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 5, "take": 3, "inside": 2, "taught": false, "impossible": "one more"}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0535", "criterion": 6, "kind": "permanence pair", "detail": {"area": "permanence", "novel": false}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0536", "criterion": 5, "kind": "cross-language who", "detail": {"verb": "put", "rel": "in", "told": "ko", "asked": "en"}, "lang": "ko", "order": false, "when": "every", "answer": "c0"}
+{"id": "L010-0537", "criterion": 2, "kind": "new word which", "detail": {"exposures": 4, "session": 2, "timing": "right after"}, "lang": "ko", "order": false, "when": "after_session_2", "answer": "t14_3029"}
+{"id": "L010-0538", "criterion": 3, "kind": "scene -> number", "detail": {"n": 3}, "lang": "en", "order": false, "when": "every", "answer": "three"}
+{"id": "L010-0539", "criterion": 6, "kind": "solidity prediction", "detail": {"area": "solidity", "novel": false}, "lang": "en", "order": false, "when": "every", "answer": "A"}
+{"id": "L010-0540", "criterion": 5, "kind": "cross-language where", "detail": {"verb": "take", "rel": null, "told": "ko", "asked": "en"}, "lang": "ko", "order": false, "when": "every", "answer": [1, 1]}
+{"id": "L010-0541", "criterion": 6, "kind": "support prediction", "detail": {"area": "support", "novel": true}, "lang": "ko", "order": false, "when": "every", "answer": "A"}
+{"id": "L010-0542", "criterion": 3, "kind": "scene -> number", "detail": {"n": 7}, "lang": "en", "order": false, "when": "every", "answer": "seven"}
+{"id": "L010-0543", "criterion": 5, "kind": "cross-language who", "detail": {"verb": "put", "rel": "on", "told": "en", "asked": "ko"}, "lang": "en", "order": false, "when": "every", "answer": "c3"}
+{"id": "L010-0544", "criterion": 5, "kind": "cross-language where", "detail": {"verb": "push", "rel": null, "told": "en", "asked": "ko"}, "lang": "en", "order": false, "when": "every", "answer": [2, 0]}
+{"id": "L010-0545", "criterion": 6, "kind": "support pair", "detail": {"area": "support", "novel": true}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0546", "criterion": 3, "kind": "scene -> number", "detail": {"n": 6}, "lang": "ko", "order": false, "when": "every", "answer": "여섯"}
+{"id": "L010-0547", "criterion": 0, "kind": "particle (subject)", "detail": {"form": "이"}, "lang": "ko", "order": false, "when": "every", "answer": "이"}
+{"id": "L010-0548", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "커렝"}
+{"id": "L010-0549", "criterion": 2, "kind": "new word which", "detail": {"exposures": 8, "session": 7, "timing": "end"}, "lang": "en", "order": false, "when": "end", "answer": "t16_3086"}
+{"id": "L010-0550", "criterion": 7, "kind": "story where", "detail": {"sentences": 3, "verb": "put"}, "lang": "ko", "order": true, "when": "every", "answer": [3, 1]}
+{"id": "L010-0551", "criterion": 8, "kind": "where now", "detail": {"sentences": 3, "long": false, "moves": 2}, "lang": "ko", "order": false, "when": "every", "answer": [1, 0]}
+{"id": "L010-0552", "criterion": 5, "kind": "cross-language where", "detail": {"verb": "push", "rel": null, "told": "en", "asked": "ko"}, "lang": "en", "order": false, "when": "every", "answer": [2, 0]}
+{"id": "L010-0553", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "prib"}
+{"id": "L010-0554", "criterion": 4, "kind": "how many inside", "detail": {"put": 7, "take": 0, "inside": 7, "taught": false}, "lang": "ko", "order": false, "when": "every", "answer": "일곱"}
+{"id": "L010-0555", "criterion": 6, "kind": "solidity pair", "detail": {"area": "solidity", "novel": true}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0556", "criterion": 6, "kind": "permanence pair", "detail": {"area": "permanence", "novel": true}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0557", "criterion": 0, "kind": "name (person)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "믐그"}
+{"id": "L010-0558", "criterion": 0, "kind": "particle (direction)", "detail": {"form": "로"}, "lang": "ko", "order": false, "when": "every", "answer": "로"}
+{"id": "L010-0559", "criterion": 5, "kind": "cross-language what", "detail": {"verb": "take", "rel": null, "told": "en", "asked": "ko"}, "lang": "en", "order": false, "when": "every", "answer": "t3_4394"}
+{"id": "L010-0560", "criterion": 2, "kind": "new word which", "detail": {"exposures": 2, "session": 6, "timing": "right after"}, "lang": "ko", "order": false, "when": "after_session_6", "answer": "t13_3014"}
+{"id": "L010-0561", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 9, "take": 3, "inside": 6, "taught": false, "impossible": "one fewer"}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0562", "criterion": 4, "kind": "how many inside", "detail": {"put": 7, "take": 5, "inside": 2, "taught": false}, "lang": "ko", "order": false, "when": "every", "answer": "둘"}
+{"id": "L010-0563", "criterion": 3, "kind": "next number (report only)", "detail": {"n": 9}, "lang": "en", "order": false, "when": "every", "answer": "ten"}
+{"id": "L010-0564", "criterion": 3, "kind": "next number (report only)", "detail": {"n": 5}, "lang": "en", "order": false, "when": "every", "answer": "six"}
+{"id": "L010-0565", "criterion": 8, "kind": "where now", "detail": {"sentences": 2, "long": false, "moves": 2}, "lang": "ko", "order": false, "when": "every", "answer": [4, 1]}
+{"id": "L010-0566", "criterion": 6, "kind": "solidity pair", "detail": {"area": "solidity", "novel": true}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0567", "criterion": 6, "kind": "solidity prediction", "detail": {"area": "solidity", "novel": false}, "lang": "ko", "order": false, "when": "every", "answer": "B"}
+{"id": "L010-0568", "criterion": 3, "kind": "scene -> number", "detail": {"n": 6}, "lang": "ko", "order": false, "when": "every", "answer": "여섯"}
+{"id": "L010-0569", "criterion": 6, "kind": "permanence pair", "detail": {"area": "permanence", "novel": false}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0570", "criterion": 5, "kind": "cross-language who", "detail": {"verb": "put", "rel": "in", "told": "en", "asked": "ko"}, "lang": "en", "order": false, "when": "every", "answer": "c3"}
+{"id": "L010-0571", "criterion": 2, "kind": "new word name", "detail": {"exposures": 4, "session": 2, "timing": "right after"}, "lang": "ko", "order": false, "when": "after_session_2", "answer": "코넹"}
+{"id": "L010-0572", "criterion": 8, "kind": "where now", "detail": {"sentences": 8, "long": true, "moves": 5}, "lang": "ko", "order": false, "when": "every", "answer": [1, 0]}
+{"id": "L010-0573", "criterion": 2, "kind": "new word name", "detail": {"exposures": 2, "session": 13, "timing": "end"}, "lang": "en", "order": false, "when": "end", "answer": "glatam"}
+{"id": "L010-0574", "criterion": 9, "kind": "scene -> word", "detail": {"rel": "under"}, "lang": "en", "order": true, "when": "every", "answer": "under"}
+{"id": "L010-0575", "criterion": 5, "kind": "cross-language what", "detail": {"verb": "put", "rel": "on", "told": "en", "asked": "ko"}, "lang": "en", "order": false, "when": "every", "answer": "t1_4380"}
+{"id": "L010-0576", "criterion": 2, "kind": "new word which", "detail": {"exposures": 4, "session": 11, "timing": "end"}, "lang": "ko", "order": false, "when": "end", "answer": "t15_3068"}
+{"id": "L010-0577", "criterion": 1, "kind": "new combination who", "detail": {"verb": "push", "rel": null, "triple": ["c1", "push", 7]}, "lang": "en", "order": false, "when": "every", "answer": "c1"}
+{"id": "L010-0578", "criterion": 3, "kind": "next number (report only)", "detail": {"n": 7}, "lang": "en", "order": false, "when": "every", "answer": "eight"}
+{"id": "L010-0579", "criterion": 8, "kind": "where before", "detail": {"sentences": 2, "long": false, "moves": 2}, "lang": "ko", "order": false, "when": "every", "answer": [1, 1]}
+{"id": "L010-0580", "criterion": 4, "kind": "box emptied (possible vs impossible)", "detail": {"put": 6, "take": 1, "inside": 5, "taught": false, "impossible": "one more"}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0581", "criterion": 0, "kind": "name (box)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "teesk"}
+{"id": "L010-0582", "criterion": 6, "kind": "support pair", "detail": {"area": "support", "novel": false}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "A", "possible": "B"}}
+{"id": "L010-0583", "criterion": 0, "kind": "name (box)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "웅리"}
+{"id": "L010-0584", "criterion": 4, "kind": "how many inside", "detail": {"put": 3, "take": 0, "inside": 3, "taught": true}, "lang": "en", "order": false, "when": "every", "answer": "three"}
+{"id": "L010-0585", "criterion": 9, "kind": "event -> word", "detail": {"rel": "in"}, "lang": "en", "order": false, "when": "every", "answer": "in"}
+{"id": "L010-0586", "criterion": 7, "kind": "story what", "detail": {"sentences": 3, "verb": "put"}, "lang": "en", "order": false, "when": "every", "answer": "t3_4699"}
+{"id": "L010-0587", "criterion": 9, "kind": "word -> scene", "detail": {"rel": "beside"}, "lang": "en", "order": false, "when": "every", "answer": "B"}
+{"id": "L010-0588", "criterion": 6, "kind": "solidity prediction", "detail": {"area": "solidity", "novel": false}, "lang": "ko", "order": false, "when": "every", "answer": "B"}
+{"id": "L010-0589", "criterion": 5, "kind": "cross-language who", "detail": {"verb": "take", "rel": null, "told": "ko", "asked": "en"}, "lang": "ko", "order": false, "when": "every", "answer": "c2"}
+{"id": "L010-0590", "criterion": 1, "kind": "new combination what", "detail": {"verb": "take", "rel": null, "triple": ["c3", "take", 0]}, "lang": "ko", "order": false, "when": "every", "answer": "t0_2899"}
+{"id": "L010-0591", "criterion": 1, "kind": "new combination what", "detail": {"verb": "put", "rel": "on", "triple": ["c2", "put", 4]}, "lang": "ko", "order": false, "when": "every", "answer": "t4_2850"}
+{"id": "L010-0592", "criterion": 9, "kind": "scene -> word", "detail": {"rel": "beside"}, "lang": "ko", "order": false, "when": "every", "answer": "옆"}
+{"id": "L010-0593", "criterion": 1, "kind": "new combination where", "detail": {"verb": "take", "rel": null, "triple": ["c2", "take", 6]}, "lang": "en", "order": false, "when": "every", "answer": [2, 1]}
+{"id": "L010-0594", "criterion": 3, "kind": "next number (report only)", "detail": {"n": 8}, "lang": "ko", "order": false, "when": "every", "answer": "아홉"}
+{"id": "L010-0595", "criterion": 4, "kind": "how many inside", "detail": {"put": 9, "take": 3, "inside": 6, "taught": false}, "lang": "en", "order": false, "when": "every", "answer": "six"}
+{"id": "L010-0596", "criterion": 6, "kind": "solidity prediction", "detail": {"area": "solidity", "novel": false}, "lang": "ko", "order": false, "when": "every", "answer": "A"}
+{"id": "L010-0597", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "ket"}
+{"id": "L010-0598", "criterion": 8, "kind": "where now", "detail": {"sentences": 4, "long": true, "moves": 2}, "lang": "ko", "order": false, "when": "every", "answer": [4, 1]}
+{"id": "L010-0599", "criterion": 2, "kind": "new word name", "detail": {"exposures": 2, "session": 6, "timing": "right after"}, "lang": "ko", "order": false, "when": "after_session_6", "answer": "덩롬"}
+{"id": "L010-0600", "criterion": 7, "kind": "story when", "detail": {"sentences": 3, "verb": "put"}, "lang": "ko", "order": false, "when": "every", "answer": 2}
+{"id": "L010-0601", "criterion": 1, "kind": "new combination where", "detail": {"verb": "push", "rel": null, "triple": ["c1", "push", 7]}, "lang": "ko", "order": false, "when": "every", "answer": [2, 0]}
+{"id": "L010-0602", "criterion": 0, "kind": "particle (direction)", "detail": {"form": "로"}, "lang": "ko", "order": false, "when": "every", "answer": "로"}
+{"id": "L010-0603", "criterion": 7, "kind": "story what", "detail": {"sentences": 3, "verb": "put"}, "lang": "ko", "order": false, "when": "every", "answer": "t0_4666"}
+{"id": "L010-0604", "criterion": 9, "kind": "scene -> word", "detail": {"rel": "on"}, "lang": "ko", "order": false, "when": "every", "answer": "위"}
+{"id": "L010-0605", "criterion": 3, "kind": "scene -> number", "detail": {"n": 3}, "lang": "en", "order": false, "when": "every", "answer": "three"}
+{"id": "L010-0606", "criterion": 0, "kind": "particle (object)", "detail": {"form": "을"}, "lang": "ko", "order": false, "when": "every", "answer": "을"}
+{"id": "L010-0607", "criterion": 5, "kind": "cross-language where", "detail": {"verb": "put", "rel": "on", "told": "en", "asked": "ko"}, "lang": "en", "order": true, "when": "every", "answer": [1, 1]}
+{"id": "L010-0608", "criterion": 0, "kind": "particle (direction)", "detail": {"form": "로"}, "lang": "ko", "order": false, "when": "every", "answer": "로"}
+{"id": "L010-0609", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "녹목"}
+{"id": "L010-0610", "criterion": 0, "kind": "particle (direction)", "detail": {"form": "으로"}, "lang": "ko", "order": false, "when": "every", "answer": "으로"}
+{"id": "L010-0611", "criterion": 4, "kind": "how many inside", "detail": {"put": 9, "take": 1, "inside": 8, "taught": false}, "lang": "en", "order": false, "when": "every", "answer": "eight"}
+{"id": "L010-0612", "criterion": 6, "kind": "support prediction", "detail": {"area": "support", "novel": false}, "lang": "ko", "order": false, "when": "every", "answer": "C"}
+{"id": "L010-0613", "criterion": 3, "kind": "scene -> number", "detail": {"n": 10}, "lang": "ko", "order": false, "when": "every", "answer": "열"}
+{"id": "L010-0614", "criterion": 6, "kind": "solidity prediction", "detail": {"area": "solidity", "novel": true}, "lang": "ko", "order": false, "when": "every", "answer": "C"}
+{"id": "L010-0615", "criterion": 6, "kind": "permanence pair", "detail": {"area": "permanence", "novel": false}, "lang": "ko", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0616", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "prib"}
+{"id": "L010-0617", "criterion": 0, "kind": "name (box)", "detail": {}, "lang": "en", "order": false, "when": "every", "answer": "slebox"}
+{"id": "L010-0618", "criterion": 3, "kind": "number -> scene", "detail": {"n": 10}, "lang": "ko", "order": false, "when": "every", "answer": "A"}
+{"id": "L010-0619", "criterion": 2, "kind": "new word which", "detail": {"exposures": 4, "session": 11, "timing": "end"}, "lang": "ko", "order": false, "when": "end", "answer": "t15_3065"}
+{"id": "L010-0620", "criterion": 5, "kind": "cross-language where", "detail": {"verb": "take", "rel": null, "told": "en", "asked": "ko"}, "lang": "en", "order": false, "when": "every", "answer": [1, 0]}
+{"id": "L010-0621", "criterion": 6, "kind": "solidity pair", "detail": {"area": "solidity", "novel": true}, "lang": "en", "order": false, "when": "every", "answer": {"impossible": "B", "possible": "A"}}
+{"id": "L010-0622", "criterion": 0, "kind": "name (thing)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "렝네"}
+{"id": "L010-0623", "criterion": 2, "kind": "new word name", "detail": {"exposures": 1, "session": 12, "timing": "right after"}, "lang": "ko", "order": false, "when": "after_session_12", "answer": "즈큼"}
+{"id": "L010-0624", "criterion": 0, "kind": "name (person)", "detail": {}, "lang": "ko", "order": false, "when": "every", "answer": "릴프"}

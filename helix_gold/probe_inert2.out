@@ -1,0 +1,18 @@
+session 1: unknown words 389, unmet rooms 29; values of the unknown that moved: 2
+    me.model.sd.z_work (dim 1, max |change| 2.48)
+    me.model.sd.cls_head.0.weight (dim 1, max |change| 0.331)
+session 2: unknown words 360, unmet rooms 27; values of the unknown that moved: 2
+    me.model.sd.z_work (dim 1, max |change| 3.86)
+    me.model.sd.cls_head.0.weight (dim 1, max |change| 0.558)
+session 3: unknown words 325, unmet rooms 25; values of the unknown that moved: 2
+    me.model.sd.z_work (dim 1, max |change| 5.58)
+    me.model.sd.cls_head.0.weight (dim 1, max |change| 0.67)
+session 4: unknown words 291, unmet rooms 23; values of the unknown that moved: 2
+    me.model.sd.z_work (dim 1, max |change| 6.75)
+    me.model.sd.cls_head.0.weight (dim 1, max |change| 0.871)
+session 5: unknown words 265, unmet rooms 21; values of the unknown that moved: 2
+    me.model.sd.z_work (dim 1, max |change| 6.84)
+    me.model.sd.cls_head.0.weight (dim 1, max |change| 0.952)
+session 6: unknown words 240, unmet rooms 19; values of the unknown that moved: 2
+    me.model.sd.z_work (dim 1, max |change| 7.14)
+    me.model.sd.cls_head.0.weight (dim 1, max |change| 1.04)

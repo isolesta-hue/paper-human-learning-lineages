@@ -1,0 +1,36 @@
+=== 30 seeds; multi-moment Korean stories -- state over time (stage-1 step 2) ===
+  multi           +track       1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000
+  multi           +trackone    0.130 0.084 0.096 0.101 0.089 0.091 0.082 0.091 0.095 0.087 0.089 0.094 0.092 0.091 0.090 0.092
+  multi           (bind only)  0.345 0.337 0.339 0.342 0.339 0.339 0.340 0.342 0.342 0.343 0.344 0.344 0.344 0.345 0.345 0.344
+  multi same      +track       1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000
+  multi same      +trackone    0.159 0.080 0.096 0.110 0.098 0.101 0.073 0.091 0.102 0.090 0.090 0.093 0.092 0.094 0.095 0.094
+  multi same      (bind only)  1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000
+  multi two       +track       1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000
+  multi two       +trackone    0.116 0.101 0.099 0.098 0.076 0.087 0.091 0.094 0.100 0.095 0.103 0.104 0.103 0.102 0.097 0.102
+  multi two       (bind only)  0.007 0.012 0.010 0.014 0.007 0.010 0.013 0.017 0.020 0.021 0.023 0.024 0.022 0.023 0.025 0.023
+  multi three     +track       1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000
+  multi three     +trackone    0.116 0.072 0.099 0.097 0.094 0.085 0.083 0.090 0.084 0.077 0.074 0.083 0.079 0.078 0.078 0.079
+  multi three     (bind only)  0.029 0.000 0.006 0.013 0.009 0.007 0.007 0.010 0.005 0.008 0.009 0.008 0.009 0.012 0.011 0.010
+  multi wm fired  +track       1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000
+  multi wm fired  +trackone    0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+  multi wm fired  (bind only)  0.903 0.918 0.921 0.911 0.909 0.909 0.907 0.903 0.898 0.893 0.889 0.886 0.887 0.885 0.883 0.882
+  multi trust     +track       1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000
+  multi trust     +trackone    0.355 0.361 0.360 0.362 0.362 0.357 0.356 0.360 0.363 0.361 0.362 0.363 0.362 0.361 0.362 0.361
+  multi trust     (bind only)  0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+  T1 track - bind only: end +0.6557 (30:0, p=0.0000) | life +0.6579 (30:0, p=0.0000)
+  T2 track - trackone: end +0.9084 (30:0, p=0.0000) | life +0.9074 (30:0, p=0.0000)
+  T3 same : +track 1.000 | +trackone 0.094 | bind only 1.000
+  T3 two  : +track 1.000 | +trackone 0.102 | bind only 0.023
+  T3 three: +track 1.000 | +trackone 0.079 | bind only 0.010
+  T5 tell book        +track 1.000 | +trackone 1.000 | bind only 1.000
+  T5 tell body        +track 0.196 | +trackone 0.190 | bind only 0.195
+  T5 tell first       +track 0.333 | +trackone 0.333 | bind only 0.333
+  T5 tell readback    +track 1.000 | +trackone 0.348 | bind only 1.000
+  T5 tell same book   +track 1.000 | +trackone 1.000 | bind only 1.000
+  T5 tell two book    +track 1.000 | +trackone 1.000 | bind only 1.000
+  T5 tell three book  +track 1.000 | +trackone 1.000 | bind only 1.000
+  T6 voe permanence looks longer, end: +track 1.000 | +trackone 0.469 | bind only 0.378 | track - bind only, life +0.6329 (30:0, p=0.0000)
+  T6 voe identity   looks longer, end: +track 1.000 | +trackone 0.468 | bind only 0.454 | track - bind only, life +0.5350 (30:0, p=0.0000)
+  T4 story: max |track - bind only| 0.00e+00 | end +0.0000 (0:0, p=nan)
+  T4 chain: max |track - bind only| 0.00e+00 | end +0.0000 (0:0, p=nan)
+  T4 never-heard: max |track - bind only| 7.48e-02 | end +0.0009 (6:6, p=1.0000)

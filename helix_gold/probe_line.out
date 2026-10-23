@@ -1,0 +1,5 @@
+=== D13 memory-first: number-line cells in Voyager's element memory (5 seeds) ===
+  N=5 STEP=0.2: line cells recognised 1.000 (min 1.000) | other elements 0.998
+  N=9 STEP=0.2: line cells recognised 1.000 (min 1.000) | other elements 0.998
+  N=9 STEP=0.1: line cells recognised 1.000 (min 1.000) | other elements 0.998
+  baseline (no line): other elements 0.998

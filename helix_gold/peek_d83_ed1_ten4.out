@@ -1,0 +1,30 @@
+exit 0
+peek both@ascii@ten+rediscover+chain+wm+wmctx+wmrev+bind+wmlast+track+count+contain+props+grav+wmframe+succ+scale+views+vturn+goal+self+useful seed 0 after session 4 (cut exit 17, 292 s):
+  wmctx    non  net    +0 changed     0  forms   0  speaks in   0
+  wmrev    non  net   +29 changed    29  forms   2  speaks in   2
+      form from/to/drawn                            net    +7 changed    7 -> speaks
+      form from/to/drawn/converted                  net   +22 changed   22 -> speaks
+  bind     non  net    -9 changed    29  forms   1  speaks in   0
+      form verb/name/particle                       net    -9 changed   29 -> quiet
+  track    non  net   +30 changed    50  forms   2  speaks in   1
+      form at/verb/name/particle                    net    +0 changed   20 -> quiet
+      form verb/name/particle                       net   +30 changed   30 -> speaks
+  props    non  net    +0 changed     0  forms   0  speaks in   0
+  grav     non  net   -26 changed    20  forms   2  speaks in   0
+      form at/verb/name/particle                    net    +0 changed    4 -> quiet
+      form verb/name/particle                       net   -26 changed   16 -> quiet
+  wmframe  non  net    +0 changed     0  forms   0  speaks in   0
+  contain  non  net   +20 changed    10  forms   1  speaks in   1
+      form at/verb/name/particle                    net   +20 changed   10 -> speaks
+  count    non  net   +25 changed    25  forms   1  speaks in   1
+      form at/name/particle                         net   +25 changed   25 -> speaks
+  succ     non  net    +0 changed     0  forms   0  speaks in   0
+  scale    non  net    +0 changed     0  forms   0  speaks in   0
+  views    non  net    +0 changed     0  forms   0  speaks in   0
+  vturn    non  net    +0 changed     0  forms   0  speaks in   0
+  goal     non  net    +0 changed     0  forms   0  speaks in   0
+  self     non  net    +0 changed     0  forms   0  speaks in   0
+  answer rows 18904, backoff share 0.984, views 18
+exit 0
+
+[exited with code 0]

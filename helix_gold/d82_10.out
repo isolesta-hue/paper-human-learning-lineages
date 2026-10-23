@@ -1,0 +1,20 @@
+=== D82 first step: Voyager's confidence on the D72 subjects, 10 seeds ===
+R0 record only (every d72 key equal to the stored life): PASS
+END per kind: accuracy | confidence | overconfidence | share at 0.25 | AUROC (pooled items)
+  cat   word : 0.000 | 0.250 | +0.250 | 1.000 | nan  (n 160)
+  cat   pic  : 0.212 | 0.257 | +0.045 | 0.000 | 0.532  (n 160)
+  neg   neg  : 0.201 | 0.779 | +0.578 | 0.000 | 0.532  (n 2760)
+  ice   ice  : 0.128 | 0.801 | +0.673 | 0.000 | 0.489  (n 2760)
+  next  next : 0.079 | 0.370 | +0.291 | 0.670 | 0.858  (n 2760)
+  chain chain: 1.000 | 1.000 | -0.000 | 0.000 | nan  (n 3450)
+  chain verb : 0.246 | 0.780 | +0.534 | 0.000 | 0.508  (n 2760)
+K1 outside - in-design confidence (per seed): -0.365 (0:10, p = 0.0020) -> held
+K2 AUROC outside (pooled 8600 items): 0.627 -> held
+K3 outside overconfidence: confidence 0.635 - accuracy 0.135 = +0.500 -> not
+  by hearings, cat (confidence/accuracy): k 0: 0.42/0.25 | k 1: 0.34/0.19 | k 2: 0.30/0.14 | k 3-4: 0.27/0.12 | k 5-8: 0.27/0.09 | k 9-16: 0.26/0.05 | k 17+: 0.26/0.07
+  by hearings, neg (confidence/accuracy): k 0: 0.77/0.26 | k 1: 0.79/0.18 | k 2: 0.79/0.20 | k 3-4: 0.80/0.21 | k 5-8: 0.79/0.22 | k 9-16: 0.79/0.22 | k 17+: 0.79/0.22
+  by hearings, ice (confidence/accuracy): k 0: 0.78/0.14 | k 1: 0.81/0.15 | k 2: 0.81/0.15 | k 3-4: 0.80/0.15 | k 5-8: 0.80/0.15 | k 9-16: 0.80/0.16 | k 17+: 0.80/0.16
+  by hearings, next (confidence/accuracy): k 0: 0.35/0.10 | k 1: 0.38/0.09 | k 2: 0.37/0.08 | k 3-4: 0.37/0.09 | k 5-8: 0.36/0.08 | k 9-16: 0.36/0.08 | k 17+: 0.36/0.07
+DECISION: 일부 (K1, K2 held)
+cost: CPU per life 18.1 min
+exit 0

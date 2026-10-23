@@ -1,0 +1,2 @@
+reg-new regression max diff 0.0 | keys only new: ['count four']
+time 4557

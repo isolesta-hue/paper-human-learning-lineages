@@ -1,0 +1,20 @@
+extra moments 5244 | session moments 511 | item-only elements given a category 383
+non-finite parameters: [('z_work', 129792, 0), ('assoc', 2571504, 0), ('skill', 4056, 0), ('cls_head.0.weight', 2048, 0), ('cls_head.0.bias', 64, 0), ('cls_head.2.weight', 1088, 0), ('cls_head.2.bias', 17, 0)]
+assoc finite False max |x| -
+z_work finite False max |x| -
+L000-0001 blank n 26 nan 26 distinct 26 max nan min nan
+L000-0255 blank n 4 nan 4 distinct 4 max nan min nan
+L000-0016 blank n 10 nan 10 distinct 10 max nan min nan
+L000-0252 slot n 2 nan 2 distinct 2 max nan min nan
+L000-0331 blank n 26 nan 26 distinct 26 max nan min nan
+L000-0273 choice n 4 nan 4 distinct 4 max nan min nan
+L000-0218 slot n 3 nan 3 distinct 3 max nan min nan
+L000-0491 slot n 25 nan 25 distinct 25 max nan min nan
+L000-0018 blank n 26 nan 26 distinct 26 max nan min nan
+L000-0311 blank n 4 nan 4 distinct 4 max nan min nan
+L000-0026 blank n 10 nan 10 distinct 10 max nan min nan
+L000-0302 slot n 2 nan 2 distinct 2 max nan min nan
+L000-0357 blank n 26 nan 26 distinct 26 max nan min nan
+L000-0315 choice n 4 nan 4 distinct 4 max nan min nan
+L000-0381 slot n 3 nan 3 distinct 3 max nan min nan
+logp of the first taught item's query: finite False max nan top elements ['at(-2,1)', 'at(-2,2)', 'at(-2,-1)', 'at(-2,-2)', 'at(-2,0)']

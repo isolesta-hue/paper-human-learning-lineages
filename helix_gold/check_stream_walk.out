@@ -1,0 +1,3 @@
+ascii-walk     seeds [0, 3, 5]: moments 4467, heard 4467, placements 0 (0.0% of heard), static 10.1%, moving moments that start where the thing already was 100.0%, problems 0
+ascii          seeds [0, 3, 5]: moments 6905, heard 4788, placements 2117 (44.2% of heard), static 11.2%, moving moments that start where the thing already was 5.8%, problems 0
+R test items by times their pair was heard (seeds 0,3,5; 69 rooms): 2x 507, 3x 186, 4x 18 (the template world: 6x)

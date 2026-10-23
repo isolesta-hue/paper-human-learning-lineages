@@ -1,0 +1,4 @@
+session 0: rows 546, cpu 97s, unchanged True
+session 1: rows 1097, cpu 188s, unchanged True
+rows new 1097 old 1097; items without a target identical 953/953; with a target changed 144/144 {'cross-language where': 24, 'new combination where': 40, 'where before': 32, 'where now': 32, 'story where': 16}; unchanged while answering True
+Q20 regression: PASS

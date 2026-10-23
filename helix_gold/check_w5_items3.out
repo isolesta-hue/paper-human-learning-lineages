@@ -1,0 +1,11 @@
+items checked: {'ten heard': 1150, 'ten ten count': 4600, 'ten ten pick': 2300, 'ten ten next': 2070, 'ten ten box': 1840, 'ten voe ten': 1840, 'shuf heard': 1150, 'shuf ten count': 4600, 'shuf ten pick': 2300, 'shuf ten next': 2070, 'shuf ten box': 1840, 'shuf voe ten': 1840}
+problems: none
+  ten: heard answers right 1.000 (expected 1.000)
+  ten: heard counts put 1:105 2:114 3:107 4:112 5:112 6:59 7:81 8:61 9:75 10:62 | box 1:153 2:0 3:77 4:32 5:0 6:0 7:0 8:0 9:0 10:0
+  ten: test count per n 1:460 2:460 3:460 4:460 5:460 6:460 7:460 8:460 9:460 10:460 | pick per n 1:230 2:230 3:230 4:230 5:230 6:230 7:230 8:230 9:230 10:230
+  ten: box far, count inside spread 1:173 2:182 3:145 4:183 5:183 6:179 7:115 8:105 9:75 10:40
+  shuf: heard answers right 0.090 (expected about 0.1)
+  shuf: heard counts put 1:105 2:114 3:107 4:112 5:112 6:59 7:81 8:61 9:75 10:62 | box 1:153 2:0 3:77 4:32 5:0 6:0 7:0 8:0 9:0 10:0
+  shuf: test count per n 1:460 2:460 3:460 4:460 5:460 6:460 7:460 8:460 9:460 10:460 | pick per n 1:230 2:230 3:230 4:230 5:230 6:230 7:230 8:230 9:230 10:230
+  shuf: box far, count inside spread 1:173 2:182 3:145 4:183 5:183 6:179 7:115 8:105 9:75 10:40
+time 9

@@ -1,0 +1,10 @@
+Opening-day runner checks (2026-10-17 ~17:55Z), development case exam_dev/dev1000 (2 lives), --smoke, 2 sessions:
+1. run_exam_day.py: lives kept 0, new 2; life_000 rows 1092/1092, life_001 1083/1083, keys_match True, unchanged True,
+   peak 1.70 / 1.68 GB, cpu 137 / 131 s; the shared grader ran (exit 0; every score 0.000 -- scrambled words, 2 sessions).
+   (exam_day_dry.out)
+2. run_exam.py alone after the life_seed change (folder "smoke_input", as the 10-17 smoke): rows identical to
+   exam_smoke/life_000.jsonl sessions 0-1 -> True (life_000 keeps seed 0).
+3. the runner's answers == run_exam.exam_life in a plain process on the same folder (life_000): True
+   (check_exam_day_same.py). The runner's rows differ from the 10-17 smoke only because conv-v1 seeds its position code
+   with the folder's name ("life_000" vs "smoke_input").
+Dami exam fingerprint after the change: 0d23b5934238 (was cbca54457076; changed file: run_exam.py -- life_seed).

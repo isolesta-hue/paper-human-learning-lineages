@@ -1,0 +1,20 @@
+conv-v1 version conv-v1; smoke True; sessions all
+session 0: rows 546, cpu 65s, unchanged True
+session 1: rows 1092, cpu 138s, unchanged True
+session 2: rows 1638, cpu 243s, unchanged True
+session 3: rows 2184, cpu 364s, unchanged True
+session 4: rows 2730, cpu 514s, unchanged True
+session 5: rows 3286, cpu 704s, unchanged True
+session 6: rows 3837, cpu 911s, unchanged True
+session 7: rows 4388, cpu 1166s, unchanged True
+session 8: rows 4939, cpu 1460s, unchanged True
+session 9: rows 5490, cpu 1779s, unchanged True
+session 10: rows 6041, cpu 2084s, unchanged True
+session 11: rows 6587, cpu 2400s, unchanged True
+session 12: rows 7133, cpu 2806s, unchanged True
+session 13: rows 7679, cpu 3236s, unchanged True
+session 14: rows 8230, cpu 3637s, unchanged True
+session 15: rows 8816, cpu 4126s, unchanged True
+{"rows": 8816, "due": 8816, "keys_match": true, "unchanged_while_answering": true, "rehearse_rounds": 4, "rehearse_recall": 0.9997514292816306, "cpu_s": 4126.8, "V": 4048, "items": 626}
+exit 0
+exit 0

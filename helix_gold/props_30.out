@@ -1,0 +1,25 @@
+=== 30 seeds; objects with properties kept apart from the books (stage-1 step 4) ===
+  objs hit         +props       1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 0.997 1.000 1.000 1.000
+  objs hit         +propsrand   0.441 0.456 0.454 0.453 0.458 0.456 0.452 0.451 0.455 0.460 0.460 0.463 0.460 0.457 0.454 0.455
+  objs hit         (no table)   0.500 0.500 0.500 0.500 0.500 0.500 0.500 0.500 0.500 0.500 0.500 0.500 0.501 0.500 0.500 0.500
+  objs free        +props       1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 0.996 1.000 1.000 1.000
+  objs free        +propsrand   0.899 0.969 1.000 0.980 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 0.996 1.000 1.000 1.000
+  objs free        (no table)   1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 0.996 1.000 1.000 1.000
+  objs table right +props       1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000
+  objs table right +propsrand   1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000
+  objs table right (no table)   1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000
+  objs table size  +props       5.043 8.148 10.933 14.933 18.267 22.267 26.000 30.133 36.000 44.000 52.000 60.000 67.867 76.000 84.000 91.967
+  objs table size  +propsrand   5.043 8.148 10.933 14.933 18.267 22.267 26.000 30.133 36.000 44.000 52.000 60.000 67.867 76.000 84.000 91.967
+  objs table size  (no table)   5.043 8.148 10.933 14.933 18.267 22.267 26.000 30.133 36.000 44.000 52.000 60.000 67.867 76.000 84.000 91.967
+  O1 props - no table: end +0.4997 (30:0, p=0.0000) | life +0.4998 (30:0, p=0.0000)
+  O2 props - propsrand: end +0.5447 (30:0, p=0.0000) | life +0.5444 (30:0, p=0.0000)
+  O3 free: max |props - no table| 0.00e+00 | end +0.0000 (0:0, p=nan)
+  O6 voe solid    looks longer, end: +props 1.000 | +propsrand 0.361 | no table 0.000
+  O6 voe push     looks longer, end: +props 1.000 | +propsrand 0.372 | no table 0.000
+  O6 voe causal   looks longer, end: +props 1.000 | +propsrand 1.000 | no table 1.000
+  O6 voe teleport looks longer, end: +props 1.000 | +propsrand 1.000 | no table 1.000
+  O6 voe solid props - no table: end +1.0000 (30:0, p=0.0000) | life +0.9996 (30:0, p=0.0000)
+  O6 voe push props - no table: end +0.9995 (30:0, p=0.0000) | life +0.9995 (30:0, p=0.0000)
+  O5 multi: max |props - no table| 1.11e-01 | end -0.0208 (0:30, p=0.0000)
+  O5 story: max |props - no table| 0.00e+00 | end +0.0000 (0:0, p=nan)
+  O5 never-heard: max |props - no table| 6.98e-02 | end -0.0016 (2:4, p=0.6875)

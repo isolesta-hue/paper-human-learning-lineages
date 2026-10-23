@@ -1,0 +1,33 @@
+=== finding 131: world ascii-frame, 10 seeds; chance 1/V = 0.0022 ===
+  chain            M      0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+  chain            C      0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.007 0.006 0.008 0.011 0.018 0.028 0.041 0.046
+  chain            N      0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.004 0.000 0.000 0.000 0.002 0.002 0.002 0.001
+  chain            N/shuf 0.000 0.000 0.011 0.000 0.000 0.006 0.005 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+  chain            Voyager main (10 seeds) 0.333 0.243 0.394 0.650 0.726 0.789 0.789 0.842 0.856 0.891 0.931 0.924 0.925 0.939 0.935 0.942
+  chain            Voyager main - best baseline C: end +0.8957 (10:0, p=0.0020) | life +0.7669 (10:0, p=0.0020)
+/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_baselines3.py:170: RuntimeWarning: Mean of empty slice
+  print(f"  {k:16} {b}      " + " ".join(f"{v:.3f}" for v in np.nanmean(g(bl, b, k), 0)))
+  chain flipped    M      nan nan nan nan nan nan nan nan nan nan nan nan 0.000 0.000 0.000 0.000
+  chain flipped    C      nan nan nan nan nan nan nan nan nan nan nan nan 0.067 0.067 0.067 0.062
+  chain flipped    N      nan nan nan nan nan nan nan nan nan nan nan nan 0.000 0.000 0.000 0.000
+/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_baselines3.py:171: RuntimeWarning: Mean of empty slice
+  print(f"  {k:16} N/shuf " + " ".join(f"{v:.3f}" for v in np.nanmean(g(sh, 'N', k), 0)))
+  chain flipped    N/shuf nan nan nan nan nan nan nan nan nan nan nan nan 0.000 0.000 0.000 0.000
+/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_baselines3.py:182: RuntimeWarning: Mean of empty slice
+  print(f"  {k:16} Voyager {tag} ({len(have)} seeds) " + " ".join(f"{x:.3f}" for x in np.nanmean(v, 0)))
+  chain flipped    Voyager main (10 seeds) nan nan nan nan nan nan nan nan nan nan nan nan 0.700 0.867 0.893 0.910
+  chain flipped    Voyager main - best baseline C: end +0.8476 (10:0, p=0.0020) | life +0.7769 (10:0, p=0.0020)
+  chain half       M      nan nan nan nan nan nan nan nan nan nan nan nan nan 0.000 0.000 0.000
+  chain half       C      nan nan nan nan nan nan nan nan nan nan nan nan nan 0.033 0.014 0.046
+  chain half       N      nan nan nan nan nan nan nan nan nan nan nan nan nan 0.000 0.000 0.000
+  chain half       N/shuf nan nan nan nan nan nan nan nan nan nan nan nan nan 0.000 0.000 0.000
+  chain half       Voyager main (10 seeds) nan nan nan nan nan nan nan nan nan nan nan nan nan 1.000 0.917 0.898
+/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_baselines3.py:185: RuntimeWarning: Mean of empty slice
+  print(f"  {k:16} Voyager {tag} - best baseline {best}: end {sgn(d[:, -1])} | life {sgn(np.nanmean(d, 1))}",
+  chain half       Voyager main - best baseline C: end +0.8519 (9:0, p=0.0039) | life +0.8981 (9:0, p=0.0039)
+  chain quarter    M      nan nan nan nan nan nan nan nan nan nan nan nan 0.000 0.000 0.000 0.000
+  chain quarter    C      nan nan nan nan nan nan nan nan nan nan nan nan 0.067 0.072 0.094 0.076
+  chain quarter    N      nan nan nan nan nan nan nan nan nan nan nan nan 0.000 0.000 0.000 0.000
+  chain quarter    N/shuf nan nan nan nan nan nan nan nan nan nan nan nan 0.000 0.000 0.000 0.000
+  chain quarter    Voyager main (10 seeds) nan nan nan nan nan nan nan nan nan nan nan nan 0.700 0.839 0.877 0.912
+  chain quarter    Voyager main - best baseline C: end +0.8357 (10:0, p=0.0020) | life +0.7546 (10:0, p=0.0020)

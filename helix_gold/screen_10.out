@@ -1,0 +1,24 @@
+731 736 737 738 739
+=== 10 seeds; dormant-part screening (content layer, start settings) ===
+arbiter      schema  life -0.0230 (1/9)      once all     -0.0016 (7/3)      time x1.0
+arbiter      conj    life -0.0306 (0/10*)    once all     -0.0077 (4/6)      time x1.0
+/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_screen.py:84: RuntimeWarning: Mean of empty slice
+  return np.nanmean([s_[key] for s_ in r])
+ladder       schema  life -0.0231 (1/9)      conj all        -               time x1.0
+ladder       conj    life -0.0256 (0/10*)    conj all     -0.0760 (0/10*)    time x1.0
+consensus    schema  life -0.0012 (4/6)      pairs all    +0.0127 (7/3)      time x1.0
+consensus    conj    life -0.0352 (0/10*)    pairs all    +0.0061 (5/5)      time x1.1
+compose      schema  life +0.0012 (7/2)      compose all     -               time x1.0
+compose      conj    life -0.0002 (3/5)      compose all     -               time x1.0
+compose      compose life +0.0006 (8/2)      compose all  +0.0040 (7/1)      time x1.0
+setter-hard  schema  life +0.0587 (10/0*)    never-heard  +0.0587 (10/0*)    time x1.3
+setter-hard  conj    life +0.0246 (10/0*)    never-heard  +0.0246 (10/0*)    time x1.2
+setter-hard  compose life +0.0517 (10/0*)    never-heard  +0.0517 (10/0*)    time x1.3
+versions     schema  life -0.0030 (2/8)      once all     -0.0073 (1/9)      time x1.0
+versions     conj    life -0.0021 (2/8)      once all     -0.0059 (1/9)      time x1.0
+fmt-practice schema  life +0.0018 (7/3)      fmt options  -0.0019 (4/6)      time x1.0
+fmt-practice conj    life -0.0033 (2/8)      fmt options  -0.0029 (2/8)      time x1.0
+
+verdict: arbiter stays asleep  ladder stays asleep  consensus woken-able  compose woken-able  setter-hard woken-able  versions stays asleep  fmt-practice woken-able
+
+[exited with code 0]

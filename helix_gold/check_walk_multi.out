@@ -1,0 +1,6 @@
+ascii-walk-multi seed 0: moments 2654, story clauses 805, probes 207, problems 0
+ascii-walk-multi seed 3: moments 2654, story clauses 805, probes 207, problems 0
+ascii-walk-multi seed 5: moments 2654, story clauses 805, probes 207, problems 0
+seed 0 baseline 'where the asked thing was before the story' (no tracking): multi same 0.32, multi three 0.20, multi two 0.00
+seed 3 baseline 'where the asked thing was before the story' (no tracking): multi same 0.33, multi three 0.29, multi two 0.00
+seed 5 baseline 'where the asked thing was before the story' (no tracking): multi same 0.28, multi three 0.23, multi two 0.00

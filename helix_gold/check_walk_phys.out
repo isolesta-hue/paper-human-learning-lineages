@@ -1,0 +1,6 @@
+ascii-walk-grav seed 0: moments 2299, story clauses {'stack': 114, 'step': 115, 'floor': 115}, probes 206, problems 0; no-tracking baseline (last shown cell): floor 0.01, stack 0.01, step 0.00
+ascii-walk-grav seed 3: moments 2290, story clauses {'floor': 115, 'stack': 112, 'step': 115}, probes 205, problems 0; no-tracking baseline (last shown cell): floor 0.01, stack 0.01, step 0.01
+ascii-walk-grav seed 5: moments 2314, story clauses {'step': 115, 'stack': 115, 'floor': 115}, probes 207, problems 0; no-tracking baseline (last shown cell): floor 0.00, stack 0.00, step 0.00
+ascii-walk-objs seed 0: moments 2266, story clauses {'free': 115, 'heavy': 115, 'light': 105}, probes 200, problems 0; no-tracking baseline (last shown cell): free 0.01, heavy 0.91, light 0.00
+ascii-walk-objs seed 3: moments 2240, story clauses {'free': 115, 'light': 97, 'heavy': 115}, probes 196, problems 0; no-tracking baseline (last shown cell): free 0.03, heavy 0.94, light 0.00
+ascii-walk-objs seed 5: moments 2252, story clauses {'free': 115, 'light': 104, 'heavy': 115}, probes 200, problems 0; no-tracking baseline (last shown cell): free 0.00, heavy 0.94, light 0.03

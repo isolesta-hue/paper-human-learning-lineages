@@ -1,0 +1,7 @@
+Tue Oct 20 11:32:50 UTC 2026
+probe: lives ['life_001'], sessions 2, workers 1, fingerprint 0551dd3a140d
+session 0: rows 547, cpu 84s, unchanged True
+session 1: rows 1094, cpu 155s, unchanged True
+{"life": "life_001", "sessions": 2, "rows": 1094, "same_rows": true, "exact": 1094, "recorded": 1094, "unchanged_while_answering": true, "pre_unchanged": true, "pre_cpu_s": 16.6, "probe_rows": 627, "judged_rows": 0, "real_equal": 0, "largest_split_err": 0.0, "largest_full_dev": 0.0, "variants": ["-sim", "full", "nogate", "real", "sim"], "cpu_s": 155.2, "wall_s": 200.5}
+exit 0
+Tue Oct 20 11:36:17 UTC 2026

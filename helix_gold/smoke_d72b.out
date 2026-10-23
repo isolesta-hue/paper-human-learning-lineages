@@ -1,0 +1,36 @@
+=== both@ascii@d72chain+rediscover+chain+wm+wmctx+wmlast seed 0: 16 sessions ===
+session 1: k [1, 0, 2, 1] | chain items 30, both words heard 18, the world model spoke on 18 (on 18 of those with both heard)
+session 2: k [1, 0, 2, 1] | chain items 30, both words heard 18, the world model spoke on 18 (on 18 of those with both heard)
+session 3: k [1, 0, 3, 1] | chain items 45, both words heard 27, the world model spoke on 27 (on 27 of those with both heard)
+session 4: k [2, 0, 5, 1] | chain items 75, both words heard 45, the world model spoke on 45 (on 45 of those with both heard)
+session 5: k [2, 0, 5, 1] | chain items 75, both words heard 45, the world model spoke on 45 (on 45 of those with both heard)
+session 6: k [2, 0, 5, 1] | chain items 75, both words heard 45, the world model spoke on 45 (on 45 of those with both heard)
+session 7: k [3, 1, 6, 1] | chain items 90, both words heard 90, the world model spoke on 90 (on 90 of those with both heard)
+session 8: k [4, 1, 7, 1] | chain items 105, both words heard 105, the world model spoke on 105 (on 105 of those with both heard)
+session 9: k [4, 2, 9, 1] | chain items 135, both words heard 135, the world model spoke on 135 (on 135 of those with both heard)
+session 10: k [5, 3, 11, 1] | chain items 165, both words heard 165, the world model spoke on 165 (on 165 of those with both heard)
+session 11: k [6, 3, 13, 2] | chain items 195, both words heard 195, the world model spoke on 195 (on 195 of those with both heard)
+session 12: k [8, 4, 15, 2] | chain items 225, both words heard 225, the world model spoke on 225 (on 225 of those with both heard)
+session 13: k [9, 4, 17, 3] | chain items 255, both words heard 255, the world model spoke on 255 (on 255 of those with both heard)
+session 14: k [11, 5, 19, 3] | chain items 285, both words heard 285, the world model spoke on 285 (on 285 of those with both heard)
+session 15: k [12, 6, 21, 3] | chain items 315, both words heard 315, the world model spoke on 315 (on 315 of those with both heard)
+session 16: k [12, 6, 23, 3] | chain items 345, both words heard 345, the world model spoke on 345 (on 345 of those with both heard)
+CHAIN life = cached VERB life on every VERB key: True
+=== both@ascii@d72neg+rediscover+chain+wm+wmctx+wmlast seed 0: 16 sessions ===
+session 1: k [1, 0, 2, 1] | neg items 24
+session 2: k [1, 0, 2, 1] | neg items 24
+session 3: k [1, 0, 3, 1] | neg items 36
+session 4: k [2, 0, 5, 1] | neg items 60
+session 5: k [2, 0, 5, 1] | neg items 60
+session 6: k [2, 0, 5, 1] | neg items 60
+session 7: k [3, 1, 6, 1] | neg items 72
+session 8: k [4, 1, 7, 1] | neg items 84
+session 9: k [4, 2, 9, 1] | neg items 108
+session 10: k [5, 3, 11, 1] | neg items 132
+session 11: k [6, 3, 13, 2] | neg items 156
+session 12: k [8, 4, 15, 2] | neg items 180
+session 13: k [9, 4, 17, 3] | neg items 204
+session 14: k [11, 5, 19, 3] | neg items 228
+session 15: k [12, 6, 21, 3] | neg items 252
+session 16: k [12, 6, 23, 3] | neg items 276
+exit 0

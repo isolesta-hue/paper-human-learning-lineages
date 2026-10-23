@@ -1,0 +1,10 @@
+=== D80 v1, experience that holds order: "@seq", 10 seeds, both@ascii@seq+rediscover; U usual / E (가)(나) / EQ (가)(나)(다) ===
+  seq now (right after the room arrived): U 0.130 / E 0.589 / EQ 0.589; E - U +0.4587 (10:0, p=0.0020); EQ - U +0.4587 (10:0, p=0.0020); EQ - E +0.0000 (0:0, p=nan)
+  seq before (right after the room arrived): U 0.187 / E 0.000 / EQ 1.000; E - U -0.1870 (0:10, p=0.0020); EQ - U +0.8130 (10:0, p=0.0020); EQ - E +1.0000 (10:0, p=0.0020)
+  learned meanings at the last session (word set: relation per seed): qbefore+qwhere: ['before'] (10 seeds); qwhere: ['last'] (10 seeds)
+  R3 old keys at the last session (U / E / EQ):
+    old motion: U 0.059 | E 0.059 (+0.0000 (0:0, p=nan)) | EQ 0.059 (+0.0000 (0:0, p=nan))
+    old name: U 0.674 | E 0.674 (+0.0000 (0:0, p=nan)) | EQ 0.674 (+0.0000 (0:0, p=nan))
+    old scene: U 0.207 | E 0.206 (-0.0009 (2:5, p=0.4531)) | EQ 0.207 (+0.0000 (0:0, p=nan))
+  R1 now: E 0.589, E - U +0.459 p = 0.0020 -> (가)(나) 실패
+  R2 before: EQ 1.000, EQ - E +1.000 p = 0.0020 -> holds; EQ old-key drops 0, E old-key drops 0 (reported) -> (다) 성공

@@ -1,0 +1,11 @@
+cut exit 17
+total 204552
+drwxr-xr-x 2 root root      4096 Oct 16 08:23 .
+drwxr-xr-x 6 root root     12288 Oct 16 08:18 ..
+-rw-r--r-- 1 root root 209442393 Oct 16 08:23 seed0_both@ascii@multi+rediscover+chain+wm+bind+wmlast+track.pkl
+start code done (before load): 0.65 GB
+state loaded: 1.19 GB
+D11 resume: session 6/16 on
+frame restored: 1.19 GB
+after gc.collect: 1.19 GB
+after malloc_trim: 1.06 GB

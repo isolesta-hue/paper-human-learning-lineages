@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+# D11 resume states (hundreds of MB each, a record only) and the runner's scratch: never committed
+cache_long_v2_resume/
+cache_long_v2_tmp/
+cache_long_v2_progress/

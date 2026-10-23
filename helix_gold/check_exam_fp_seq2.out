@@ -1,0 +1,5 @@
+session 0: rows 546, cpu 56s, unchanged True
+session 1: rows 1097, cpu 119s, unchanged True
+rows 1097 1097 new code == fingerprinted code (970dacab9e36): True
+09a331ed9c14
+exit 0

@@ -1,0 +1,68 @@
+=== track A W2: new-word curve and retention ("@nw"), 10 seeds ===
+  immediate = mean over sessions of the new rooms right after exposure [95% t]; early-imm = the same over the first-half sessions; late = first-half rooms at the end; retention = late / early-imm [bootstrap 95%]
+  --- heard 1 time(s): different sentence (another place, fresh background) ---
+  nw1 P      immediate 0.258 [0.230, 0.286] | early-imm 0.295 | late 0.282 | retention 0.956 [0.894, 1.014]
+  nw1 body   immediate 0.258 [0.230, 0.286] | early-imm 0.295 | late 0.277 | retention 0.941 [0.877, 1.003]
+  nw1 M      immediate 0.005 [-0.001, 0.010] | early-imm 0.009 | late 0.000 | retention 0.000 [0.000, 0.000]
+  nw1 C      immediate 0.127 [0.108, 0.147] | early-imm 0.117 | late 0.104 | retention 0.893 [0.764, 0.994]
+  nw1 N      immediate 0.139 [0.124, 0.154] | early-imm 0.120 | late 0.196 | retention 1.635 [1.497, 1.798]
+  nw1 N/shuf immediate 0.034 [0.027, 0.042] | early-imm 0.034 | late 0.049 | retention 1.418 [1.194, 1.691]
+  --- heard 2 time(s): different sentence (another place, fresh background) ---
+  nw2 P      immediate 0.381 [0.364, 0.399] | early-imm 0.382 | late 0.416 | retention 1.089 [0.993, 1.197]
+  nw2 body   immediate 0.382 [0.364, 0.399] | early-imm 0.382 | late 0.412 | retention 1.078 [0.973, 1.193]
+  nw2 M      immediate 0.007 [0.001, 0.013] | early-imm 0.015 | late 0.000 | retention 0.000 [0.000, 0.000]
+  nw2 C      immediate 0.165 [0.144, 0.186] | early-imm 0.123 | late 0.111 | retention 0.899 [0.846, 0.971]
+  nw2 N      immediate 0.222 [0.202, 0.242] | early-imm 0.173 | late 0.286 | retention 1.652 [1.449, 1.883]
+  nw2 N/shuf immediate 0.037 [0.026, 0.048] | early-imm 0.034 | late 0.040 | retention 1.158 [0.901, 1.528]
+  --- heard 4 time(s): different sentence (another place, fresh background) ---
+  nw4 P      immediate 0.533 [0.508, 0.559] | early-imm 0.557 | late 0.640 | retention 1.148 [1.073, 1.222]
+  nw4 body   immediate 0.535 [0.509, 0.561] | early-imm 0.557 | late 0.637 | retention 1.144 [1.067, 1.220]
+  nw4 M      immediate 0.013 [0.002, 0.024] | early-imm 0.026 | late 0.000 | retention 0.000 [0.000, 0.000]
+  nw4 C      immediate 0.261 [0.243, 0.280] | early-imm 0.246 | late 0.221 | retention 0.898 [0.862, 0.942]
+  nw4 N      immediate 0.305 [0.285, 0.325] | early-imm 0.271 | late 0.460 | retention 1.699 [1.557, 1.870]
+  nw4 N/shuf immediate 0.055 [0.042, 0.068] | early-imm 0.053 | late 0.068 | retention 1.289 [1.034, 1.627]
+  --- heard 8 time(s): different sentence (another place, fresh background) ---
+  nw8 P      immediate 0.703 [0.652, 0.754] | early-imm 0.725 | late 0.786 | retention 1.084 [1.044, 1.126]
+  nw8 body   immediate 0.702 [0.652, 0.751] | early-imm 0.725 | late 0.786 | retention 1.084 [1.042, 1.127]
+  nw8 M      immediate 0.023 [0.014, 0.033] | early-imm 0.047 | late 0.000 | retention 0.000 [0.000, 0.000]
+  nw8 C      immediate 0.409 [0.391, 0.428] | early-imm 0.409 | late 0.408 | retention 0.996 [0.986, 1.005]
+  nw8 N      immediate 0.467 [0.432, 0.501] | early-imm 0.489 | late 0.704 | retention 1.442 [1.332, 1.608]
+  nw8 N/shuf immediate 0.079 [0.061, 0.097] | early-imm 0.081 | late 0.088 | retention 1.084 [1.025, 1.145]
+  nw1 all P    0.333 0.292 0.260 0.280 0.281 0.305 0.281 0.274 0.271 0.266 0.266 0.263 0.248 0.265 0.259 0.247
+  nw2 all P    0.433 0.360 0.342 0.344 0.377 0.384 0.378 0.394 0.384 0.396 0.392 0.396 0.398 0.407 0.403 0.406
+  nw4 all P    0.583 0.549 0.544 0.532 0.554 0.569 0.603 0.571 0.575 0.579 0.592 0.591 0.592 0.588 0.589 0.590
+  nw8 all P    0.733 0.724 0.737 0.736 0.759 0.759 0.731 0.743 0.726 0.749 0.723 0.741 0.729 0.739 0.736 0.756
+  nw1 all body 0.333 0.292 0.260 0.280 0.281 0.305 0.281 0.274 0.271 0.266 0.266 0.263 0.248 0.265 0.259 0.251
+  nw2 all body 0.433 0.360 0.342 0.344 0.377 0.384 0.378 0.394 0.384 0.396 0.392 0.396 0.398 0.407 0.401 0.402
+  nw4 all body 0.583 0.549 0.544 0.532 0.554 0.569 0.603 0.571 0.575 0.579 0.592 0.591 0.592 0.588 0.590 0.591
+  nw8 all body 0.733 0.724 0.737 0.736 0.759 0.759 0.731 0.743 0.726 0.749 0.723 0.741 0.729 0.739 0.737 0.752
+  name1 same (old-style, same place) P    end 0.444 | life 0.533
+  name2 same (old-style, same place) P    end 0.702 | life 0.746
+  name4 same (old-style, same place) P    end 0.884 | life 0.886
+  name8 same (old-style, same place) P    end 0.967 | life 0.961
+  name1 same (old-style, same place) body end 0.451 | life 0.533
+  name2 same (old-style, same place) body end 0.698 | life 0.745
+  name4 same (old-style, same place) body end 0.883 | life 0.886
+  name8 same (old-style, same place) body end 0.968 | life 0.962
+  --- Q1 criterion-2 DEV reading (pass line: immediate lower end >= 0.60 AND retention lower end >= 0.80) ---
+  Q1 n=1: immediate lower 0.230, retention lower 0.894 -> not yet
+  Q1 n=2: immediate lower 0.364, retention lower 0.993 -> not yet
+  Q1 n=4: immediate lower 0.508, retention lower 1.073 -> not yet
+  Q1 n=8: immediate lower 0.652, retention lower 1.044 -> meets the line (dev)
+  Q2 curve, P immediate(8) - immediate(1): +0.4448 (10:0, p=0.0020)
+  Q3 n=1, P - body: immediate +0.0000 (0:0, p=nan) | late +0.0044 (1:0, p=1.0000)
+  Q3 n=2, P - body: immediate -0.0005 (0:1, p=1.0000) | late +0.0044 (2:0, p=0.5000)
+  Q3 n=4, P - body: immediate -0.0016 (0:2, p=0.5000) | late +0.0022 (1:0, p=1.0000)
+  Q3 n=8, P - body: immediate +0.0016 (1:0, p=1.0000) | late -0.0000 (1:1, p=1.0000)
+  Q4 n=1, P - best baseline N: immediate +0.1193 (10:0, p=0.0020) | late +0.0860 (10:0, p=0.0020)
+  Q4 n=2, P - best baseline N: immediate +0.1594 (10:0, p=0.0020) | late +0.1308 (10:0, p=0.0020)
+  Q4 n=4, P - best baseline N: immediate +0.2281 (10:0, p=0.0020) | late +0.1795 (10:0, p=0.0020)
+  Q4 n=8, P - best baseline N: immediate +0.2365 (10:0, p=0.0020) | late +0.0815 (10:0, p=0.0020)
+  Q5 P    never-heard end 0.758 | life 0.817
+  Q5 P    once all    end 0.446 | life 0.670
+  Q5 P    unseen all  end 0.300 | life 0.287
+  Q5 P    chain       end 1.000 | life 1.000
+  Q5 body never-heard end 0.759 | life 0.817
+  Q5 body once all    end 0.447 | life 0.670
+  Q5 body unseen all  end 0.301 | life 0.288
+  Q5 body chain       end 0.042 | life 0.024

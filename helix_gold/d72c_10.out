@@ -1,0 +1,10 @@
+=== D72 subject 3 (ice, outside) vs control (chain, cached) and base (cached), 10 seeds (development test) ===
+R1 ICE: k 0: 0.145 (65) | k 1: 0.144 (103) | k 2: 0.146 (109) | k 3-4: 0.143 (117) | k 5-8: 0.158 (102) | k 9-16: 0.167 (76) | k 17+: 0.165 (40) | does not reach 0.80
+R2 ICE END 0.128: (a) - chance -0.122 (0:10, p = 0.0020); (b) - own k = 0 +0.007 (7:3, p = 0.3438)
+R4 ICE body alone END: 0.128 (whole brain 0.128)
+R3 CHAIN - ICE over 1 <= k <= 8: +0.853 (10:0, p = 0.0020)
+R5 ICE - BASE over 57 END keys: decided down 0 [], up 0 []
+R8 ICE abstaining (all four tie): k 0: 0.000 | k 1: 0.000 | k 2: 0.000 | k 3-4: 0.000 | k 5-8: 0.000 | k 9-16: 0.000 | k 17+: 0.000
+R6 both@ascii@d72ice+rediscover+chain+wm+wmctx+wmlast: CPU per life 12.5 min, peak 2.36 GB
+DECISION: ICE 아직, reliance 설계에 기댐
+exit 0

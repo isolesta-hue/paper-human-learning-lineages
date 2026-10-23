@@ -1,0 +1,14 @@
+=== D80 v2 (moves told only in words -> expected cells): "@seq2", seeds 20-29, both@ascii@seq2+rediscover+scene ===
+  seq now told (right after the room arrived): U 0.102 / EQ1 0.080 / EQ2 1.000; EQ2 - EQ1 +0.9195 (10:0, p=0.0020); EQ2 - U +0.8982 (10:0, p=0.0020)
+  seq before told (right after the room arrived): U 0.167 / EQ1 0.102 / EQ2 1.000; EQ2 - EQ1 +0.8980 (10:0, p=0.0020); EQ2 - U +0.8334 (10:0, p=0.0020)
+  seq now (right after the room arrived): U 0.203 / EQ1 1.000 / EQ2 1.000; EQ2 - EQ1 +0.0000 (0:0, p=nan); EQ2 - U +0.7973 (10:0, p=0.0020)
+  seq before (right after the room arrived): U 0.274 / EQ1 0.997 / EQ2 1.000; EQ2 - EQ1 +0.0030 (1:0, p=1.0000); EQ2 - U +0.7260 (10:0, p=0.0020)
+  learned meanings (seen-only store) at the last session: qbefore+qwhere: ['before'] (10 seeds); qwhere: ['last'] (10 seeds)
+  learned meanings (told-aware store) at the last session: qbefore+qwhere: ['before'] (10 seeds); qwhere: ['last'] (10 seeds)
+  scene part events at the last session: 657 (mean over seeds)
+  W4 old keys at the last session (U / EQ2):
+    old motion: U 0.056 | EQ2 0.056 (+0.0000 (0:0, p=nan))
+    old name: U 0.698 | EQ2 0.698 (+0.0000 (0:0, p=nan))
+    old scene: U 1.000 | EQ2 1.000 (+0.0000 (0:0, p=nan))
+  W1 told now EQ2 1.000 (p = 0.0020); W2 told before EQ2 1.000 (p = 0.0020); W3 drops []; W4 drops [] -> verdict: 성공
+exit 0

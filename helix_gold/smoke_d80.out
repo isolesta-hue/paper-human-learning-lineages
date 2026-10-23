@@ -1,0 +1,4 @@
+seed 0 life: 16 sessions, wall 889 s
+seq now {'U': 0.12, 'E': 0.587, 'EQ': 0.587}
+seq before {'U': 0.283, 'E': 0.0, 'EQ': 1.0}
+{'seq rel qbefore+qwhere': 1.0, 'seq rel qwhere': 0.0, 'old name U all': 0.6841397881507874, 'old name n all': 744.0, 'old motion U all': 0.0499194860458374, 'old motion n all': 621.0, 'old scene U all': 0.205607476635514, 'old name E all': 0.6841397881507874, 'old motion E all': 0.0499194860458374, 'old scene E all': 0.20249221183800623, 'old name EQ all': 0.6841397881507874, 'old motion EQ all': 0.0499194860458374, 'old scene EQ all': 0.205607476635514}

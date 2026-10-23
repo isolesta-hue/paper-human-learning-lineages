@@ -1,0 +1,8 @@
+unchanged worlds: PASS (96 builds)
+chain world = verb world + chain tests: PASS
+neg seed 0: V 457 (+4), dens [2, 4, 1, 8], heard per word [12, 6, 23, 3], test items 276 (per word [69, 69, 69, 69]), heard to = from True, right = stays & 4 distinct True, new elements last True, kinds ['name', 'name', 'name', 'name']
+chain seed 0: items 345, pairs ['d72 chain 02', 'd72 chain 03', 'd72 chain 12', 'd72 chain 13', 'd72 chain 23'], two new words & 4 distinct candidates True
+neg seed 1: V 457 (+4), dens [8, 4, 1, 2], heard per word [3, 6, 23, 12], test items 276 (per word [69, 69, 69, 69]), heard to = from True, right = stays & 4 distinct True, new elements last True, kinds ['name', 'name', 'name', 'name']
+chain seed 1: items 345, pairs ['d72 chain 02', 'd72 chain 03', 'd72 chain 12', 'd72 chain 13', 'd72 chain 23'], two new words & 4 distinct candidates True
+neg seed 2: V 457 (+4), dens [1, 2, 8, 4], heard per word [23, 12, 3, 6], test items 276 (per word [69, 69, 69, 69]), heard to = from True, right = stays & 4 distinct True, new elements last True, kinds ['name', 'name', 'name', 'name']
+chain seed 2: items 345, pairs ['d72 chain 02', 'd72 chain 03', 'd72 chain 12', 'd72 chain 13', 'd72 chain 23'], two new words & 4 distinct candidates True

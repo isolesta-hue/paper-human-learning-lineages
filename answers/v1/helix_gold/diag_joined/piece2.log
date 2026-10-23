@@ -1,0 +1,41 @@
+diagnosis (conv-v1j): lives ['life_001'] (done before: []), sessions all, workers 1, deadline 05:22:58Z, fingerprint 78809e282067
+resumed at session 7 (cpu so far 1738s)
+session 7: rows 4396, cpu 2167s, unchanged True
+session 8: rows 4943, cpu 2625s, unchanged True
+session 9: rows 5495, cpu 3151s, unchanged True
+session 10: rows 6047, cpu 3761s, unchanged True
+session 11: rows 6594, cpu 4421s, unchanged True
+session 12: rows 7141, cpu 5128s, unchanged True
+session 13: rows 7693, cpu 5944s, unchanged True
+session 14: rows 8245, cpu 6818s, unchanged True
+session 15: rows 8832, cpu 7838s, unchanged True
+{"life": "life_001", "converter": "conv-v1j", "sessions": "all", "rebuild_ok": true, "units": 1771, "exposure_lines": 1771, "rows": 8832, "duplicated": 0, "same_rows_as_recorded": true, "due": 8832, "keys_match": true, "unchanged_while_answering": true, "cpu_s": 7838.9, "wall_s_last_piece": 6177.3, "V": 3969, "items": 627}
+exit 0
+diagnosis (conv-v1j): lives ['life_007'] (done before: []), sessions all, workers 1, deadline 05:22:58Z, fingerprint 78809e282067
+resumed at session 5 (cpu so far 994s)
+session 5: rows 3292, cpu 1343s, unchanged True
+session 6: rows 3849, cpu 1717s, unchanged True
+session 7: rows 4396, cpu 2151s, unchanged True
+session 8: rows 4943, cpu 2659s, unchanged True
+session 9: rows 5490, cpu 3231s, unchanged True
+session 10: rows 6037, cpu 3861s, unchanged True
+session 11: rows 6584, cpu 4549s, unchanged True
+session 12: rows 7136, cpu 5321s, unchanged True
+session 13: rows 7693, cpu 6219s, unchanged True
+{"life": "life_007", "converter": "conv-v1j", "paused_after": 13, "cpu_s": 6224.7, "wall_s_this_piece": 5298.0}
+{"life": "life_007", "converter": "conv-v1j", "paused_after": 13, "cpu_s": 6224.7, "wall_s_this_piece": 5298.0}
+exit 0
+diagnosis (conv-v1j): lives ['life_018'] (done before: []), sessions all, workers 1, deadline 05:22:58Z, fingerprint 78809e282067
+resumed at session 6 (cpu so far 1440s)
+session 6: rows 3837, cpu 1846s, unchanged True
+session 7: rows 4388, cpu 2259s, unchanged True
+session 8: rows 4939, cpu 2735s, unchanged True
+session 9: rows 5485, cpu 3268s, unchanged True
+session 10: rows 6031, cpu 3886s, unchanged True
+session 11: rows 6582, cpu 4574s, unchanged True
+session 12: rows 7128, cpu 5304s, unchanged True
+session 13: rows 7679, cpu 6119s, unchanged True
+session 14: rows 8230, cpu 7074s, unchanged True
+{"life": "life_018", "converter": "conv-v1j", "paused_after": 14, "cpu_s": 7081.3, "wall_s_this_piece": 5713.2}
+{"life": "life_018", "converter": "conv-v1j", "paused_after": 14, "cpu_s": 7081.3, "wall_s_this_piece": 5713.2}
+exit 0

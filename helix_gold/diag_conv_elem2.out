@@ -1,0 +1,5 @@
+LATENT  32 steps   400: recall all 0.9852  element 1.0000  picture 0.9847  word 1.0000
+LATENT  32 steps  2000: recall all 0.9998  element 1.0000  picture 0.9997  word 1.0000
+LATENT  40 steps   400: recall all 1.0000  element 1.0000  picture 1.0000  word 1.0000
+LATENT  48 steps   400: recall all 1.0000  element 1.0000  picture 1.0000  word 1.0000
+LATENT  64 steps   400: recall all 1.0000  element 1.0000  picture 1.0000  word 1.0000

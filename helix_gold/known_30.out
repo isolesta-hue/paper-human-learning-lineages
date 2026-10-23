@@ -1,0 +1,57 @@
+=== 30 seeds; D26 (1) S1 only heard words are answer candidates ===
+  never-heard  knownonly 0.886 0.873 0.865 0.859 0.852 0.843 0.841 0.829 0.818 0.808 0.797 0.786 0.777 0.765 0.758 0.753
+  never-heard  B         0.866 0.863 0.862 0.852 0.848 0.845 0.834 0.829 0.823 0.814 0.801 0.794 0.787 0.774 0.769 0.760
+  never-heard  Br        0.866 0.863 0.862 0.852 0.848 0.845 0.834 0.829 0.823 0.814 0.801 0.794 0.787 0.774 0.769 0.760
+  once all     knownonly 0.975 0.924 0.898 0.849 0.809 0.790 0.769 0.730 0.675 0.630 0.579 0.547 0.509 0.476 0.452 0.433
+  once all     B         0.984 0.921 0.869 0.831 0.790 0.770 0.732 0.723 0.679 0.632 0.582 0.550 0.521 0.486 0.465 0.440
+  once all     Br        0.984 0.921 0.869 0.831 0.790 0.770 0.732 0.723 0.679 0.632 0.582 0.550 0.521 0.486 0.465 0.440
+  unseen all   knownonly 0.181 0.322 0.306 0.372 0.378 0.296 0.350 0.312 0.281 0.281 0.261 0.283 0.273 0.228 0.236 0.233
+  unseen all   B         0.145 0.206 0.286 0.315 0.320 0.311 0.299 0.301 0.340 0.318 0.282 0.276 0.294 0.276 0.263 0.258
+  unseen all   Br        0.145 0.206 0.286 0.315 0.320 0.311 0.299 0.301 0.340 0.318 0.282 0.276 0.294 0.276 0.263 0.258
+/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_known.py:62: RuntimeWarning: Mean of empty slice
+  print(f"  {k:12} {tag:9} " + " ".join("  -  " if np.isnan(x) else f"{x:.3f}" for x in np.nanmean(g(c, k), 0)))
+  older        knownonly   -   0.866 0.851 0.854 0.846 0.839 0.839 0.827 0.814 0.806 0.795 0.785 0.778 0.765 0.757 0.752
+  older        B           -   0.846 0.847 0.846 0.844 0.842 0.832 0.827 0.820 0.811 0.800 0.793 0.788 0.774 0.768 0.759
+  older        Br          -   0.846 0.847 0.846 0.844 0.842 0.832 0.827 0.820 0.811 0.800 0.793 0.788 0.774 0.768 0.759
+  newest       knownonly 0.886 0.876 0.888 0.869 0.875 0.863 0.849 0.839 0.845 0.825 0.804 0.794 0.771 0.764 0.772 0.762
+  newest       B         0.866 0.880 0.885 0.868 0.868 0.855 0.848 0.843 0.841 0.832 0.809 0.803 0.781 0.779 0.784 0.771
+  newest       Br        0.866 0.880 0.885 0.868 0.868 0.855 0.848 0.843 0.841 0.832 0.809 0.803 0.781 0.779 0.784 0.771
+  chain        knownonly 0.435 0.563 0.744 0.874 0.924 0.943 0.957 0.975 0.993 0.995 0.997 0.999 1.000 1.000 1.000 1.000
+  chain        B         1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000
+  chain        Br        1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000
+  story        knownonly   -     -     -     -     -     -     -     -     -     -     -     -     -     -     -     -  
+  story        B           -     -     -     -     -     -     -     -     -     -     -     -     -     -     -     -  
+  story        Br          -     -     -     -     -     -     -     -     -     -     -     -     -     -     -     -  
+  describe     knownonly 0.236 0.299 0.336 0.400 0.430 0.478 0.508 0.537 0.553 0.538 0.525 0.502 0.428 0.357 0.319 0.297
+  describe     B         0.236 0.257 0.327 0.403 0.430 0.476 0.501 0.534 0.544 0.545 0.523 0.503 0.436 0.364 0.322 0.301
+  describe     Br        0.236 0.257 0.327 0.403 0.430 0.476 0.501 0.534 0.544 0.545 0.523 0.503 0.436 0.364 0.322 0.301
+  unheard answer never-heard knownonly 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+  unheard answer never-heard B           -     -     -     -     -     -     -     -     -     -     -     -     -     -     -     -  
+  unheard answer never-heard Br        0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+  unheard answer chain knownonly 0.565 0.437 0.256 0.126 0.076 0.057 0.043 0.025 0.007 0.005 0.003 0.001 0.000 0.000 0.000 0.000
+  unheard answer chain B           -     -     -     -     -     -     -     -     -     -     -     -     -     -     -     -  
+  unheard answer chain Br        0.565 0.437 0.256 0.126 0.076 0.057 0.043 0.025 0.007 0.005 0.003 0.001 0.000 0.000 0.000 0.000
+  never-heard answerable knownonly 0.886 0.873 0.865 0.859 0.852 0.843 0.841 0.829 0.818 0.808 0.797 0.786 0.777 0.765 0.758 0.753
+  never-heard answerable B           -     -     -     -     -     -     -     -     -     -     -     -     -     -     -     -  
+  never-heard answerable Br        0.866 0.863 0.862 0.852 0.848 0.845 0.834 0.829 0.823 0.814 0.801 0.794 0.787 0.774 0.769 0.760
+  chain answerable knownonly 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000
+  chain answerable B           -     -     -     -     -     -     -     -     -     -     -     -     -     -     -     -  
+  chain answerable Br        1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000
+  K5 never-heard answerable knownonly - Br: end -0.0070 (15:15, p=1.0000) | life -0.0008 (14:16, p=0.8555)
+  K5 chain answerable       knownonly - Br: end +0.0000 (0:0, p=nan) | life +0.0000 (0:0, p=nan)
+  K1 never-heard  knownonly - B: end -0.0070 (15:15, p=1.0000) | life -0.0008 (14:16, p=0.8555) | max |diff| 0.099
+  K2 once all     knownonly - B: end -0.0072 (15:13, p=0.8506) | life +0.0047 (18:12, p=0.3616) | max |diff| 0.310
+  K2 unseen all   knownonly - B: end -0.0246 (13:17, p=0.5847) | life +0.0046 (16:14, p=0.8555) | max |diff| 0.833
+  K2 older        knownonly - B: end -0.0068 (15:15, p=1.0000) | life -0.0013 (15:15, p=1.0000) | max |diff| 0.107
+  K2 newest       knownonly - B: end -0.0092 (13:14, p=1.0000) | life -0.0018 (14:16, p=0.8555) | max |diff| 0.138
+  K3 chain        knownonly - B: end +0.0000 (0:0, p=nan) | life -0.0908 (0:29, p=0.0000) | max |diff| 1.000
+/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_count.py:47: RuntimeWarning: Mean of empty slice
+  return f"{x.mean():+.4f} ({w}:{lo}, p={sign_p(w, lo):.4f})"
+/usr/local/lib/python3.11/dist-packages/numpy/_core/_methods.py:142: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_known.py:69: RuntimeWarning: Mean of empty slice
+  print(f"  {lab} {k:12} knownonly - B: end {sgn(d[:, -1])} | life {sgn(np.nanmean(d, 1))} | max |diff| {np.nanmax(np.abs(d)):.3f}")
+/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_known.py:69: RuntimeWarning: All-NaN slice encountered
+  print(f"  {lab} {k:12} knownonly - B: end {sgn(d[:, -1])} | life {sgn(np.nanmean(d, 1))} | max |diff| {np.nanmax(np.abs(d)):.3f}")
+  K3 story        knownonly - B: end +nan (0:0, p=nan) | life +nan (0:0, p=nan) | max |diff| nan
+  K3 describe     knownonly - B: end -0.0047 (12:16, p=0.5716) | life +0.0021 (17:13, p=0.5847) | max |diff| 0.333

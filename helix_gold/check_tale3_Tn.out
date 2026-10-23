@@ -1,0 +1,14 @@
+Tn   tale preview unmarked        nan 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 nan nan nan nan nan
+Tn   tale preview marked          0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 nan nan nan nan
+Tn   tale in                      0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+Tn   tale real turned             nan nan nan nan nan nan nan nan nan nan nan nan 1.000 1.000 1.000 1.000
+Tn   tale real clean              nan nan nan 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000
+Tn   tale real drop               1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000
+Tn   tale transfer                1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000
+Tn   never-heard                  0.929 0.864 0.832 0.832 0.832 0.880 0.824 0.815 0.790 0.781 0.760 0.749 0.738 0.739 0.726 0.719
+Tn   story                        1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000
+Tn   tale in body                 0.167 0.167 0.222 0.267 0.200 0.267 0.278 0.286 0.259 0.273 0.179 0.178 0.167 0.188 0.208 0.167
+Tn   tale preview unmarked body   nan 0.167 0.167 0.083 0.083 0.056 0.056 0.125 0.278 0.417 0.500 nan nan nan nan nan
+Tn   tale preview marked body     0.083 0.083 0.083 0.167 0.167 0.278 0.222 0.292 0.292 0.333 0.333 0.500 nan nan nan nan
+Tn   tale flagged                 nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+time 4087

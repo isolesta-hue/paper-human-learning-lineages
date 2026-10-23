@@ -1,0 +1,255 @@
+=== D69 self-trust gate: FIT / FIT+gate / ALL+gate, 10 seeds (development test) ===
+flag check: no collision
+--- @ten: FIT +wm+wmctx+wmrev+bind+wmlast+track+count+contain | ALL adds +props+grav+wmframe+succ+scale+views+vturn+goal+self
+  G1 ALL+gate - FIT (R1 keys, end; mean F / mean AG / mean diff / sign p)
+    chain                                1.000 1.000 +0.000 p=nan
+    chain flipped                        1.000 1.000 +0.000 p=nan
+    contain by                           1.000 1.000 +0.000 p=nan
+    contain in                           1.000 1.000 +0.000 p=nan
+    contain table right                  1.000 1.000 +0.000 p=nan
+    describe                             1.000 1.000 +0.000 p=nan
+    describe flipped                     1.000 1.000 +0.000 p=nan
+    describe wm fired                    1.000 1.000 +0.000 p=nan
+    describe wm right                    1.000 1.000 +0.000 p=nan
+    multi                                1.000 1.000 +0.000 p=nan
+    multi same                           1.000 1.000 +0.000 p=nan
+    multi three                          1.000 1.000 +0.000 p=nan
+    multi trust                          1.000 1.000 +0.000 p=nan
+    multi two                            1.000 1.000 +0.000 p=nan
+    multi wm fired                       1.000 1.000 +0.000 p=nan
+    multi wm right                       1.000 1.000 +0.000 p=nan
+    never-heard                          0.704 0.705 +0.001 p=0.625
+    story                                1.000 0.001 -0.999 p=0.002  WORSE
+    story wm fired                       1.000 0.000 -1.000 p=0.002  WORSE
+    story wm right                       1.000 0.000 -1.000 p=0.002  WORSE
+    ten box new                          1.000 1.000 +0.000 p=nan
+    ten count                            1.000 1.000 +0.000 p=nan
+    ten count 1                          1.000 1.000 +0.000 p=nan
+    ten count 10                         1.000 1.000 +0.000 p=nan
+    ten count 2                          1.000 1.000 +0.000 p=nan
+    ten count 3                          1.000 1.000 +0.000 p=nan
+    ten count 4                          1.000 1.000 +0.000 p=nan
+    ten count 5                          1.000 1.000 +0.000 p=nan
+    ten count 6                          1.000 1.000 +0.000 p=nan
+    ten count 7                          1.000 1.000 +0.000 p=nan
+    ten count 8                          1.000 1.000 +0.000 p=nan
+    ten count 9                          1.000 1.000 +0.000 p=nan
+    ten count all                        1.000 1.000 +0.000 p=nan
+    ten next                             0.093 0.099 +0.006 p=0.625
+    ten next 1                           0.183 0.213 +0.030 p=0.625
+    ten next 2                           0.074 0.104 +0.030 p=1.000
+    ten next 3                           0.122 0.196 +0.074 p=0.625
+    ten next 4                           0.078 0.074 -0.004 p=1.000
+    ten next 5                           0.091 0.087 -0.004 p=1.000
+    ten next 6                           0.048 0.061 +0.013 p=0.500
+    ten next 7                           0.048 0.057 +0.009 p=1.000
+    ten next 8                           0.017 0.009 -0.009 p=0.500
+    ten next 9                           0.174 0.087 -0.087 p=0.500
+    ten next all                         0.000 0.000 +0.000 p=nan
+    ten pick                             1.000 1.000 +0.000 p=nan
+    ten pick 1                           1.000 1.000 +0.000 p=nan
+    ten pick 10                          1.000 1.000 +0.000 p=nan
+    ten pick 2                           1.000 1.000 +0.000 p=nan
+    ten pick 3                           1.000 1.000 +0.000 p=nan
+    ten pick 4                           1.000 1.000 +0.000 p=nan
+    ten pick 5                           1.000 1.000 +0.000 p=nan
+    ten pick 6                           1.000 1.000 +0.000 p=nan
+    ten pick 7                           1.000 1.000 +0.000 p=nan
+    ten pick 8                           1.000 1.000 +0.000 p=nan
+    ten pick 9                           1.000 1.000 +0.000 p=nan
+    voe ten                              1.000 1.000 +0.000 p=nan
+    voe ten far                          1.000 1.000 +0.000 p=nan
+    voe ten held                         1.000 1.000 +0.000 p=nan
+    voe ten new                          1.000 1.000 +0.000 p=nan
+    voe ten taught                       1.000 1.000 +0.000 p=nan
+  G1 ALL+gate - FIT: 아직 -- decided worse ['story', 'story wm fired', 'story wm right']; decided better none; undecided |mean| >= 0.02: ['ten next 1', 'ten next 2', 'ten next 3', 'ten next 9']
+  G2 FIT+gate - FIT (R1 keys, end; mean F / mean FG / mean diff / sign p)
+    chain                                1.000 1.000 +0.000 p=nan
+    chain flipped                        1.000 1.000 +0.000 p=nan
+    contain by                           1.000 1.000 +0.000 p=nan
+    contain in                           1.000 1.000 +0.000 p=nan
+    contain table right                  1.000 1.000 +0.000 p=nan
+    describe                             1.000 1.000 +0.000 p=nan
+    describe flipped                     1.000 1.000 +0.000 p=nan
+    describe wm fired                    1.000 1.000 +0.000 p=nan
+    describe wm right                    1.000 1.000 +0.000 p=nan
+    multi                                1.000 1.000 +0.000 p=nan
+    multi same                           1.000 1.000 +0.000 p=nan
+    multi three                          1.000 1.000 +0.000 p=nan
+    multi trust                          1.000 1.000 +0.000 p=nan
+    multi two                            1.000 1.000 +0.000 p=nan
+    multi wm fired                       1.000 1.000 +0.000 p=nan
+    multi wm right                       1.000 1.000 +0.000 p=nan
+    never-heard                          0.704 0.705 +0.001 p=0.625
+    story                                1.000 0.001 -0.999 p=0.002  WORSE
+    story wm fired                       1.000 0.000 -1.000 p=0.002  WORSE
+    story wm right                       1.000 0.000 -1.000 p=0.002  WORSE
+    ten box new                          1.000 1.000 +0.000 p=nan
+    ten count                            1.000 1.000 +0.000 p=nan
+    ten count 1                          1.000 1.000 +0.000 p=nan
+    ten count 10                         1.000 1.000 +0.000 p=nan
+    ten count 2                          1.000 1.000 +0.000 p=nan
+    ten count 3                          1.000 1.000 +0.000 p=nan
+    ten count 4                          1.000 1.000 +0.000 p=nan
+    ten count 5                          1.000 1.000 +0.000 p=nan
+    ten count 6                          1.000 1.000 +0.000 p=nan
+    ten count 7                          1.000 1.000 +0.000 p=nan
+    ten count 8                          1.000 1.000 +0.000 p=nan
+    ten count 9                          1.000 1.000 +0.000 p=nan
+    ten count all                        1.000 1.000 +0.000 p=nan
+    ten next                             0.093 0.099 +0.006 p=0.625
+    ten next 1                           0.183 0.213 +0.030 p=0.625
+    ten next 2                           0.074 0.104 +0.030 p=1.000
+    ten next 3                           0.122 0.196 +0.074 p=0.625
+    ten next 4                           0.078 0.074 -0.004 p=1.000
+    ten next 5                           0.091 0.087 -0.004 p=1.000
+    ten next 6                           0.048 0.061 +0.013 p=0.500
+    ten next 7                           0.048 0.057 +0.009 p=1.000
+    ten next 8                           0.017 0.009 -0.009 p=0.500
+    ten next 9                           0.174 0.087 -0.087 p=0.500
+    ten next all                         0.000 0.000 +0.000 p=nan
+    ten pick                             1.000 1.000 +0.000 p=nan
+    ten pick 1                           1.000 1.000 +0.000 p=nan
+    ten pick 10                          1.000 1.000 +0.000 p=nan
+    ten pick 2                           1.000 1.000 +0.000 p=nan
+    ten pick 3                           1.000 1.000 +0.000 p=nan
+    ten pick 4                           1.000 1.000 +0.000 p=nan
+    ten pick 5                           1.000 1.000 +0.000 p=nan
+    ten pick 6                           1.000 1.000 +0.000 p=nan
+    ten pick 7                           1.000 1.000 +0.000 p=nan
+    ten pick 8                           1.000 1.000 +0.000 p=nan
+    ten pick 9                           1.000 1.000 +0.000 p=nan
+    voe ten                              1.000 1.000 +0.000 p=nan
+    voe ten far                          1.000 1.000 +0.000 p=nan
+    voe ten held                         1.000 1.000 +0.000 p=nan
+    voe ten new                          1.000 1.000 +0.000 p=nan
+    voe ten taught                       1.000 1.000 +0.000 p=nan
+  G2 FIT+gate - FIT: 손해 -- decided worse ['story', 'story wm fired', 'story wm right']; decided better none; undecided |mean| >= 0.02: ['ten next 1', 'ten next 2', 'ten next 3', 'ten next 9']
+  G1 recovered share on the pilot's harmed R1 keys (seeds [0, 1, 2]): median 1.00 over 108 key-seeds
+  G3 AG: part  speaks-at-end share | first session it speaks (median) | end record differed / right
+/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_d69.py:154: RuntimeWarning: All-NaN slice encountered
+  print(f"    {p_:8s} {'FIT' if p_ in fit else 'non':3s} {share:.2f} | {np.nanmedian(first):.0f} | "
+    wmctx    FIT 0.00 | nan | 0 / 0
+    wmrev    FIT 1.00 | 2 | 132 / 132
+    bind     FIT 0.00 | nan | 5 / 2
+    track    FIT 1.00 | 2 | 330 / 324
+    props    non 0.00 | nan | 2 / 0
+    grav     non 0.00 | nan | 76 / 0
+    wmframe  non 0.00 | nan | 0 / 0
+    contain  FIT 1.00 | 3 | 44 / 44
+    count    FIT 1.00 | 3 | 110 / 110
+    succ     non 0.00 | nan | 0 / 0
+    scale    non 0.00 | nan | 0 / 0
+    views    non 0.00 | nan | 0 / 0
+    vturn    non 0.00 | nan | 0 / 0
+    goal     non 0.00 | nan | 92 / 0
+    self     non 0.00 | nan | 0 / 0
+  G3 AG: FIT parts quiet at the end (in most seeds): ['wmctx', 'bind']; non-FIT parts speaking: none
+  G3 FG: part  speaks-at-end share | first session it speaks (median) | end record differed / right
+    wmctx    FIT 0.00 | nan | 0 / 0
+    wmrev    FIT 1.00 | 2 | 132 / 132
+    bind     FIT 0.00 | nan | 5 / 2
+    track    FIT 1.00 | 2 | 330 / 324
+    contain  FIT 1.00 | 3 | 44 / 44
+    count    FIT 1.00 | 3 | 110 / 110
+  G3 FG: FIT parts quiet at the end (in most seeds): ['wmctx', 'bind']; non-FIT parts speaking: none
+  G4 AG - F over 167 keys: decided up 0, down 3
+  G4 FG - F over 167 keys: decided up 0, down 3
+  G5 cost AG / F units 1.03; peak GB F 7.46, AG 5.89
+  G5 cost FG / F units 0.99; peak GB F 7.46, FG 7.61
+  DECISION @ten: G1 아직, G2 손해
+--- @sp: FIT +wm+wmctx+wmrev+bind+wmlast+track+contain | ALL adds +props+grav+wmframe+count+succ+scale+views+vturn+goal+self
+  G1 ALL+gate - FIT (R1 keys, end; mean F / mean AG / mean diff / sign p)
+    chain                                1.000 1.000 +0.000 p=nan
+    chain flipped                        1.000 1.000 +0.000 p=nan
+    contain by                           1.000 1.000 +0.000 p=nan
+    contain in                           1.000 1.000 +0.000 p=nan
+    contain table right                  1.000 1.000 +0.000 p=nan
+    describe                             1.000 1.000 +0.000 p=nan
+    describe flipped                     1.000 1.000 +0.000 p=nan
+    describe wm fired                    1.000 1.000 +0.000 p=nan
+    describe wm right                    1.000 1.000 +0.000 p=nan
+    multi                                1.000 1.000 +0.000 p=nan
+    multi same                           1.000 1.000 +0.000 p=nan
+    multi three                          1.000 1.000 +0.000 p=nan
+    multi trust                          1.000 1.000 +0.000 p=nan
+    multi two                            1.000 1.000 +0.000 p=nan
+    multi wm fired                       1.000 1.000 +0.000 p=nan
+    multi wm right                       1.000 1.000 +0.000 p=nan
+    never-heard                          0.686 0.687 +0.002 p=1.000
+    sp scene4                            0.300 0.302 +0.002 p=1.000
+    sp scene4 ANE                        0.036 0.041 +0.004 p=0.625
+    sp scene4 ARAE                       0.368 0.377 +0.009 p=0.625
+    sp scene4 WI                         0.349 0.325 -0.025 p=1.000
+    sp scene4 YEOPE                      0.446 0.467 +0.020 p=1.000
+    sp word4                             0.253 0.258 +0.005 p=1.000
+    sp word4 ANE                         0.280 0.284 +0.004 p=1.000
+    sp word4 ARAE                        0.158 0.168 +0.010 p=0.625
+    sp word4 WI                          0.183 0.167 -0.016 p=0.125
+    sp word4 YEOPE                       0.390 0.412 +0.022 p=0.125
+    story                                1.000 0.012 -0.988 p=0.002  WORSE
+    story wm fired                       1.000 0.000 -1.000 p=0.002  WORSE
+    story wm right                       1.000 0.000 -1.000 p=0.002  WORSE
+  G1 ALL+gate - FIT: 아직 -- decided worse ['story', 'story wm fired', 'story wm right']; decided better none; undecided |mean| >= 0.02: ['sp scene4 WI', 'sp scene4 YEOPE', 'sp word4 YEOPE']
+  G2 FIT+gate - FIT (R1 keys, end; mean F / mean FG / mean diff / sign p)
+    chain                                1.000 1.000 +0.000 p=nan
+    chain flipped                        1.000 1.000 +0.000 p=nan
+    contain by                           1.000 1.000 +0.000 p=nan
+    contain in                           1.000 1.000 +0.000 p=nan
+    contain table right                  1.000 1.000 +0.000 p=nan
+    describe                             1.000 1.000 +0.000 p=nan
+    describe flipped                     1.000 1.000 +0.000 p=nan
+    describe wm fired                    1.000 1.000 +0.000 p=nan
+    describe wm right                    1.000 1.000 +0.000 p=nan
+    multi                                1.000 1.000 +0.000 p=nan
+    multi same                           1.000 1.000 +0.000 p=nan
+    multi three                          1.000 1.000 +0.000 p=nan
+    multi trust                          1.000 1.000 +0.000 p=nan
+    multi two                            1.000 1.000 +0.000 p=nan
+    multi wm fired                       1.000 1.000 +0.000 p=nan
+    multi wm right                       1.000 1.000 +0.000 p=nan
+    never-heard                          0.686 0.687 +0.002 p=1.000
+    sp scene4                            0.300 0.302 +0.002 p=1.000
+    sp scene4 ANE                        0.036 0.041 +0.004 p=0.625
+    sp scene4 ARAE                       0.368 0.377 +0.009 p=0.625
+    sp scene4 WI                         0.349 0.325 -0.025 p=1.000
+    sp scene4 YEOPE                      0.446 0.467 +0.020 p=1.000
+    sp word4                             0.253 0.258 +0.005 p=1.000
+    sp word4 ANE                         0.280 0.284 +0.004 p=1.000
+    sp word4 ARAE                        0.158 0.168 +0.010 p=0.625
+    sp word4 WI                          0.183 0.167 -0.016 p=0.125
+    sp word4 YEOPE                       0.390 0.412 +0.022 p=0.125
+    story                                1.000 0.012 -0.988 p=0.002  WORSE
+    story wm fired                       1.000 0.000 -1.000 p=0.002  WORSE
+    story wm right                       1.000 0.000 -1.000 p=0.002  WORSE
+  G2 FIT+gate - FIT: 손해 -- decided worse ['story', 'story wm fired', 'story wm right']; decided better none; undecided |mean| >= 0.02: ['sp scene4 WI', 'sp scene4 YEOPE', 'sp word4 YEOPE']
+  G1 recovered share on the pilot's harmed R1 keys (seeds [0, 1, 2]): median 1.00 over 24 key-seeds
+  G3 AG: part  speaks-at-end share | first session it speaks (median) | end record differed / right
+    wmctx    FIT 0.00 | nan | 0 / 0
+    wmrev    FIT 1.00 | 2 | 132 / 132
+    bind     FIT 0.00 | nan | 5 / 2
+    track    FIT 1.00 | 2 | 230 / 224
+    props    non 0.00 | nan | 2 / 0
+    grav     non 0.00 | nan | 76 / 0
+    wmframe  non 0.00 | nan | 0 / 0
+    contain  FIT 1.00 | 3 | 44 / 44
+    count    non 0.00 | nan | 0 / 0
+    succ     non 0.00 | nan | 0 / 0
+    scale    non 0.00 | nan | 0 / 0
+    views    non 0.00 | nan | 0 / 0
+    vturn    non 0.00 | nan | 0 / 0
+    goal     non 0.00 | nan | 0 / 0
+    self     non 0.00 | nan | 0 / 0
+  G3 AG: FIT parts quiet at the end (in most seeds): ['wmctx', 'bind']; non-FIT parts speaking: none
+  G3 FG: part  speaks-at-end share | first session it speaks (median) | end record differed / right
+    wmctx    FIT 0.00 | nan | 0 / 0
+    wmrev    FIT 1.00 | 2 | 132 / 132
+    bind     FIT 0.00 | nan | 5 / 2
+    track    FIT 1.00 | 2 | 230 / 224
+    contain  FIT 1.00 | 3 | 44 / 44
+  G3 FG: FIT parts quiet at the end (in most seeds): ['wmctx', 'bind']; non-FIT parts speaking: none
+  G4 AG - F over 101 keys: decided up 0, down 3
+  G4 FG - F over 101 keys: decided up 0, down 3
+  G5 cost AG / F units 1.18; peak GB F 4.47, AG 3.86
+  G5 cost FG / F units 1.22; peak GB F 4.47, FG 3.86
+  DECISION @sp: G1 아직, G2 손해

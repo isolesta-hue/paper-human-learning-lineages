@@ -1,0 +1,98 @@
+edition dev1000 generator gen-v1 lives 2 seed_sha256 405101758459; Dami fingerprint 0d23b5934238; conv-v1 conv-v1; smoke True; sessions 2; workers 2
+session 0: rows 539, cpu 67s, unchanged True
+session 0: rows 546, cpu 69s, unchanged True
+session 1: rows 1083, cpu 131s, unchanged True
+session 1: rows 1092, cpu 137s, unchanged True
+lives: kept 0, new 2, not started 0
+life_000: rows 1092/1092 keys_match True unchanged True rehearse 4 recall 0.9998 cpu 137s peak 1.70 GB
+life_001: rows 1083/1083 keys_match True unchanged True rehearse 3 recall 0.9997 cpu 131s peak 1.68 GB
+== dami: missing answers 1240
+  criterion 0: not passed
+     element memory (pooled): acc 0.000, lower 0.000, n 176, line 0.990, pass False
+     name (box) (reported): acc 0.000, lower 0.000, n 32
+     name (thing) (reported): acc 0.000, lower 0.000, n 64
+     name (person) (reported): acc 0.000, lower 0.000, n 32
+     particle (object) (reported): acc 0.000, lower 0.000, n 16
+     particle (subject) (reported): acc 0.000, lower 0.000, n 16
+     particle (direction) (reported): acc 0.000, lower 0.000, n 16
+  criterion 1: not passed
+     who: acc 0.000, lower 0.000, n 48, line 0.850, pass False
+     what: acc 0.000, lower 0.000, n 48, line 0.850, pass False
+     where: acc 0.000, lower -0.000, n 23, line 0.850, pass False
+  criterion 2: not passed
+     heard once, which, right after: acc 0.083, lower 0.015, n 12, line 0.600, pass False
+     kept at the end (end / right after): ratio 0.000, line 0.800, pass False
+  criterion 3: not passed
+     scene -> number: acc 0.000, lower -0.000, n 80, line 0.900, pass False, lowest n 0.000
+     number -> scene: acc 0.000, lower -0.000, n 40, line 0.900, pass False, lowest n 0.000
+  criterion 4: not passed
+     untaught how many: acc 0.000, lower 0.000, n 48, line 0.800, pass False
+     box emptied pair: acc 0.000, lower 0.000, n 64, line 0.850, pass False
+     judged (C3 passed): False
+  criterion 5: not passed
+     cross-language (pooled): acc 0.000, lower -0.000, n 81, line 0.700, pass False
+     criterion 1 who in ko: acc 0.000, lower 0.000, n 24, line 0.850, pass False
+     criterion 1 what in ko: acc 0.000, lower 0.000, n 24, line 0.850, pass False
+     criterion 1 where in ko: acc 0.000, lower 0.000, n 13, line 0.850, pass False
+     criterion 1 who in en: acc 0.000, lower 0.000, n 24, line 0.850, pass False
+     criterion 1 what in en: acc 0.000, lower 0.000, n 24, line 0.850, pass False
+     criterion 1 where in en: acc 0.000, lower -0.000, n 10, line 0.850, pass False
+  criterion 6: not passed
+     support prediction: acc 0.000, lower 0.000, n 12, line 0.900, pass False
+     support pair: acc 0.000, lower 0.000, n 12, line 0.900, pass False
+     solidity prediction: acc 0.000, lower 0.000, n 12, line 0.900, pass False
+     solidity pair: acc 0.000, lower 0.000, n 12, line 0.900, pass False
+     contact prediction: acc 0.000, lower 0.000, n 12, line 0.900, pass False
+     contact pair: acc 0.000, lower 0.000, n 12, line 0.900, pass False
+     permanence prediction: acc 0.000, lower 0.000, n 12, line 0.900, pass False
+     permanence pair: acc 0.000, lower 0.000, n 12, line 0.900, pass False
+  criterion 7: not passed
+     who: acc 0.000, lower -0.000, n 20, line 0.850, pass False
+     what: acc 0.000, lower 0.000, n 17, line 0.850, pass False
+     where: acc 0.000, lower -0.000, n 5, line 0.850, pass False
+  criterion 8: not passed
+     where now: acc 0.000, lower 0.000, n 3, line 0.850, pass False
+     where now (long): acc 0.000, lower 0.000, n 4, line 0.800, pass False
+     where before: acc 0.000, lower 0.000, n 3, line 0.850, pass False
+     where before (long): acc 0.000, lower 0.000, n 4, line 0.800, pass False
+  criterion 9: not passed
+     spatial words (pooled): acc 0.000, lower 0.000, n 42, line 0.900, pass False
+  reported apart (not in a verdict: order-flagged, report-only, reported kinds):
+     c1 new combination where  order: 0.000 (n 11)
+     c2 new word name end x1 : 0.000 (n 8)
+     c2 new word name end x2 : 0.000 (n 8)
+     c2 new word name end x4 : 0.000 (n 8)
+     c2 new word name end x8 : 0.000 (n 8)
+     c2 new word name right after x1 : 0.000 (n 8)
+     c2 new word name right after x2 : 0.000 (n 8)
+     c2 new word name right after x4 : 0.000 (n 8)
+     c2 new word name right after x8 : 0.000 (n 8)
+     c2 new word which end x2 : 0.000 (n 12)
+     c2 new word which end x4 : 0.000 (n 12)
+     c2 new word which end x8 : 0.000 (n 12)
+     c2 new word which right after x2 : 0.000 (n 12)
+     c2 new word which right after x4 : 0.000 (n 12)
+     c2 new word which right after x8 : 0.000 (n 12)
+     c3 next number (report only)  : 0.000 (n 36)
+     c4 how many inside taught : 0.000 (n 16)
+     c5 cross-language where  order: 0.000 (n 7)
+     c6 contact pair novel : 0.000 (n 12)
+     c6 contact prediction novel : 0.000 (n 12)
+     c6 permanence pair novel : 0.000 (n 12)
+     c6 permanence prediction novel : 0.000 (n 12)
+     c6 solidity pair novel : 0.000 (n 12)
+     c6 solidity prediction novel : 0.000 (n 12)
+     c6 support pair novel : 0.000 (n 12)
+     c6 support prediction novel : 0.000 (n 12)
+     c7 story when  : 0.000 (n 18)
+     c7 story when  order: 0.000 (n 2)
+     c7 story where  order: 0.000 (n 13)
+     c8 where before long order: 0.000 (n 12)
+     c8 where before normal order: 0.000 (n 13)
+     c8 where now long order: 0.000 (n 12)
+     c8 where now normal order: 0.000 (n 13)
+     c9 scene -> word  order: 0.000 (n 20)
+     c9 word -> scene  order: 0.000 (n 14)
+
+
+grader exit 0

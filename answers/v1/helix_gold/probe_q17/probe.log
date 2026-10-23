@@ -1,0 +1,55 @@
+Tue Oct 20 11:39:34 UTC 2026
+probe: lives ['life_001', 'life_018', 'life_007'], sessions all, workers 3, fingerprint 0551dd3a140d
+session 0: rows 547, cpu 84s, unchanged True
+session 0: rows 547, cpu 85s, unchanged True
+session 0: rows 546, cpu 87s, unchanged True
+session 1: rows 1094, cpu 151s, unchanged True
+session 1: rows 1092, cpu 154s, unchanged True
+session 1: rows 1094, cpu 160s, unchanged True
+session 2: rows 1641, cpu 234s, unchanged True
+session 2: rows 1643, cpu 255s, unchanged True
+session 2: rows 1641, cpu 265s, unchanged True
+session 3: rows 2188, cpu 348s, unchanged True
+session 3: rows 2194, cpu 385s, unchanged True
+session 3: rows 2188, cpu 395s, unchanged True
+session 4: rows 2740, cpu 484s, unchanged True
+session 4: rows 2740, cpu 545s, unchanged True
+session 4: rows 2740, cpu 546s, unchanged True
+session 5: rows 3287, cpu 648s, unchanged True
+session 5: rows 3291, cpu 727s, unchanged True
+session 5: rows 3292, cpu 728s, unchanged True
+session 6: rows 3844, cpu 831s, unchanged True
+session 6: rows 3837, cpu 924s, unchanged True
+session 6: rows 3849, cpu 928s, unchanged True
+session 7: rows 4396, cpu 1040s, unchanged True
+session 7: rows 4388, cpu 1133s, unchanged True
+session 7: rows 4396, cpu 1143s, unchanged True
+session 8: rows 4943, cpu 1255s, unchanged True
+session 8: rows 4939, cpu 1360s, unchanged True
+session 8: rows 4943, cpu 1385s, unchanged True
+session 9: rows 5495, cpu 1505s, unchanged True
+session 9: rows 5485, cpu 1606s, unchanged True
+session 9: rows 5490, cpu 1641s, unchanged True
+session 10: rows 6047, cpu 1780s, unchanged True
+session 10: rows 6031, cpu 1889s, unchanged True
+session 10: rows 6037, cpu 1952s, unchanged True
+session 11: rows 6594, cpu 2072s, unchanged True
+session 11: rows 6582, cpu 2192s, unchanged True
+session 11: rows 6584, cpu 2257s, unchanged True
+session 12: rows 7141, cpu 2381s, unchanged True
+session 12: rows 7128, cpu 2503s, unchanged True
+session 12: rows 7136, cpu 2579s, unchanged True
+session 13: rows 7693, cpu 2721s, unchanged True
+session 13: rows 7679, cpu 2839s, unchanged True
+session 13: rows 7693, cpu 2920s, unchanged True
+session 14: rows 8245, cpu 3072s, unchanged True
+session 14: rows 8230, cpu 3235s, unchanged True
+session 14: rows 8245, cpu 3271s, unchanged True
+session 15: rows 8832, cpu 3562s, unchanged True
+{"life": "life_001", "sessions": "all", "rows": 8832, "compared": true, "same_rows": true, "exact": 8832, "recorded": 8832, "unchanged_while_answering": true, "pre_unchanged": true, "pre_cpu_s": 18.4, "probe_rows": 1254, "judged_rows": 627, "real_equal": 627, "largest_split_err": 4.76837158203125e-06, "largest_full_dev": 1.9073486328125e-06, "variants": ["-assoc", "-chunk", "-habit", "-pattern", "-side", "-sim", "assoc", "chunk", "full", "habit", "nogate", "pattern", "real", "side", "sim"], "cpu_s": 3562.4, "wall_s": 3635.9}
+session 15: rows 8832, cpu 3788s, unchanged True
+{"life": "life_007", "sessions": "all", "rows": 8832, "compared": true, "same_rows": true, "exact": 8832, "recorded": 8832, "unchanged_while_answering": true, "pre_unchanged": true, "pre_cpu_s": 17.5, "probe_rows": 1254, "judged_rows": 627, "real_equal": 627, "largest_split_err": 3.337860107421875e-06, "largest_full_dev": 1.9073486328125e-06, "variants": ["-assoc", "-chunk", "-habit", "-pattern", "-side", "-sim", "assoc", "chunk", "full", "habit", "nogate", "pattern", "real", "side", "sim"], "cpu_s": 3788.0, "wall_s": 3869.6}
+session 15: rows 8816, cpu 3887s, unchanged True
+{"life": "life_018", "sessions": "all", "rows": 8816, "compared": true, "same_rows": true, "exact": 8816, "recorded": 8816, "unchanged_while_answering": true, "pre_unchanged": true, "pre_cpu_s": 18.8, "probe_rows": 1252, "judged_rows": 626, "real_equal": 626, "largest_split_err": 3.814697265625e-06, "largest_full_dev": 1.9073486328125e-06, "variants": ["-assoc", "-chunk", "-habit", "-pattern", "-side", "-sim", "assoc", "chunk", "full", "habit", "nogate", "pattern", "real", "side", "sim"], "cpu_s": 3887.2, "wall_s": 3967.8}
+exit 0
+Tue Oct 20 12:45:46 UTC 2026

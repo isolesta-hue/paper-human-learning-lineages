@@ -1,0 +1,5 @@
+seed 0 {'which: named first': '26/48 = 0.542', 'next: repeat last': '20/48 = 0.417', 'next: majority of steps': '20/48 = 0.417'}
+seed 1 {'which: named first': '28/48 = 0.583', 'next: repeat last': '23/48 = 0.479', 'next: majority of steps': '22/48 = 0.458'}
+seed 2 {'which: named first': '28/48 = 0.583', 'next: repeat last': '22/48 = 0.458', 'next: majority of steps': '19/48 = 0.396'}
+seed 3 {'which: named first': '26/48 = 0.542', 'next: repeat last': '24/48 = 0.500', 'next: majority of steps': '23/48 = 0.479'}
+seed 4 {'which: named first': '29/48 = 0.604', 'next: repeat last': '18/48 = 0.375', 'next: majority of steps': '24/48 = 0.500'}

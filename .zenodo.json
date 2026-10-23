@@ -1,0 +1,23 @@
+{
+  "title": "Learning from Its Own Input: A Small Self-Tuning Learner, Its Infant-Inspired Logic, and a Sealed Exam",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "<p>Infants first keep what they hear and see, then try to produce it from memory and correct themselves until it matches: the input is its own answer. We built a small learner, Helix Gold, around this internal imitation — memory first, connections without outside feedback, and a closed loop that tunes how it learns and keeps a change only when its own test says it is better — and gave it logic borrowed from infant learning: a world model read off its own first-hand moments on a grid centred on the self, per-object state, re-reading before speaking. Switching each piece off (pre-registered) shows large contributions in its own world. The closed loop meets a pre-registered completion criterion, but its effect is small next to the designed logic, and rules outside the design are not learned. On a shared sealed exam taken by three independently built learners, its general body passed 0 of 10 criteria; a pre-registered diagnosis rules out the most obvious cause. We report this as an honest case of non-transfer.</p><p>This record contains the paper (English, with a Korean translation), the learner's code and records, the shared exam's generator and grader with the opened edition v1 and its keys, and every graded answer set. Code: MIT; text, figures and records: CC BY 4.0. AI use is disclosed in the paper.</p>",
+  "creators": [
+    {
+      "name": "isolesta-hue",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "keywords": [
+    "internal imitation",
+    "self-improving learner",
+    "world model",
+    "infant-inspired learning",
+    "pre-registered ablation",
+    "sealed exam"
+  ],
+  "version": "1.0"
+}

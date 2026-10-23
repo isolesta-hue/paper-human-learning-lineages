@@ -1,0 +1,35 @@
+both@ascii@grav+rediscover+chain+wm+bind+wmlast+track+grav
+         280338897 function calls (242654866 primitive calls) in 598.109 seconds
+
+   Ordered by: internal time
+   List reduced from 12518 to 25 due to restriction <25>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+     9312   61.842    0.007  111.231    0.012 {method 'run_backward' of 'torch._C._EngineBase' objects}
+34565502/1378   49.669    0.000  167.242    0.121 /usr/lib/python3.11/copy.py:128(deepcopy)
+     2072   33.255    0.016   63.298    0.031 /tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_schema3.py:486(pattern_term)
+2807766/2701576   27.697    0.000   49.578    0.000 /usr/lib/python3.11/copy.py:201(_deepcopy_list)
+    22336   26.884    0.001   26.884    0.001 {built-in method torch._C._sparse._sparse_mm}
+     8912   26.060    0.003   26.060    0.003 {built-in method caytb6s6kcpcmrupthwn4esbfifz2gsmycigthhfhdadczafbg2y.kernel.kernel}
+ 52110284   21.387    0.000   21.387    0.000 {built-in method builtins.id}
+    10979   17.226    0.002   49.353    0.004 /tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/lab2.py:63(complete)
+     8912   15.699    0.002   15.699    0.002 {built-in method cffrin665defronfsm2u6niyzn2zqfshqaycqs62sa2qcqrnfbu4.kernel.kernel}
+      180   14.491    0.081   14.538    0.081 /tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/lab2.py:114(observe)
+    23213   13.716    0.001   13.716    0.001 {method 'max' of 'torch._C.TensorBase' objects}
+     8912   12.303    0.001   12.303    0.001 {built-in method c7hvspwulbw6xjkxwun6pf2mel4jk6xzbaaxghc2n4smuk6jngkz.kernel.kernel}
+ 73284759   11.914    0.000   11.916    0.000 {method 'get' of 'dict' objects}
+  5832918   11.322    0.000   52.174    0.000 /usr/lib/python3.11/copy.py:210(_deepcopy_tuple)
+       90    9.099    0.101   27.341    0.304 /tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_schema3.py:784(matrices)
+   388555    8.990    0.000    8.990    0.000 {built-in method torch.cosine_similarity}
+     8912    8.398    0.001    8.398    0.001 {built-in method cwjpfzs2d4qsjz6enhrqxuc4wg4qaztycrkn2bzcyunqjtxqlemw.kernel.kernel}
+   677120    8.279    0.000    8.279    0.000 /tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/integrated.py:682(<lambda>)
+   663686    8.155    0.000    8.155    0.000 /tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/integrated.py:525(<lambda>)
+       90    7.614    0.085   25.626    0.285 /tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_schema3.py:751(absorb)
+130096/722    6.907    0.000  167.205    0.232 /usr/lib/python3.11/copy.py:227(_deepcopy_dict)
+  5832918    6.220    0.000   38.756    0.000 /usr/lib/python3.11/copy.py:211(<listcomp>)
+     8530    6.098    0.001    6.098    0.001 {method 'to_sparse' of 'torch._C.TensorBase' objects}
+   869902    5.786    0.000    5.786    0.000 {built-in method torch._C._linalg.linalg_vector_norm}
+2622955/615    4.826    0.000  166.860    0.271 /usr/lib/python3.11/copy.py:259(_reconstruct)
+
+
+

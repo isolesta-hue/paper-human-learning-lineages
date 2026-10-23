@@ -1,0 +1,21 @@
+=== 30 seeds; the eye's choices graded on the next session's fresh sentences, trust sets the weights ===
+
+##### plain
+  both+rediscover+tune+graded          0.294 0.425 0.440 0.449 0.485 0.489 0.494 0.511 0.541 0.566 0.585 0.597 0.596 0.605 0.613 0.619
+  both+rediscover+tune                 0.294 0.425 0.466 0.488 0.519 0.517 0.529 0.534 0.551 0.570 0.600 0.608 0.595 0.597 0.609 0.618
+  both+rediscover                      0.294 0.408 0.428 0.448 0.478 0.484 0.499 0.503 0.531 0.548 0.565 0.581 0.596 0.604 0.613 0.621
+  content                              0.294 0.320 0.325 0.346 0.364 0.372 0.389 0.395 0.418 0.439 0.458 0.472 0.478 0.488 0.497 0.505
+  T1 graded - tune: end +0.0010 (17:13, p=0.5847) | life -0.0130 (12:18, p=0.3616) | late widening +0.0321 (20:10, p=0.0987)
+  T2 graded - no tune: end -0.0016 (17:13, p=0.5847) | life +0.0068 (17:13, p=0.5847) | late widening -0.0032 (14:16, p=0.8555)
+  T3 chunk: grade agrees with outside 249/332 (0.75) | trust s9-16 0.73 | eye's weight s9-16 0.30 | used s9-16 0.33
+  T3 assoc: grade agrees with outside 42/249 (0.17) | trust s9-16 0.21 | eye's weight s9-16 0.92 | used s9-16 1.01 | backed off 0.42
+
+##### share
+  both+rediscover@share+tune+graded    0.291 0.424 0.431 0.451 0.472 0.482 0.493 0.504 0.499 0.520 0.521 0.544 0.550 0.561 0.570 0.581
+  both+rediscover@share+tune           0.291 0.424 0.459 0.480 0.507 0.520 0.520 0.528 0.529 0.542 0.543 0.564 0.567 0.582 0.587 0.603
+  both+rediscover@share                0.291 0.406 0.425 0.447 0.470 0.473 0.476 0.491 0.485 0.502 0.508 0.516 0.525 0.530 0.545 0.554
+  content@share                        0.291 0.319 0.325 0.345 0.363 0.369 0.386 0.395 0.391 0.400 0.406 0.404 0.402 0.407 0.413 0.420
+  T1 graded - tune: end -0.0221 (13:17, p=0.5847) | life -0.0222 (6:24, p=0.0014) | late widening +0.0104 (14:16, p=0.8555)
+  T2 graded - no tune: end +0.0274 (19:11, p=0.2005) | life +0.0155 (19:11, p=0.2005) | late widening +0.0142 (13:17, p=0.5847)
+  T3 chunk: grade agrees with outside 247/313 (0.79) | trust s9-16 0.71 | eye's weight s9-16 0.50 | used s9-16 0.53
+  T3 assoc: grade agrees with outside 40/237 (0.17) | trust s9-16 0.20 | eye's weight s9-16 0.86 | used s9-16 1.00 | backed off 0.40

@@ -1,0 +1,25 @@
+=== 30 seeds; D35 (d) curiosity = learning progress vs surprise ===
+  never-heard  C 0.866 0.863 0.862 0.854 0.847 0.843 0.836 0.831 0.828 0.818 0.808 0.797 0.788 0.778 0.774 0.766
+  never-heard  B 0.866 0.863 0.862 0.852 0.848 0.845 0.834 0.829 0.823 0.814 0.801 0.794 0.787 0.774 0.769 0.760
+/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_curious.py:43: RuntimeWarning: Mean of empty slice
+  print(f"  {k:12} {tag} " + " ".join(f"{v:.3f}" for v in np.nanmean(g(c, k), 0)))
+  older        C nan 0.846 0.847 0.847 0.843 0.839 0.834 0.830 0.826 0.815 0.807 0.797 0.788 0.778 0.773 0.765
+  older        B nan 0.846 0.847 0.846 0.844 0.842 0.832 0.827 0.820 0.811 0.800 0.793 0.788 0.774 0.768 0.759
+  once all     C 0.984 0.921 0.869 0.837 0.795 0.770 0.736 0.724 0.688 0.644 0.597 0.556 0.520 0.484 0.467 0.444
+  once all     B 0.984 0.921 0.869 0.831 0.790 0.770 0.732 0.723 0.679 0.632 0.582 0.550 0.521 0.486 0.465 0.440
+  chain        C 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000
+  chain        B 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000
+  story        C nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+  story        B nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+  pick curious C 0.00 0.00 0.03 0.10 0.13 0.17 0.30 0.33 0.37 0.43 0.43 0.43 0.43 0.43 0.37 0.37
+  C1 never-heard, C - B: end +0.0057 (15:6, p=0.0784) | life +0.0024 (13:8, p=0.3833)
+  C2 older, C - B: end +0.0060 (14:6, p=0.1153) | life +0.0027 (13:8, p=0.3833)
+  C2 once all, C - B: end +0.0033 (10:11, p=1.0000) | life +0.0038 (10:11, p=1.0000)
+  C3 chain: max |d| 0.000 | end +0.0000 (0:0, p=nan)
+/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_curious.py:50: RuntimeWarning: All-NaN slice encountered
+  print(f"  C3 {k}: max |d| {np.nanmax(np.abs(d)):.3f} | end {sgn(d[:, -1])}")
+/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_count.py:47: RuntimeWarning: Mean of empty slice
+  return f"{x.mean():+.4f} ({w}:{lo}, p={sign_p(w, lo):.4f})"
+/usr/local/lib/python3.11/dist-packages/numpy/_core/_methods.py:142: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+  C3 story: max |d| nan | end +nan (0:0, p=nan)

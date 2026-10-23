@@ -1,0 +1,1056 @@
+# Ara exam v1 timing log: each line = UTC time the runner printed it (life_XXX: session N ... <seconds since that life's (re)start>). 4 CPUs, no GPU, 4 lives at once.
+# segment 1 began 2026-10-19T03:22:45Z (answers manifest 'started'); the four lines below were printed before this log started -- their time = life start + the seconds at the end of the line
+(before log) life_001: session 1: 178 units heard, practice CPU 203s, 547 answers, 210s
+(before log) life_003: session 1: 194 units heard, practice CPU 222s, 548 answers, 230s
+(before log) life_000: session 1: 195 units heard, practice CPU 225s, 546 answers, 233s
+(before log) life_002: session 1: 218 units heard, practice CPU 268s, 537 answers, 276s
+2026-10-19T03:31:24Z [log started]
+2026-10-19T03:31:29Z life_000: session 2: 186 units heard, practice CPU 283s, 551 answers, 523s
+2026-10-19T03:31:41Z life_001: session 2: 238 units heard, practice CPU 316s, 547 answers, 535s
+2026-10-19T03:31:44Z life_003: session 2: 182 units heard, practice CPU 302s, 548 answers, 537s
+2026-10-19T03:32:29Z life_002: session 2: 184 units heard, practice CPU 300s, 537 answers, 583s
+2026-10-19T03:37:45Z life_001: session 3: 177 units heard, practice CPU 355s, 547 answers, 899s
+2026-10-19T03:38:01Z life_000: session 3: 228 units heard, practice CPU 384s, 551 answers, 914s
+2026-10-19T03:38:25Z life_003: session 3: 191 units heard, practice CPU 393s, 548 answers, 939s
+2026-10-19T03:39:47Z life_002: session 3: 226 units heard, practice CPU 430s, 542 answers, 1021s
+2026-10-19T03:45:32Z life_001: session 4: 174 units heard, practice CPU 455s, 547 answers, 1366s
+2026-10-19T03:46:38Z life_000: session 4: 230 units heard, practice CPU 508s, 546 answers, 1431s
+2026-10-19T03:47:24Z life_003: session 4: 239 units heard, practice CPU 529s, 553 answers, 1478s
+2026-10-19T03:48:11Z life_002: session 4: 207 units heard, practice CPU 496s, 547 answers, 1525s
+2026-10-19T03:54:30Z life_001: session 5: 202 units heard, practice CPU 529s, 552 answers, 1904s
+2026-10-19T03:56:23Z life_000: session 5: 177 units heard, practice CPU 576s, 546 answers, 2017s
+2026-10-19T03:58:14Z life_003: session 5: 215 units heard, practice CPU 636s, 548 answers, 2128s
+2026-10-19T03:58:50Z life_002: session 5: 231 units heard, practice CPU 629s, 537 answers, 2164s
+2026-10-19T04:04:54Z life_001: session 6: 196 units heard, practice CPU 614s, 547 answers, 2528s
+2026-10-19T04:07:15Z life_000: session 6: 179 units heard, practice CPU 642s, 551 answers, 2669s
+2026-10-19T04:10:17Z life_003: session 6: 203 units heard, practice CPU 707s, 563 answers, 2851s
+2026-10-19T04:10:35Z life_002: session 6: 205 units heard, practice CPU 695s, 537 answers, 2869s
+2026-10-19T04:16:39Z life_001: session 7: 212 units heard, practice CPU 694s, 557 answers, 3233s
+2026-10-19T04:20:12Z life_000: session 7: 235 units heard, practice CPU 765s, 551 answers, 3446s
+2026-10-19T04:22:45Z life_002: session 7: 182 units heard, practice CPU 720s, 537 answers, 3599s
+2026-10-19T04:23:46Z life_003: session 7: 188 units heard, practice CPU 790s, 548 answers, 3659s
+2026-10-19T04:29:33Z life_001: session 8: 194 units heard, practice CPU 763s, 552 answers, 4007s
+2026-10-19T04:34:12Z life_000: session 8: 204 units heard, practice CPU 828s, 546 answers, 4286s
+2026-10-19T04:36:35Z life_002: session 8: 181 units heard, practice CPU 818s, 542 answers, 4429s
+2026-10-19T04:38:44Z life_003: session 8: 205 units heard, practice CPU 880s, 548 answers, 4558s
+2026-10-19T04:43:52Z life_001: session 9: 186 units heard, practice CPU 845s, 547 answers, 4866s
+2026-10-19T04:49:35Z life_000: session 9: 205 units heard, practice CPU 909s, 551 answers, 5209s
+2026-10-19T04:52:14Z life_002: session 9: 212 units heard, practice CPU 925s, 542 answers, 5368s
+2026-10-19T04:54:47Z life_003: session 9: 202 units heard, practice CPU 943s, 558 answers, 5521s
+2026-10-19T04:58:50Z life_001: session 10: 191 units heard, practice CPU 884s, 552 answers, 5764s
+2026-10-19T05:07:12Z life_000: session 10: 220 units heard, practice CPU 1041s, 546 answers, 6266s
+2026-10-19T05:09:57Z life_002: session 10: 222 units heard, practice CPU 1046s, 537 answers, 6431s
+2026-10-19T05:12:27Z life_003: session 10: 220 units heard, practice CPU 1035s, 553 answers, 6581s
+2026-10-19T05:16:48Z life_001: session 11: 210 units heard, practice CPU 1061s, 552 answers, 6842s
+2026-10-19T05:23:05Z [segment 1 stopped: the 2-hour background limit, ~2026-10-19T05:22:45Z; checkpoints: life_000 s10, life_001 s11, life_002 s10, life_003 s10 -- the sessions in progress are redone]
+2026-10-19T05:23:11Z [segment 2 started]
+2026-10-19T05:23:13Z life_003: resumed at session 11
+2026-10-19T05:23:13Z life_002: resumed at session 11
+2026-10-19T05:23:13Z life_001: resumed at session 12
+2026-10-19T05:23:13Z life_000: resumed at session 11
+2026-10-19T05:41:50Z life_001: session 12: 185 units heard, practice CPU 1098s, 547 answers, 1117s
+2026-10-19T05:41:52Z life_003: session 11: 183 units heard, practice CPU 1095s, 548 answers, 1120s
+2026-10-19T05:42:15Z life_000: session 11: 206 units heard, practice CPU 1124s, 546 answers, 1142s
+2026-10-19T05:42:57Z life_002: session 11: 231 units heard, practice CPU 1167s, 542 answers, 1185s
+2026-10-19T06:01:40Z life_001: session 13: 170 units heard, practice CPU 1172s, 547 answers, 2307s
+2026-10-19T06:02:31Z life_003: session 12: 182 units heard, practice CPU 1211s, 553 answers, 2358s
+2026-10-19T06:02:57Z life_000: session 12: 177 units heard, practice CPU 1224s, 551 answers, 2384s
+2026-10-19T06:05:16Z life_002: session 12: 217 units heard, practice CPU 1316s, 537 answers, 2523s
+2026-10-19T06:24:29Z life_001: session 14: 242 units heard, practice CPU 1345s, 552 answers, 3676s
+2026-10-19T06:24:59Z life_000: session 13: 181 units heard, practice CPU 1295s, 551 answers, 3706s
+2026-10-19T06:25:39Z life_003: session 13: 213 units heard, practice CPU 1356s, 548 answers, 3746s
+2026-10-19T06:27:58Z life_002: session 13: 207 units heard, practice CPU 1338s, 542 answers, 3885s
+2026-10-19T06:47:49Z life_001: session 15: 192 units heard, practice CPU 1377s, 552 answers, 5076s
+2026-10-19T06:48:08Z life_000: session 14: 205 units heard, practice CPU 1366s, 551 answers, 5095s
+2026-10-19T06:49:23Z life_003: session 14: 213 units heard, practice CPU 1391s, 548 answers, 5170s
+2026-10-19T06:51:14Z life_002: session 14: 170 units heard, practice CPU 1374s, 537 answers, 5282s
+2026-10-19T07:12:26Z life_001: session 16: 207 units heard, practice CPU 1449s, 587 answers, 6553s
+2026-10-19T07:12:26Z done life_001
+2026-10-19T07:12:31Z life_000: session 15: 192 units heard, practice CPU 1437s, 546 answers, 6558s
+2026-10-19T07:14:08Z life_003: session 15: 209 units heard, practice CPU 1448s, 548 answers, 6655s
+2026-10-19T07:15:38Z life_004: session 1: 179 units heard, practice CPU 186s, 552 answers, 192s
+2026-10-19T07:16:12Z life_002: session 15: 184 units heard, practice CPU 1471s, 542 answers, 6779s
+2026-10-19T07:20:27Z life_004: session 2: 188 units heard, practice CPU 282s, 557 answers, 481s
+2026-10-19T07:23:20Z [segment 2 stopped: the 2-hour background limit, ~2026-10-19T07:23:11Z; done: life_001; checkpoints: life_000 s15, life_002 s15, life_003 s15, life_004 s2 -- the sessions in progress are redone]
+2026-10-19T07:23:25Z [segment 3 started]
+2026-10-19T07:23:28Z done life_001
+2026-10-19T07:23:28Z life_004: resumed at session 3
+2026-10-19T07:23:28Z life_000: resumed at session 16
+2026-10-19T07:23:28Z life_002: resumed at session 16
+2026-10-19T07:23:28Z life_003: resumed at session 16
+2026-10-19T07:30:40Z life_004: session 3: 210 units heard, practice CPU 421s, 557 answers, 432s
+2026-10-19T07:39:30Z life_004: session 4: 236 units heard, practice CPU 520s, 552 answers, 962s
+2026-10-19T07:49:27Z life_004: session 5: 204 units heard, practice CPU 585s, 552 answers, 1559s
+2026-10-19T07:49:35Z life_002: session 16: 211 units heard, practice CPU 1539s, 577 answers, 1567s
+2026-10-19T07:49:35Z done life_002
+2026-10-19T07:49:59Z life_003: session 16: 193 units heard, practice CPU 1557s, 588 answers, 1591s
+2026-10-19T07:50:00Z done life_003
+2026-10-19T07:50:12Z life_000: session 16: 197 units heard, practice CPU 1570s, 586 answers, 1604s
+2026-10-19T07:50:13Z done life_000
+2026-10-19T07:53:26Z life_007: session 1: 177 units heard, practice CPU 188s, 547 answers, 193s
+2026-10-19T07:53:55Z life_005: session 1: 177 units heard, practice CPU 253s, 546 answers, 259s
+2026-10-19T07:54:16Z life_006: session 1: 187 units heard, practice CPU 249s, 547 answers, 257s
+2026-10-19T07:58:29Z life_007: session 2: 211 units heard, practice CPU 297s, 547 answers, 496s
+2026-10-19T07:59:17Z life_006: session 2: 178 units heard, practice CPU 292s, 547 answers, 557s
+2026-10-19T07:59:53Z life_004: session 6: 183 units heard, practice CPU 616s, 552 answers, 2185s
+2026-10-19T08:00:59Z life_005: session 2: 232 units heard, practice CPU 416s, 546 answers, 683s
+2026-10-19T08:04:53Z life_006: session 3: 199 units heard, practice CPU 327s, 552 answers, 893s
+2026-10-19T08:05:11Z life_007: session 3: 215 units heard, practice CPU 393s, 547 answers, 898s
+2026-10-19T08:08:31Z life_005: session 3: 218 units heard, practice CPU 442s, 556 answers, 1135s
+2026-10-19T08:12:37Z life_007: session 4: 183 units heard, practice CPU 436s, 547 answers, 1344s
+2026-10-19T08:12:42Z life_004: session 7: 204 units heard, practice CPU 753s, 557 answers, 2954s
+2026-10-19T08:13:01Z life_006: session 4: 208 units heard, practice CPU 473s, 547 answers, 1381s
+2026-10-19T08:19:01Z life_005: session 4: 232 units heard, practice CPU 616s, 551 answers, 1765s
+2026-10-19T08:21:53Z life_007: session 5: 191 units heard, practice CPU 545s, 552 answers, 1900s
+2026-10-19T08:23:07Z life_006: session 5: 215 units heard, practice CPU 590s, 552 answers, 1987s
+2026-10-19T08:26:08Z life_004: session 8: 147 units heard, practice CPU 790s, 557 answers, 3760s
+2026-10-19T08:30:32Z life_005: session 5: 199 units heard, practice CPU 679s, 546 answers, 2456s
+2026-10-19T08:33:12Z life_007: session 6: 218 units heard, practice CPU 668s, 552 answers, 2580s
+2026-10-19T08:34:30Z life_006: session 6: 194 units heard, practice CPU 666s, 552 answers, 2670s
+2026-10-19T08:41:39Z life_004: session 9: 228 units heard, practice CPU 915s, 552 answers, 4691s
+2026-10-19T08:42:58Z life_005: session 6: 191 units heard, practice CPU 733s, 551 answers, 3202s
+2026-10-19T08:45:12Z life_007: session 7: 209 units heard, practice CPU 706s, 557 answers, 3299s
+2026-10-19T08:47:20Z life_006: session 7: 204 units heard, practice CPU 750s, 547 answers, 3440s
+2026-10-19T08:55:47Z life_005: session 7: 227 units heard, practice CPU 755s, 546 answers, 3972s
+2026-10-19T08:59:12Z life_004: session 10: 201 units heard, practice CPU 1034s, 552 answers, 5744s
+2026-10-19T08:59:15Z life_007: session 8: 197 units heard, practice CPU 827s, 547 answers, 4142s
+2026-10-19T09:01:41Z life_006: session 8: 232 units heard, practice CPU 839s, 552 answers, 4301s
+2026-10-19T09:11:17Z life_005: session 8: 202 units heard, practice CPU 914s, 546 answers, 4901s
+2026-10-19T09:14:26Z life_007: session 9: 217 units heard, practice CPU 890s, 547 answers, 5053s
+2026-10-19T09:17:09Z life_006: session 9: 213 units heard, practice CPU 912s, 547 answers, 5229s
+2026-10-19T09:18:30Z life_004: session 11: 219 units heard, practice CPU 1140s, 557 answers, 6902s
+2026-10-19T09:23:36Z [segment 3 stopped: the 2-hour background limit, ~2026-10-19T09:23:25Z; done: life_000-003; checkpoints: life_004 s11, life_005 s8, life_006 s9, life_007 s9 -- the sessions in progress are redone]
+2026-10-19T09:23:36Z [segment 4 started]
+2026-10-19T09:23:38Z done life_002
+2026-10-19T09:23:38Z done life_001
+2026-10-19T09:23:38Z done life_000
+2026-10-19T09:23:38Z done life_003
+2026-10-19T09:23:38Z life_005: resumed at session 9
+2026-10-19T09:23:38Z life_006: resumed at session 10
+2026-10-19T09:23:38Z life_007: resumed at session 10
+2026-10-19T09:23:39Z life_004: resumed at session 12
+2026-10-19T09:40:02Z life_007: session 10: 180 units heard, practice CPU 963s, 547 answers, 984s
+2026-10-19T09:40:21Z life_006: session 10: 217 units heard, practice CPU 980s, 547 answers, 1003s
+2026-10-19T09:41:27Z life_005: session 9: 245 units heard, practice CPU 1049s, 546 answers, 1069s
+2026-10-19T09:42:48Z life_004: session 12: 182 units heard, practice CPU 1128s, 557 answers, 1150s
+2026-10-19T09:56:51Z life_007: session 11: 174 units heard, practice CPU 986s, 547 answers, 1993s
+2026-10-19T09:58:53Z life_006: session 11: 229 units heard, practice CPU 1093s, 562 answers, 2115s
+2026-10-19T10:01:08Z life_005: session 10: 245 units heard, practice CPU 1158s, 556 answers, 2250s
+2026-10-19T10:04:17Z life_004: session 13: 211 units heard, practice CPU 1266s, 552 answers, 2439s
+2026-10-19T10:16:02Z life_007: session 12: 203 units heard, practice CPU 1123s, 547 answers, 3143s
+2026-10-19T10:18:19Z life_006: session 12: 173 units heard, practice CPU 1144s, 547 answers, 3280s
+2026-10-19T10:22:17Z life_005: session 11: 212 units heard, practice CPU 1246s, 551 answers, 3519s
+2026-10-19T10:27:09Z life_004: session 14: 194 units heard, practice CPU 1347s, 557 answers, 3811s
+2026-10-19T10:36:58Z life_007: session 13: 211 units heard, practice CPU 1226s, 552 answers, 4399s
+2026-10-19T10:38:37Z life_006: session 13: 172 units heard, practice CPU 1196s, 552 answers, 4499s
+2026-10-19T10:44:43Z life_005: session 12: 211 units heard, practice CPU 1321s, 546 answers, 4864s
+2026-10-19T10:51:33Z life_004: session 15: 205 units heard, practice CPU 1438s, 557 answers, 5274s
+2026-10-19T10:59:09Z life_007: session 14: 183 units heard, practice CPU 1300s, 557 answers, 5731s
+2026-10-19T11:01:21Z life_006: session 14: 243 units heard, practice CPU 1340s, 547 answers, 5862s
+2026-10-19T11:08:54Z life_005: session 13: 198 units heard, practice CPU 1427s, 546 answers, 6315s
+2026-10-19T11:17:40Z life_004: session 16: 193 units heard, practice CPU 1541s, 592 answers, 6841s
+2026-10-19T11:17:40Z done life_004
+2026-10-19T11:21:50Z life_008: session 1: 170 units heard, practice CPU 243s, 543 answers, 249s
+2026-10-19T11:23:28Z life_007: session 15: 175 units heard, practice CPU 1425s, 552 answers, 7190s
+2026-10-19T11:23:48Z [segment 4 stopped: the 2-hour background limit, ~2026-10-19T11:23:39Z; done: life_000-004; checkpoints: life_005 s13, life_006 s14, life_007 s15, life_008 s1 -- the sessions in progress are redone]
+2026-10-19T11:23:48Z [segment 5 started]
+2026-10-19T11:23:50Z done life_001
+2026-10-19T11:23:50Z done life_000
+2026-10-19T11:23:50Z done life_003
+2026-10-19T11:23:50Z done life_002
+2026-10-19T11:23:50Z done life_004
+2026-10-19T11:23:50Z life_008: resumed at session 2
+2026-10-19T11:23:50Z life_007: resumed at session 16
+2026-10-19T11:23:50Z life_005: resumed at session 14
+2026-10-19T11:23:50Z life_006: resumed at session 15
+2026-10-19T11:30:11Z life_008: session 2: 238 units heard, practice CPU 372s, 548 answers, 381s
+2026-10-19T11:37:45Z life_008: session 3: 205 units heard, practice CPU 443s, 543 answers, 835s
+2026-10-19T11:45:41Z life_008: session 4: 168 units heard, practice CPU 464s, 548 answers, 1311s
+2026-10-19T11:48:43Z life_006: session 15: 180 units heard, practice CPU 1465s, 547 answers, 1493s
+2026-10-19T11:49:26Z life_007: session 16: 188 units heard, practice CPU 1508s, 587 answers, 1536s
+2026-10-19T11:49:27Z done life_007
+2026-10-19T11:50:19Z life_005: session 14: 206 units heard, practice CPU 1556s, 551 answers, 1589s
+2026-10-19T11:52:31Z life_009: session 1: 175 units heard, practice CPU 178s, 536 answers, 184s
+2026-10-19T11:55:26Z life_008: session 5: 207 units heard, practice CPU 571s, 548 answers, 1896s
+2026-10-19T11:58:18Z life_009: session 2: 251 units heard, practice CPU 338s, 541 answers, 531s
+2026-10-19T12:06:31Z life_008: session 6: 214 units heard, practice CPU 651s, 543 answers, 2561s
+2026-10-19T12:06:37Z life_009: session 3: 226 units heard, practice CPU 489s, 536 answers, 1030s
+2026-10-19T12:15:55Z life_009: session 4: 198 units heard, practice CPU 547s, 536 answers, 1587s
+2026-10-19T12:16:12Z life_006: session 16: 219 units heard, practice CPU 1620s, 587 answers, 3142s
+2026-10-19T12:16:13Z done life_006
+2026-10-19T12:18:17Z life_005: session 15: 213 units heard, practice CPU 1644s, 546 answers, 3267s
+2026-10-19T12:19:20Z life_010: session 1: 182 units heard, practice CPU 181s, 545 answers, 187s
+2026-10-19T12:20:08Z life_008: session 7: 229 units heard, practice CPU 802s, 548 answers, 3378s
+2026-10-19T12:24:31Z life_010: session 2: 190 units heard, practice CPU 303s, 545 answers, 498s
+2026-10-19T12:26:35Z life_009: session 5: 244 units heard, practice CPU 628s, 541 answers, 2228s
+2026-10-19T12:31:08Z life_010: session 3: 192 units heard, practice CPU 388s, 550 answers, 895s
+2026-10-19T12:35:26Z life_008: session 8: 204 units heard, practice CPU 896s, 543 answers, 4296s
+2026-10-19T12:38:41Z life_009: session 6: 206 units heard, practice CPU 712s, 546 answers, 2954s
+2026-10-19T12:38:59Z life_010: session 4: 209 units heard, practice CPU 461s, 550 answers, 1366s
+2026-10-19T12:46:44Z life_005: session 16: 205 units heard, practice CPU 1673s, 586 answers, 4974s
+2026-10-19T12:46:44Z done life_005
+2026-10-19T12:49:20Z life_010: session 5: 208 units heard, practice CPU 608s, 545 answers, 1987s
+2026-10-19T12:50:59Z life_011: session 1: 231 units heard, practice CPU 248s, 547 answers, 255s
+2026-10-19T12:52:33Z life_008: session 9: 199 units heard, practice CPU 1004s, 548 answers, 5323s
+2026-10-19T12:53:05Z life_009: session 7: 201 units heard, practice CPU 846s, 536 answers, 3817s
+2026-10-19T12:56:29Z life_011: session 2: 219 units heard, practice CPU 322s, 547 answers, 584s
+2026-10-19T13:01:21Z life_010: session 6: 198 units heard, practice CPU 707s, 545 answers, 2708s
+2026-10-19T13:04:30Z life_011: session 3: 195 units heard, practice CPU 473s, 547 answers, 1066s
+2026-10-19T13:09:39Z life_009: session 8: 231 units heard, practice CPU 977s, 536 answers, 4812s
+2026-10-19T13:11:28Z life_008: session 10: 195 units heard, practice CPU 1110s, 543 answers, 6458s
+2026-10-19T13:14:18Z life_011: session 4: 194 units heard, practice CPU 577s, 552 answers, 1654s
+2026-10-19T13:14:45Z life_010: session 7: 205 units heard, practice CPU 788s, 550 answers, 3512s
+2026-10-19T13:24:00Z [segment 5 stopped: the 2-hour background limit, ~2026-10-19T13:23:49Z; done: life_000-007; checkpoints: life_008 s10, life_009 s8, life_010 s7, life_011 s4 -- the sessions in progress are redone]
+2026-10-19T13:24:01Z [segment 6 started]
+2026-10-19T13:24:02Z done life_001
+2026-10-19T13:24:02Z done life_000
+2026-10-19T13:24:02Z done life_003
+2026-10-19T13:24:02Z done life_002
+2026-10-19T13:24:02Z done life_005
+2026-10-19T13:24:02Z done life_006
+2026-10-19T13:24:02Z done life_004
+2026-10-19T13:24:02Z done life_007
+2026-10-19T13:24:03Z life_011: resumed at session 5
+2026-10-19T13:24:03Z life_009: resumed at session 9
+2026-10-19T13:24:03Z life_008: resumed at session 11
+2026-10-19T13:24:03Z life_010: resumed at session 8
+2026-10-19T13:34:21Z life_011: session 5: 194 units heard, practice CPU 606s, 552 answers, 618s
+2026-10-19T13:39:32Z life_010: session 8: 203 units heard, practice CPU 906s, 550 answers, 929s
+2026-10-19T13:41:47Z life_009: session 9: 191 units heard, practice CPU 1038s, 546 answers, 1064s
+2026-10-19T13:44:48Z life_008: session 11: 199 units heard, practice CPU 1221s, 543 answers, 1245s
+2026-10-19T13:47:49Z life_011: session 6: 225 units heard, practice CPU 792s, 547 answers, 1426s
+2026-10-19T13:56:42Z life_010: session 9: 213 units heard, practice CPU 1012s, 545 answers, 1959s
+2026-10-19T14:02:23Z life_011: session 7: 187 units heard, practice CPU 858s, 557 answers, 2300s
+2026-10-19T14:02:25Z life_009: session 10: 179 units heard, practice CPU 1208s, 536 answers, 2302s
+2026-10-19T14:08:19Z life_008: session 12: 227 units heard, practice CPU 1385s, 548 answers, 2656s
+2026-10-19T14:15:22Z life_010: session 10: 216 units heard, practice CPU 1093s, 545 answers, 3079s
+2026-10-19T14:17:40Z life_011: session 8: 166 units heard, practice CPU 899s, 547 answers, 3217s
+2026-10-19T14:18:32Z [segment 6 stopped: container restart, after the last line at 2026-10-19T14:17:40Z (noticed 14:18:24); checkpoints: life_008 s12, life_009 s10, life_010 s10, life_011 s8 -- the sessions in progress are redone]
+2026-10-19T14:18:32Z [segment 7 started]
+2026-10-19T14:18:34Z done life_002
+2026-10-19T14:18:34Z done life_001
+2026-10-19T14:18:34Z done life_003
+2026-10-19T14:18:34Z done life_000
+2026-10-19T14:18:34Z done life_004
+2026-10-19T14:18:34Z done life_005
+2026-10-19T14:18:34Z done life_006
+2026-10-19T14:18:34Z done life_007
+2026-10-19T14:18:34Z life_008: resumed at session 13
+2026-10-19T14:18:34Z life_011: resumed at session 9
+2026-10-19T14:18:34Z life_010: resumed at session 11
+2026-10-19T14:18:34Z life_009: resumed at session 11
+2026-10-19T14:35:12Z life_011: session 9: 227 units heard, practice CPU 977s, 557 answers, 998s
+2026-10-19T14:37:55Z life_010: session 11: 206 units heard, practice CPU 1137s, 545 answers, 1161s
+2026-10-19T14:39:24Z life_009: session 11: 209 units heard, practice CPU 1221s, 541 answers, 1249s
+2026-10-19T14:42:09Z life_008: session 13: 248 units heard, practice CPU 1381s, 543 answers, 1415s
+2026-10-19T14:52:31Z life_011: session 10: 200 units heard, practice CPU 1019s, 552 answers, 2037s
+2026-10-19T14:58:24Z life_010: session 12: 237 units heard, practice CPU 1204s, 555 answers, 2390s
+2026-10-19T15:01:13Z life_009: session 12: 197 units heard, practice CPU 1274s, 536 answers, 2559s
+2026-10-19T15:07:21Z life_008: session 14: 228 units heard, practice CPU 1481s, 548 answers, 2926s
+2026-10-19T15:11:47Z life_011: session 11: 225 units heard, practice CPU 1131s, 547 answers, 3193s
+2026-10-19T15:20:16Z life_010: session 13: 176 units heard, practice CPU 1286s, 550 answers, 3702s
+2026-10-19T15:24:57Z life_009: session 13: 206 units heard, practice CPU 1391s, 536 answers, 3983s
+2026-10-19T15:31:53Z life_011: session 12: 198 units heard, practice CPU 1175s, 552 answers, 4399s
+2026-10-19T15:33:34Z life_008: session 15: 216 units heard, practice CPU 1545s, 548 answers, 4500s
+2026-10-19T15:43:44Z life_010: session 14: 212 units heard, practice CPU 1380s, 550 answers, 5110s
+2026-10-19T15:49:56Z life_009: session 14: 216 units heard, practice CPU 1468s, 541 answers, 5482s
+2026-10-19T15:53:45Z life_011: session 13: 192 units heard, practice CPU 1285s, 547 answers, 5711s
+2026-10-19T16:01:36Z life_008: session 16: 199 units heard, practice CPU 1650s, 583 answers, 6182s
+2026-10-19T16:01:37Z done life_008
+2026-10-19T16:05:36Z life_012: session 1: 203 units heard, practice CPU 232s, 548 answers, 238s
+2026-10-19T16:08:57Z life_010: session 15: 216 units heard, practice CPU 1485s, 545 answers, 6622s
+2026-10-19T16:10:37Z life_012: session 2: 196 units heard, practice CPU 295s, 548 answers, 539s
+2026-10-19T16:17:04Z life_009: session 15: 204 units heard, practice CPU 1588s, 536 answers, 7110s
+2026-10-19T16:17:27Z life_012: session 3: 237 units heard, practice CPU 401s, 553 answers, 949s
+2026-10-19T16:17:35Z life_011: session 14: 209 units heard, practice CPU 1405s, 547 answers, 7141s
+2026-10-19T16:18:43Z [segment 7 stopped: the 2-hour background limit, ~2026-10-19T16:18:30Z; done: life_000-008; checkpoints: life_009 s15, life_010 s15, life_011 s14, life_012 s3 -- the sessions in progress are redone]
+2026-10-19T16:18:43Z [segment 8 started]
+2026-10-19T16:18:45Z done life_000
+2026-10-19T16:18:45Z done life_003
+2026-10-19T16:18:45Z done life_002
+2026-10-19T16:18:45Z done life_001
+2026-10-19T16:18:45Z done life_006
+2026-10-19T16:18:45Z done life_007
+2026-10-19T16:18:45Z done life_004
+2026-10-19T16:18:45Z done life_005
+2026-10-19T16:18:45Z done life_008
+2026-10-19T16:18:46Z life_012: resumed at session 4
+2026-10-19T16:18:46Z life_009: resumed at session 16
+2026-10-19T16:18:46Z life_010: resumed at session 16
+2026-10-19T16:18:46Z life_011: resumed at session 15
+2026-10-19T16:27:06Z life_012: session 4: 196 units heard, practice CPU 490s, 563 answers, 500s
+2026-10-19T16:37:18Z life_012: session 5: 206 units heard, practice CPU 601s, 548 answers, 1113s
+2026-10-19T16:42:28Z life_011: session 15: 190 units heard, practice CPU 1398s, 547 answers, 1422s
+2026-10-19T16:44:05Z life_010: session 16: 179 units heard, practice CPU 1493s, 585 answers, 1519s
+2026-10-19T16:44:05Z done life_010
+2026-10-19T16:45:37Z life_009: session 16: 177 units heard, practice CPU 1572s, 576 answers, 1611s
+2026-10-19T16:45:37Z done life_009
+2026-10-19T16:47:53Z life_013: session 1: 236 units heard, practice CPU 222s, 545 answers, 227s
+2026-10-19T16:47:53Z life_012: session 6: 181 units heard, practice CPU 623s, 548 answers, 1748s
+2026-10-19T16:48:42Z life_014: session 1: 186 units heard, practice CPU 178s, 548 answers, 184s
+2026-10-19T16:54:04Z life_013: session 2: 209 units heard, practice CPU 364s, 550 answers, 599s
+2026-10-19T16:54:39Z life_014: session 2: 221 units heard, practice CPU 348s, 548 answers, 542s
+2026-10-19T17:00:37Z life_012: session 7: 202 units heard, practice CPU 750s, 548 answers, 2511s
+2026-10-19T17:01:21Z life_013: session 3: 197 units heard, practice CPU 429s, 545 answers, 1036s
+2026-10-19T17:01:28Z life_014: session 3: 185 units heard, practice CPU 398s, 558 answers, 951s
+2026-10-19T17:07:21Z life_011: session 16: 191 units heard, practice CPU 1468s, 587 answers, 2915s
+2026-10-19T17:07:21Z done life_011
+2026-10-19T17:09:56Z life_013: session 4: 208 units heard, practice CPU 504s, 545 answers, 1551s
+2026-10-19T17:10:17Z life_014: session 4: 230 units heard, practice CPU 514s, 548 answers, 1479s
+2026-10-19T17:10:20Z life_015: session 1: 159 units heard, practice CPU 173s, 543 answers, 179s
+2026-10-19T17:14:11Z life_015: session 2: 180 units heard, practice CPU 226s, 543 answers, 410s
+2026-10-19T17:14:25Z life_012: session 8: 185 units heard, practice CPU 813s, 548 answers, 3339s
+2026-10-19T17:19:20Z life_015: session 3: 191 units heard, practice CPU 302s, 543 answers, 719s
+2026-10-19T17:20:33Z life_014: session 5: 190 units heard, practice CPU 600s, 553 answers, 2095s
+2026-10-19T17:21:00Z life_013: session 5: 245 units heard, practice CPU 651s, 555 answers, 2214s
+2026-10-19T17:27:08Z life_015: session 4: 207 units heard, practice CPU 458s, 543 answers, 1186s
+2026-10-19T17:29:43Z life_012: session 9: 197 units heard, practice CPU 903s, 548 answers, 4257s
+2026-10-19T17:32:29Z life_013: session 6: 219 units heard, practice CPU 677s, 550 answers, 2903s
+2026-10-19T17:32:32Z life_014: session 6: 213 units heard, practice CPU 701s, 548 answers, 2814s
+2026-10-19T17:36:09Z life_015: session 5: 194 units heard, practice CPU 532s, 543 answers, 1728s
+2026-10-19T17:44:53Z life_013: session 7: 195 units heard, practice CPU 729s, 545 answers, 3648s
+2026-10-19T17:45:19Z life_014: session 7: 211 units heard, practice CPU 753s, 548 answers, 3581s
+2026-10-19T17:46:20Z life_012: session 10: 198 units heard, practice CPU 981s, 548 answers, 5254s
+2026-10-19T17:46:50Z life_015: session 6: 200 units heard, practice CPU 629s, 543 answers, 2368s
+2026-10-19T17:57:47Z life_015: session 7: 221 units heard, practice CPU 644s, 548 answers, 3025s
+2026-10-19T17:58:44Z life_013: session 8: 208 units heard, practice CPU 815s, 545 answers, 4479s
+2026-10-19T17:59:56Z life_014: session 8: 221 units heard, practice CPU 862s, 553 answers, 4458s
+2026-10-19T18:03:54Z life_012: session 11: 200 units heard, practice CPU 1037s, 553 answers, 6308s
+2026-10-19T18:11:45Z life_015: session 8: 201 units heard, practice CPU 824s, 558 answers, 3864s
+2026-10-19T18:14:27Z life_013: session 9: 219 units heard, practice CPU 926s, 545 answers, 5421s
+2026-10-19T18:15:51Z life_014: session 9: 195 units heard, practice CPU 931s, 553 answers, 5413s
+2026-10-19T18:18:54Z [segment 8 stopped: the 2-hour background limit, ~2026-10-19T18:18:45Z; done: life_000-011; checkpoints: life_012 s11, life_013 s9, life_014 s9, life_015 s8 -- the sessions in progress are redone]
+2026-10-19T18:18:54Z [segment 9 started]
+2026-10-19T18:18:56Z done life_003
+2026-10-19T18:18:56Z done life_001
+2026-10-19T18:18:56Z done life_002
+2026-10-19T18:18:56Z done life_000
+2026-10-19T18:18:56Z done life_004
+2026-10-19T18:18:56Z done life_006
+2026-10-19T18:18:56Z done life_005
+2026-10-19T18:18:56Z done life_007
+2026-10-19T18:18:56Z done life_008
+2026-10-19T18:18:56Z done life_011
+2026-10-19T18:18:56Z done life_010
+2026-10-19T18:18:56Z done life_009
+2026-10-19T18:18:56Z life_013: resumed at session 10
+2026-10-19T18:18:56Z life_015: resumed at session 9
+2026-10-19T18:18:56Z life_014: resumed at session 10
+2026-10-19T18:18:56Z life_012: resumed at session 12
+2026-10-19T18:34:07Z life_015: session 9: 222 units heard, practice CPU 893s, 543 answers, 911s
+2026-10-19T18:35:43Z life_014: session 10: 208 units heard, practice CPU 991s, 548 answers, 1007s
+2026-10-19T18:38:33Z life_013: session 10: 247 units heard, practice CPU 1152s, 545 answers, 1177s
+2026-10-19T18:38:42Z life_012: session 12: 247 units heard, practice CPU 1165s, 553 answers, 1186s
+2026-10-19T18:51:22Z life_015: session 10: 215 units heard, practice CPU 1017s, 548 answers, 1946s
+2026-10-19T18:55:21Z life_014: session 11: 195 units heard, practice CPU 1149s, 548 answers, 2185s
+2026-10-19T18:59:18Z life_013: session 11: 168 units heard, practice CPU 1224s, 550 answers, 2422s
+2026-10-19T19:00:20Z life_012: session 13: 212 units heard, practice CPU 1276s, 548 answers, 2484s
+2026-10-19T19:09:26Z life_015: session 11: 209 units heard, practice CPU 1066s, 548 answers, 3030s
+2026-10-19T19:16:31Z life_014: session 12: 180 units heard, practice CPU 1239s, 548 answers, 3455s
+2026-10-19T19:22:26Z life_013: session 12: 195 units heard, practice CPU 1365s, 550 answers, 3810s
+2026-10-19T19:23:31Z life_012: session 14: 193 units heard, practice CPU 1368s, 548 answers, 3874s
+2026-10-19T19:29:53Z life_015: session 12: 201 units heard, practice CPU 1207s, 543 answers, 4257s
+2026-10-19T19:38:13Z life_014: session 13: 198 units heard, practice CPU 1273s, 548 answers, 4757s
+2026-10-19T19:46:01Z life_013: session 13: 209 units heard, practice CPU 1393s, 545 answers, 5225s
+2026-10-19T19:48:06Z life_012: session 15: 239 units heard, practice CPU 1452s, 558 answers, 5350s
+2026-10-19T19:51:27Z life_015: session 13: 242 units heard, practice CPU 1272s, 553 answers, 5551s
+2026-10-19T20:01:33Z life_014: session 14: 229 units heard, practice CPU 1373s, 558 answers, 6157s
+2026-10-19T20:12:25Z life_013: session 14: 218 units heard, practice CPU 1547s, 550 answers, 6809s
+2026-10-19T20:14:35Z life_015: session 14: 212 units heard, practice CPU 1363s, 543 answers, 6939s
+2026-10-19T20:15:12Z life_012: session 16: 207 units heard, practice CPU 1597s, 588 answers, 6976s
+2026-10-19T20:15:12Z done life_012
+2026-10-19T20:19:06Z [segment 9 stopped: the 2-hour background limit, ~2026-10-19T20:18:55Z; done: life_000-012; checkpoints: life_013 s14, life_014 s14, life_015 s14, life_016 none (began ~20:15, redone from the start)]
+2026-10-19T20:19:06Z [segment 10 started]
+2026-10-19T20:19:07Z done life_000
+2026-10-19T20:19:07Z done life_003
+2026-10-19T20:19:07Z done life_001
+2026-10-19T20:19:07Z done life_002
+2026-10-19T20:19:07Z done life_004
+2026-10-19T20:19:07Z done life_006
+2026-10-19T20:19:07Z done life_007
+2026-10-19T20:19:07Z done life_005
+2026-10-19T20:19:07Z done life_008
+2026-10-19T20:19:07Z done life_009
+2026-10-19T20:19:07Z done life_010
+2026-10-19T20:19:08Z done life_012
+2026-10-19T20:19:08Z done life_011
+2026-10-19T20:19:08Z life_014: resumed at session 15
+2026-10-19T20:19:08Z life_013: resumed at session 15
+2026-10-19T20:19:08Z life_015: resumed at session 15
+2026-10-19T20:23:39Z life_016: session 1: 228 units heard, practice CPU 262s, 543 answers, 269s
+2026-10-19T20:29:28Z life_016: session 2: 198 units heard, practice CPU 342s, 548 answers, 618s
+2026-10-19T20:36:27Z life_016: session 3: 193 units heard, practice CPU 411s, 548 answers, 1038s
+2026-10-19T20:42:30Z life_015: session 15: 195 units heard, practice CPU 1380s, 543 answers, 1402s
+2026-10-19T20:43:06Z life_014: session 15: 214 units heard, practice CPU 1408s, 553 answers, 1439s
+2026-10-19T20:45:50Z life_013: session 15: 213 units heard, practice CPU 1578s, 550 answers, 1602s
+2026-10-19T20:46:03Z life_016: session 4: 245 units heard, practice CPU 566s, 548 answers, 1613s
+2026-10-19T20:56:35Z life_016: session 5: 192 units heard, practice CPU 622s, 543 answers, 2246s
+2026-10-19T21:06:55Z life_015: session 16: 192 units heard, practice CPU 1443s, 583 answers, 2867s
+2026-10-19T21:06:56Z done life_015
+2026-10-19T21:08:01Z life_016: session 6: 216 units heard, practice CPU 676s, 543 answers, 2932s
+2026-10-19T21:08:18Z life_014: session 16: 202 units heard, practice CPU 1482s, 588 answers, 2950s
+2026-10-19T21:08:18Z done life_014
+2026-10-19T21:11:45Z life_018: session 1: 220 units heard, practice CPU 202s, 546 answers, 206s
+2026-10-19T21:12:05Z life_017: session 1: 232 units heard, practice CPU 303s, 547 answers, 309s
+2026-10-19T21:12:22Z life_013: session 16: 184 units heard, practice CPU 1566s, 585 answers, 3194s
+2026-10-19T21:12:22Z done life_013
+2026-10-19T21:17:10Z life_018: session 2: 194 units heard, practice CPU 319s, 546 answers, 531s
+2026-10-19T21:17:13Z life_019: session 1: 230 units heard, practice CPU 283s, 545 answers, 291s
+2026-10-19T21:18:13Z life_017: session 2: 220 units heard, practice CPU 361s, 557 answers, 677s
+2026-10-19T21:19:58Z life_016: session 7: 193 units heard, practice CPU 706s, 548 answers, 3649s
+2026-10-19T21:23:30Z life_019: session 2: 205 units heard, practice CPU 366s, 550 answers, 667s
+2026-10-19T21:23:35Z life_018: session 3: 190 units heard, practice CPU 378s, 551 answers, 916s
+2026-10-19T21:25:39Z life_017: session 3: 185 units heard, practice CPU 436s, 547 answers, 1122s
+2026-10-19T21:30:31Z life_019: session 3: 201 units heard, practice CPU 410s, 550 answers, 1088s
+2026-10-19T21:32:02Z life_018: session 4: 206 units heard, practice CPU 499s, 551 answers, 1424s
+2026-10-19T21:34:06Z life_016: session 8: 180 units heard, practice CPU 834s, 543 answers, 4497s
+2026-10-19T21:34:14Z life_017: session 4: 189 units heard, practice CPU 507s, 552 answers, 1638s
+2026-10-19T21:39:04Z life_019: session 4: 208 units heard, practice CPU 501s, 545 answers, 1601s
+2026-10-19T21:42:07Z life_018: session 5: 207 units heard, practice CPU 594s, 546 answers, 2028s
+2026-10-19T21:44:33Z life_017: session 5: 213 units heard, practice CPU 607s, 547 answers, 2257s
+2026-10-19T21:48:28Z life_019: session 5: 198 units heard, practice CPU 555s, 550 answers, 2165s
+2026-10-19T21:49:47Z life_016: session 9: 188 units heard, practice CPU 920s, 543 answers, 5438s
+2026-10-19T21:53:35Z life_018: session 6: 204 units heard, practice CPU 679s, 551 answers, 2716s
+2026-10-19T21:56:05Z life_017: session 6: 205 units heard, practice CPU 679s, 552 answers, 2948s
+2026-10-19T21:59:02Z life_019: session 6: 195 units heard, practice CPU 620s, 550 answers, 2799s
+2026-10-19T22:06:11Z life_018: session 7: 184 units heard, practice CPU 741s, 546 answers, 3472s
+2026-10-19T22:06:45Z life_016: session 10: 216 units heard, practice CPU 995s, 543 answers, 6456s
+2026-10-19T22:09:02Z life_017: session 7: 196 units heard, practice CPU 765s, 547 answers, 3726s
+2026-10-19T22:10:06Z life_019: session 7: 211 units heard, practice CPU 653s, 545 answers, 3464s
+2026-10-19T22:19:17Z [segment 10 stopped: the 2-hour background limit, ~2026-10-19T22:19:05Z; done: life_000-015; checkpoints: life_016 s10, life_017 s7, life_018 s7, life_019 s7 -- the sessions in progress are redone]
+2026-10-19T22:19:17Z [segment 11 started]
+2026-10-19T22:19:18Z done life_003
+2026-10-19T22:19:18Z done life_002
+2026-10-19T22:19:18Z done life_000
+2026-10-19T22:19:18Z done life_001
+2026-10-19T22:19:18Z done life_004
+2026-10-19T22:19:18Z done life_005
+2026-10-19T22:19:18Z done life_006
+2026-10-19T22:19:18Z done life_007
+2026-10-19T22:19:19Z done life_009
+2026-10-19T22:19:19Z done life_010
+2026-10-19T22:19:19Z done life_008
+2026-10-19T22:19:19Z done life_012
+2026-10-19T22:19:19Z done life_011
+2026-10-19T22:19:19Z done life_013
+2026-10-19T22:19:19Z done life_014
+2026-10-19T22:19:19Z done life_015
+2026-10-19T22:19:19Z life_018: resumed at session 8
+2026-10-19T22:19:19Z life_017: resumed at session 8
+2026-10-19T22:19:19Z life_016: resumed at session 11
+2026-10-19T22:19:19Z life_019: resumed at session 8
+2026-10-19T22:32:06Z life_018: session 8: 162 units heard, practice CPU 757s, 551 answers, 767s
+2026-10-19T22:32:24Z life_019: session 8: 208 units heard, practice CPU 773s, 545 answers, 785s
+2026-10-19T22:33:08Z life_017: session 8: 190 units heard, practice CPU 813s, 547 answers, 829s
+2026-10-19T22:37:13Z life_016: session 11: 257 units heard, practice CPU 1060s, 553 answers, 1074s
+2026-10-19T22:45:43Z life_018: session 9: 162 units heard, practice CPU 807s, 551 answers, 1584s
+2026-10-19T22:47:04Z life_019: session 9: 224 units heard, practice CPU 868s, 550 answers, 1665s
+2026-10-19T22:48:40Z life_017: session 9: 211 units heard, practice CPU 915s, 547 answers, 1762s
+2026-10-19T22:55:33Z life_016: session 12: 195 units heard, practice CPU 1086s, 543 answers, 2175s
+2026-10-19T23:00:21Z life_018: session 10: 170 units heard, practice CPU 866s, 546 answers, 2462s
+2026-10-19T23:02:19Z life_019: session 10: 174 units heard, practice CPU 902s, 545 answers, 2580s
+2026-10-19T23:05:12Z life_017: session 10: 203 units heard, practice CPU 971s, 552 answers, 2754s
+2026-10-19T23:16:23Z life_016: session 13: 231 units heard, practice CPU 1234s, 548 answers, 3424s
+2026-10-19T23:17:53Z life_018: session 11: 241 units heard, practice CPU 1038s, 546 answers, 3514s
+2026-10-19T23:18:56Z life_019: session 11: 210 units heard, practice CPU 985s, 545 answers, 3577s
+2026-10-19T23:23:29Z life_017: session 11: 214 units heard, practice CPU 1076s, 547 answers, 3850s
+2026-10-19T23:36:34Z life_018: session 12: 219 units heard, practice CPU 1108s, 551 answers, 4635s
+2026-10-19T23:37:02Z life_019: session 12: 226 units heard, practice CPU 1068s, 545 answers, 4663s
+2026-10-19T23:38:11Z life_016: session 14: 203 units heard, practice CPU 1293s, 548 answers, 4732s
+2026-10-19T23:41:57Z life_017: session 12: 216 units heard, practice CPU 1096s, 552 answers, 4958s
+2026-10-19T23:54:37Z life_018: session 13: 192 units heard, practice CPU 1072s, 546 answers, 5718s
+2026-10-19T23:55:33Z life_019: session 13: 226 units heard, practice CPU 1097s, 555 answers, 5774s
+2026-10-19T23:59:49Z life_016: session 15: 195 units heard, practice CPU 1276s, 543 answers, 6030s
+2026-10-20T00:00:50Z life_017: session 13: 195 units heard, practice CPU 1120s, 547 answers, 6091s
+2026-10-20T00:14:10Z life_018: session 14: 200 units heard, practice CPU 1159s, 551 answers, 6892s
+2026-10-20T00:15:18Z life_019: session 14: 182 units heard, practice CPU 1167s, 550 answers, 6959s
+2026-10-20T00:19:28Z [segment 11 stopped: the 2-hour background limit, ~2026-10-20T00:19:15Z; done: life_000-015; checkpoints: life_016 s15, life_017 s13, life_018 s14, life_019 s14 -- the sessions in progress are redone]
+2026-10-20T00:19:28Z [segment 12 started]
+2026-10-20T00:19:29Z done life_000
+2026-10-20T00:19:29Z done life_003
+2026-10-20T00:19:29Z done life_002
+2026-10-20T00:19:29Z done life_001
+2026-10-20T00:19:29Z done life_006
+2026-10-20T00:19:29Z done life_004
+2026-10-20T00:19:29Z done life_005
+2026-10-20T00:19:29Z done life_007
+2026-10-20T00:19:29Z done life_011
+2026-10-20T00:19:29Z done life_008
+2026-10-20T00:19:29Z done life_009
+2026-10-20T00:19:29Z done life_010
+2026-10-20T00:19:29Z done life_014
+2026-10-20T00:19:29Z done life_013
+2026-10-20T00:19:29Z done life_012
+2026-10-20T00:19:29Z done life_015
+2026-10-20T00:19:30Z life_019: resumed at session 15
+2026-10-20T00:19:30Z life_017: resumed at session 14
+2026-10-20T00:19:30Z life_018: resumed at session 15
+2026-10-20T00:19:30Z life_016: resumed at session 16
+2026-10-20T00:40:16Z life_017: session 14: 209 units heard, practice CPU 1230s, 552 answers, 1246s
+2026-10-20T00:40:30Z life_019: session 15: 196 units heard, practice CPU 1243s, 545 answers, 1260s
+2026-10-20T00:41:30Z life_018: session 15: 232 units heard, practice CPU 1304s, 551 answers, 1320s
+2026-10-20T00:43:40Z life_016: session 16: 214 units heard, practice CPU 1422s, 583 answers, 1450s
+2026-10-20T00:43:41Z done life_016
+2026-10-20T00:47:15Z life_020: session 1: 194 units heard, practice CPU 209s, 546 answers, 214s
+2026-10-20T00:52:14Z life_020: session 2: 224 units heard, practice CPU 292s, 551 answers, 513s
+2026-10-20T00:58:30Z life_020: session 3: 206 units heard, practice CPU 367s, 551 answers, 889s
+2026-10-20T01:03:08Z life_017: session 15: 196 units heard, practice CPU 1354s, 552 answers, 2618s
+2026-10-20T01:03:12Z life_019: session 16: 191 units heard, practice CPU 1346s, 585 answers, 2623s
+2026-10-20T01:03:13Z done life_019
+2026-10-20T01:05:12Z life_018: session 16: 195 units heard, practice CPU 1404s, 586 answers, 2743s
+2026-10-20T01:05:13Z done life_018
+2026-10-20T01:06:26Z life_020: session 4: 212 units heard, practice CPU 466s, 546 answers, 1366s
+2026-10-20T01:07:12Z life_021: session 1: 219 units heard, practice CPU 235s, 544 answers, 239s
+2026-10-20T01:09:33Z life_022: session 1: 209 units heard, practice CPU 255s, 548 answers, 260s
+2026-10-20T01:13:04Z life_021: session 2: 205 units heard, practice CPU 345s, 544 answers, 591s
+2026-10-20T01:14:57Z life_022: session 2: 226 units heard, practice CPU 318s, 553 answers, 584s
+2026-10-20T01:16:21Z life_020: session 5: 217 units heard, practice CPU 581s, 546 answers, 1960s
+2026-10-20T01:20:19Z life_021: session 3: 181 units heard, practice CPU 428s, 544 answers, 1026s
+2026-10-20T01:22:36Z life_022: session 3: 219 units heard, practice CPU 450s, 553 answers, 1043s
+2026-10-20T01:27:00Z life_020: session 6: 181 units heard, practice CPU 625s, 551 answers, 2599s
+2026-10-20T01:29:24Z life_021: session 4: 212 units heard, practice CPU 536s, 544 answers, 1570s
+2026-10-20T01:29:32Z life_017: session 16: 194 units heard, practice CPU 1563s, 587 answers, 4203s
+2026-10-20T01:29:33Z done life_017
+2026-10-20T01:30:37Z life_022: session 4: 166 units heard, practice CPU 474s, 548 answers, 1523s
+2026-10-20T01:33:22Z life_023: session 1: 160 units heard, practice CPU 224s, 544 answers, 229s
+2026-10-20T01:39:25Z life_023: session 2: 222 units heard, practice CPU 354s, 554 answers, 592s
+2026-10-20T01:39:38Z life_021: session 5: 191 units heard, practice CPU 603s, 544 answers, 2185s
+2026-10-20T01:39:51Z life_020: session 7: 214 units heard, practice CPU 754s, 546 answers, 3371s
+2026-10-20T01:41:57Z life_022: session 5: 243 units heard, practice CPU 669s, 548 answers, 2204s
+2026-10-20T01:46:08Z life_023: session 3: 204 units heard, practice CPU 394s, 544 answers, 995s
+2026-10-20T01:51:17Z life_021: session 6: 238 units heard, practice CPU 689s, 554 answers, 2884s
+2026-10-20T01:52:41Z life_022: session 6: 193 units heard, practice CPU 634s, 548 answers, 2848s
+2026-10-20T01:53:39Z life_020: session 8: 202 units heard, practice CPU 816s, 551 answers, 4198s
+2026-10-20T01:54:05Z life_023: session 4: 207 units heard, practice CPU 468s, 544 answers, 1472s
+2026-10-20T02:03:30Z life_021: session 7: 170 units heard, practice CPU 722s, 549 answers, 3617s
+2026-10-20T02:04:07Z life_023: session 5: 196 units heard, practice CPU 590s, 544 answers, 2074s
+2026-10-20T02:06:02Z life_022: session 7: 232 units heard, practice CPU 788s, 553 answers, 3649s
+2026-10-20T02:08:25Z life_020: session 9: 177 units heard, practice CPU 874s, 546 answers, 5084s
+2026-10-20T02:15:22Z life_023: session 6: 195 units heard, practice CPU 665s, 544 answers, 2749s
+2026-10-20T02:17:04Z life_021: session 8: 180 units heard, practice CPU 803s, 549 answers, 4431s
+2026-10-20T02:19:38Z [segment 12 stopped: the 2-hour background limit, ~2026-10-20T02:19:25Z; done: life_000-019; checkpoints: life_020 s9, life_021 s8, life_022 s7, life_023 s6 -- the sessions in progress are redone]
+2026-10-20T02:19:38Z [segment 13 started]
+2026-10-20T02:19:40Z done life_001
+2026-10-20T02:19:40Z done life_003
+2026-10-20T02:19:40Z done life_002
+2026-10-20T02:19:40Z done life_000
+2026-10-20T02:19:40Z done life_005
+2026-10-20T02:19:40Z done life_004
+2026-10-20T02:19:40Z done life_006
+2026-10-20T02:19:40Z done life_007
+2026-10-20T02:19:40Z done life_008
+2026-10-20T02:19:40Z done life_010
+2026-10-20T02:19:40Z done life_012
+2026-10-20T02:19:40Z done life_009
+2026-10-20T02:19:40Z done life_013
+2026-10-20T02:19:40Z done life_011
+2026-10-20T02:19:40Z done life_015
+2026-10-20T02:19:41Z done life_017
+2026-10-20T02:19:41Z done life_014
+2026-10-20T02:19:41Z done life_016
+2026-10-20T02:19:41Z done life_018
+2026-10-20T02:19:41Z done life_019
+2026-10-20T02:19:41Z life_020: resumed at session 10
+2026-10-20T02:19:41Z life_022: resumed at session 8
+2026-10-20T02:19:41Z life_021: resumed at session 9
+2026-10-20T02:19:41Z life_023: resumed at session 7
+2026-10-20T02:32:48Z life_023: session 7: 242 units heard, practice CPU 773s, 554 answers, 787s
+2026-10-20T02:33:58Z life_022: session 8: 200 units heard, practice CPU 843s, 553 answers, 857s
+2026-10-20T02:34:20Z life_021: session 9: 183 units heard, practice CPU 865s, 544 answers, 879s
+2026-10-20T02:35:58Z life_020: session 10: 211 units heard, practice CPU 955s, 551 answers, 977s
+2026-10-20T02:46:53Z life_023: session 8: 220 units heard, practice CPU 833s, 544 answers, 1632s
+2026-10-20T02:50:12Z life_022: session 9: 210 units heard, practice CPU 961s, 553 answers, 1832s
+2026-10-20T02:50:45Z life_021: session 10: 206 units heard, practice CPU 970s, 549 answers, 1864s
+2026-10-20T02:53:41Z life_020: session 11: 223 units heard, practice CPU 1042s, 556 answers, 2040s
+2026-10-20T03:02:09Z life_023: session 9: 212 units heard, practice CPU 902s, 554 answers, 2548s
+2026-10-20T03:07:16Z life_022: session 10: 194 units heard, practice CPU 1008s, 548 answers, 2855s
+2026-10-20T03:08:28Z life_021: session 11: 195 units heard, practice CPU 1048s, 544 answers, 2927s
+2026-10-20T03:11:13Z life_020: session 12: 187 units heard, practice CPU 1030s, 546 answers, 3093s
+2026-10-20T03:14:54Z [segment 13 stopped: container restart, after the last line at 2026-10-20T03:11:13Z (noticed 03:14:47); checkpoints: life_020 s12, life_021 s11, life_022 s10, life_023 s9 -- the sessions in progress are redone]
+2026-10-20T03:14:54Z [segment 14 started]
+2026-10-20T03:14:56Z done life_003
+2026-10-20T03:14:56Z done life_001
+2026-10-20T03:14:56Z done life_002
+2026-10-20T03:14:56Z done life_000
+2026-10-20T03:14:56Z done life_004
+2026-10-20T03:14:56Z done life_007
+2026-10-20T03:14:56Z done life_005
+2026-10-20T03:14:56Z done life_006
+2026-10-20T03:14:56Z done life_008
+2026-10-20T03:14:56Z done life_009
+2026-10-20T03:14:56Z done life_010
+2026-10-20T03:14:56Z done life_012
+2026-10-20T03:14:56Z done life_011
+2026-10-20T03:14:56Z done life_013
+2026-10-20T03:14:56Z done life_014
+2026-10-20T03:14:56Z done life_016
+2026-10-20T03:14:56Z done life_015
+2026-10-20T03:14:56Z done life_017
+2026-10-20T03:14:56Z done life_018
+2026-10-20T03:14:56Z done life_019
+2026-10-20T03:14:56Z life_020: resumed at session 13
+2026-10-20T03:14:56Z life_022: resumed at session 11
+2026-10-20T03:14:56Z life_023: resumed at session 10
+2026-10-20T03:14:57Z life_021: resumed at session 12
+2026-10-20T03:30:51Z life_023: session 10: 188 units heard, practice CPU 942s, 544 answers, 954s
+2026-10-20T03:33:24Z life_021: session 12: 187 units heard, practice CPU 1094s, 544 answers, 1108s
+2026-10-20T03:33:43Z life_022: session 11: 218 units heard, practice CPU 1108s, 548 answers, 1127s
+2026-10-20T03:34:19Z life_020: session 13: 164 units heard, practice CPU 1150s, 546 answers, 1163s
+2026-10-20T03:38:29Z [segment 14 stopped: container restart, after the last line at 2026-10-20T03:34:19Z (noticed 03:38:18); checkpoints: life_020 s13, life_021 s12, life_022 s11, life_023 s10 -- the sessions in progress are redone]
+2026-10-20T03:38:29Z [segment 15 started]
+2026-10-20T03:39:24Z done life_001
+2026-10-20T03:39:24Z done life_003
+2026-10-20T03:39:24Z done life_000
+2026-10-20T03:39:24Z done life_002
+2026-10-20T03:39:25Z done life_004
+2026-10-20T03:39:25Z done life_005
+2026-10-20T03:39:25Z done life_007
+2026-10-20T03:39:25Z done life_006
+2026-10-20T03:39:25Z done life_008
+2026-10-20T03:39:25Z done life_010
+2026-10-20T03:39:25Z done life_009
+2026-10-20T03:39:25Z done life_011
+2026-10-20T03:39:25Z done life_012
+2026-10-20T03:39:25Z done life_015
+2026-10-20T03:39:25Z done life_013
+2026-10-20T03:39:25Z done life_014
+2026-10-20T03:39:25Z done life_016
+2026-10-20T03:39:25Z done life_018
+2026-10-20T03:39:25Z done life_019
+2026-10-20T03:39:25Z done life_017
+2026-10-20T03:39:27Z life_022: resumed at session 12
+2026-10-20T03:39:27Z life_023: resumed at session 11
+2026-10-20T03:39:28Z life_021: resumed at session 13
+2026-10-20T03:39:28Z life_020: resumed at session 14
+2026-10-20T04:10:12Z life_023: session 11: 202 units heard, practice CPU 1788s, 549 answers, 1844s
+2026-10-20T04:14:19Z life_021: session 13: 202 units heard, practice CPU 2047s, 549 answers, 2091s
+2026-10-20T04:14:55Z life_022: session 12: 234 units heard, practice CPU 2081s, 563 answers, 2128s
+2026-10-20T04:17:41Z life_020: session 14: 231 units heard, practice CPU 2245s, 551 answers, 2293s
+2026-10-20T04:44:33Z life_023: session 12: 197 units heard, practice CPU 2026s, 544 answers, 3906s
+2026-10-20T04:50:48Z life_022: session 13: 169 units heard, practice CPU 2116s, 548 answers, 4281s
+2026-10-20T04:52:57Z life_021: session 14: 219 units heard, practice CPU 2288s, 544 answers, 4409s
+2026-10-20T04:56:42Z life_020: session 15: 183 units heard, practice CPU 2306s, 546 answers, 4634s
+2026-10-20T05:20:54Z life_023: session 13: 229 units heard, practice CPU 2149s, 549 answers, 6087s
+2026-10-20T05:28:48Z life_022: session 14: 163 units heard, practice CPU 2239s, 548 answers, 6560s
+2026-10-20T05:32:11Z life_021: session 15: 200 units heard, practice CPU 2321s, 554 answers, 6764s
+2026-10-20T05:36:33Z [note: since the container restart at ~03:35 the practice CPU per session is about twice the earlier lives' at the same session (e.g. session 14: ~1,400 s before, ~2,290 s now) with 4 processes at ~90% and no other load -> a slower host; this host: Intel(R) Xeon(R) Processor @ 2.80GHz, 4 CPUs, flags: fma avx avx2 avx512f avx512_vnni ; the earlier hosts' CPU was not recorded]
+2026-10-20T05:38:40Z [segment 15 stopped: the 2-hour background limit, ~2026-10-20T05:38:29Z; done: life_000-019; checkpoints: life_020 s15, life_021 s15, life_022 s14, life_023 s13 -- the sessions in progress are redone]
+2026-10-20T05:38:40Z [segment 16 started]
+2026-10-20T05:38:42Z done life_003
+2026-10-20T05:38:42Z done life_002
+2026-10-20T05:38:42Z done life_001
+2026-10-20T05:38:42Z done life_000
+2026-10-20T05:38:42Z done life_007
+2026-10-20T05:38:42Z done life_004
+2026-10-20T05:38:42Z done life_005
+2026-10-20T05:38:42Z done life_006
+2026-10-20T05:38:42Z done life_010
+2026-10-20T05:38:42Z done life_009
+2026-10-20T05:38:43Z done life_008
+2026-10-20T05:38:43Z done life_012
+2026-10-20T05:38:43Z done life_013
+2026-10-20T05:38:43Z done life_011
+2026-10-20T05:38:43Z done life_014
+2026-10-20T05:38:43Z done life_017
+2026-10-20T05:38:43Z done life_015
+2026-10-20T05:38:43Z done life_016
+2026-10-20T05:38:43Z done life_018
+2026-10-20T05:38:43Z done life_019
+2026-10-20T05:38:43Z life_020: resumed at session 16
+2026-10-20T05:38:43Z life_021: resumed at session 16
+2026-10-20T05:38:43Z life_022: resumed at session 15
+2026-10-20T05:38:43Z life_023: resumed at session 14
+2026-10-20T06:20:09Z life_023: session 14: 224 units heard, practice CPU 2434s, 544 answers, 2485s
+2026-10-20T06:22:11Z life_022: session 15: 240 units heard, practice CPU 2558s, 548 answers, 2608s
+2026-10-20T06:22:17Z life_021: session 16: 203 units heard, practice CPU 2561s, 584 answers, 2614s
+2026-10-20T06:22:18Z done life_021
+2026-10-20T06:23:25Z life_020: session 16: 201 units heard, practice CPU 2623s, 586 answers, 2682s
+2026-10-20T06:23:26Z done life_020
+2026-10-20T06:29:30Z life_024: session 1: 201 units heard, practice CPU 419s, 551 answers, 430s
+2026-10-20T06:31:30Z life_025: session 1: 230 units heard, practice CPU 467s, 548 answers, 483s
+2026-10-20T06:40:10Z life_024: session 2: 205 units heard, practice CPU 626s, 556 answers, 1070s
+2026-10-20T06:41:50Z life_025: session 2: 207 units heard, practice CPU 603s, 553 answers, 1104s
+2026-10-20T06:53:10Z life_024: session 3: 198 units heard, practice CPU 757s, 561 answers, 1850s
+2026-10-20T06:54:05Z life_025: session 3: 169 units heard, practice CPU 718s, 558 answers, 1838s
+2026-10-20T07:04:54Z life_023: session 15: 181 units heard, practice CPU 2638s, 544 answers, 5170s
+2026-10-20T07:08:59Z life_022: session 16: 206 units heard, practice CPU 2759s, 588 answers, 5416s
+2026-10-20T07:09:00Z done life_022
+2026-10-20T07:09:04Z life_025: session 4: 167 units heard, practice CPU 880s, 548 answers, 2738s
+2026-10-20T07:09:23Z life_024: session 4: 187 units heard, practice CPU 943s, 556 answers, 2823s
+2026-10-20T07:15:36Z life_026: session 1: 178 units heard, practice CPU 385s, 546 answers, 395s
+2026-10-20T07:26:23Z life_025: session 5: 210 units heard, practice CPU 1016s, 548 answers, 3777s
+2026-10-20T07:26:30Z life_026: session 2: 230 units heard, practice CPU 639s, 546 answers, 1049s
+2026-10-20T07:27:03Z life_024: session 5: 189 units heard, practice CPU 1030s, 551 answers, 3883s
+2026-10-20T07:38:50Z [segment 16 stopped: the 2-hour background limit, ~2026-10-20T07:38:40Z; done: life_000-022; checkpoints: life_023 s15, life_024 s5, life_025 s5, life_026 s2 -- the sessions in progress are redone]
+2026-10-20T07:38:50Z [segment 17 started]
+2026-10-20T07:38:53Z done life_001
+2026-10-20T07:38:53Z done life_003
+2026-10-20T07:38:53Z done life_000
+2026-10-20T07:38:53Z done life_002
+2026-10-20T07:38:53Z done life_004
+2026-10-20T07:38:53Z done life_005
+2026-10-20T07:38:53Z done life_006
+2026-10-20T07:38:53Z done life_007
+2026-10-20T07:38:53Z done life_009
+2026-10-20T07:38:53Z done life_008
+2026-10-20T07:38:53Z done life_010
+2026-10-20T07:38:53Z done life_011
+2026-10-20T07:38:53Z done life_013
+2026-10-20T07:38:53Z done life_014
+2026-10-20T07:38:53Z done life_012
+2026-10-20T07:38:53Z done life_015
+2026-10-20T07:38:53Z done life_016
+2026-10-20T07:38:53Z done life_018
+2026-10-20T07:38:53Z done life_017
+2026-10-20T07:38:53Z done life_019
+2026-10-20T07:38:53Z done life_021
+2026-10-20T07:38:53Z done life_020
+2026-10-20T07:38:53Z done life_022
+2026-10-20T07:38:53Z life_026: resumed at session 3
+2026-10-20T07:38:54Z life_024: resumed at session 6
+2026-10-20T07:38:54Z life_025: resumed at session 6
+2026-10-20T07:38:54Z life_023: resumed at session 16
+2026-10-20T07:52:22Z life_026: session 3: 238 units heard, practice CPU 790s, 546 answers, 809s
+2026-10-20T07:57:18Z life_024: session 6: 158 units heard, practice CPU 1072s, 551 answers, 1105s
+2026-10-20T07:59:56Z life_025: session 6: 218 units heard, practice CPU 1236s, 548 answers, 1263s
+2026-10-20T08:07:30Z life_026: session 4: 200 units heard, practice CPU 878s, 546 answers, 1717s
+2026-10-20T08:19:29Z life_024: session 7: 222 units heard, practice CPU 1299s, 551 answers, 2435s
+2026-10-20T08:20:21Z life_025: session 7: 181 units heard, practice CPU 1198s, 553 answers, 2488s
+2026-10-20T08:25:52Z life_023: session 16: 211 units heard, practice CPU 2759s, 584 answers, 2818s
+2026-10-20T08:25:52Z done life_023
+2026-10-20T08:26:00Z life_026: session 5: 221 units heard, practice CPU 1078s, 556 answers, 2827s
+2026-10-20T08:33:45Z life_027: session 1: 210 units heard, practice CPU 460s, 546 answers, 472s
+2026-10-20T08:43:17Z life_027: session 2: 197 units heard, practice CPU 554s, 546 answers, 1045s
+2026-10-20T08:43:43Z life_024: session 8: 179 units heard, practice CPU 1424s, 551 answers, 3889s
+2026-10-20T08:45:44Z life_025: session 8: 236 units heard, practice CPU 1487s, 548 answers, 4010s
+2026-10-20T08:48:32Z life_026: session 6: 252 units heard, practice CPU 1321s, 551 answers, 4178s
+2026-10-20T08:56:58Z life_027: session 3: 220 units heard, practice CPU 800s, 551 answers, 1865s
+2026-10-20T09:12:08Z life_024: session 9: 207 units heard, practice CPU 1655s, 551 answers, 5594s
+2026-10-20T09:12:34Z life_027: session 4: 198 units heard, practice CPU 913s, 551 answers, 2801s
+2026-10-20T09:15:48Z life_026: session 7: 214 units heard, practice CPU 1599s, 551 answers, 5815s
+2026-10-20T09:15:56Z life_025: session 9: 210 units heard, practice CPU 1773s, 548 answers, 5823s
+2026-10-20T09:30:54Z life_027: session 5: 230 units heard, practice CPU 1075s, 551 answers, 3902s
+2026-10-20T09:39:00Z [segment 17 stopped: the 2-hour background limit, ~2026-10-20T09:38:50Z; done: life_000-023; checkpoints: life_024 s9, life_025 s9, life_026 s7, life_027 s5 -- the sessions in progress are redone]
+2026-10-20T09:39:01Z [segment 18 started]
+2026-10-20T09:39:03Z done life_000
+2026-10-20T09:39:03Z done life_001
+2026-10-20T09:39:03Z done life_002
+2026-10-20T09:39:03Z done life_003
+2026-10-20T09:39:03Z done life_005
+2026-10-20T09:39:03Z done life_006
+2026-10-20T09:39:03Z done life_004
+2026-10-20T09:39:03Z done life_007
+2026-10-20T09:39:03Z done life_008
+2026-10-20T09:39:03Z done life_009
+2026-10-20T09:39:03Z done life_010
+2026-10-20T09:39:03Z done life_011
+2026-10-20T09:39:03Z done life_012
+2026-10-20T09:39:03Z done life_013
+2026-10-20T09:39:03Z done life_014
+2026-10-20T09:39:03Z done life_016
+2026-10-20T09:39:03Z done life_015
+2026-10-20T09:39:03Z done life_017
+2026-10-20T09:39:03Z done life_018
+2026-10-20T09:39:03Z done life_020
+2026-10-20T09:39:03Z done life_019
+2026-10-20T09:39:03Z done life_021
+2026-10-20T09:39:03Z done life_022
+2026-10-20T09:39:04Z done life_023
+2026-10-20T09:39:04Z life_024: resumed at session 10
+2026-10-20T09:39:04Z life_027: resumed at session 6
+2026-10-20T09:39:04Z life_025: resumed at session 10
+2026-10-20T09:39:04Z life_026: resumed at session 8
+2026-10-20T09:59:19Z life_027: session 6: 204 units heard, practice CPU 1179s, 546 answers, 1215s
+2026-10-20T10:05:55Z life_026: session 8: 165 units heard, practice CPU 1578s, 546 answers, 1611s
+2026-10-20T10:08:08Z life_025: session 10: 190 units heard, practice CPU 1710s, 548 answers, 1744s
+2026-10-20T10:08:57Z life_024: session 10: 220 units heard, practice CPU 1756s, 556 answers, 1793s
+2026-10-20T10:22:45Z life_027: session 7: 195 units heard, practice CPU 1367s, 546 answers, 2621s
+2026-10-20T10:37:16Z life_026: session 9: 218 units heard, practice CPU 1844s, 556 answers, 3492s
+2026-10-20T10:41:44Z life_024: session 11: 183 units heard, practice CPU 1932s, 551 answers, 3760s
+2026-10-20T10:43:20Z life_025: session 11: 194 units heard, practice CPU 2073s, 548 answers, 3856s
+2026-10-20T10:49:13Z life_027: session 8: 202 units heard, practice CPU 1558s, 551 answers, 4209s
+2026-10-20T11:11:32Z life_026: session 10: 182 units heard, practice CPU 2004s, 551 answers, 5548s
+2026-10-20T11:18:31Z life_024: session 12: 213 units heard, practice CPU 2171s, 551 answers, 5967s
+2026-10-20T11:18:58Z life_027: session 9: 215 units heard, practice CPU 1755s, 546 answers, 5994s
+2026-10-20T11:21:04Z life_025: session 12: 197 units heard, practice CPU 2227s, 548 answers, 6120s
+2026-10-20T11:39:12Z [segment 18 stopped: the 2-hour background limit, ~2026-10-20T11:39:00Z; done: life_000-023; checkpoints: life_024 s12, life_025 s12, life_026 s10, life_027 s9 -- the sessions in progress are redone]
+2026-10-20T11:39:12Z [segment 19 started]
+2026-10-20T11:39:14Z done life_002
+2026-10-20T11:39:14Z done life_000
+2026-10-20T11:39:14Z done life_001
+2026-10-20T11:39:14Z done life_003
+2026-10-20T11:39:15Z done life_004
+2026-10-20T11:39:15Z done life_006
+2026-10-20T11:39:15Z done life_005
+2026-10-20T11:39:15Z done life_007
+2026-10-20T11:39:15Z done life_008
+2026-10-20T11:39:15Z done life_009
+2026-10-20T11:39:15Z done life_010
+2026-10-20T11:39:15Z done life_012
+2026-10-20T11:39:15Z done life_013
+2026-10-20T11:39:15Z done life_014
+2026-10-20T11:39:15Z done life_011
+2026-10-20T11:39:15Z done life_018
+2026-10-20T11:39:15Z done life_016
+2026-10-20T11:39:15Z done life_017
+2026-10-20T11:39:15Z done life_015
+2026-10-20T11:39:15Z done life_020
+2026-10-20T11:39:15Z done life_022
+2026-10-20T11:39:15Z done life_019
+2026-10-20T11:39:15Z done life_021
+2026-10-20T11:39:15Z done life_023
+2026-10-20T11:39:16Z life_025: resumed at session 13
+2026-10-20T11:39:16Z life_027: resumed at session 10
+2026-10-20T11:39:16Z life_026: resumed at session 11
+2026-10-20T11:39:16Z life_024: resumed at session 13
+2026-10-20T12:10:17Z life_027: session 10: 212 units heard, practice CPU 1827s, 546 answers, 1861s
+2026-10-20T12:15:05Z life_026: session 11: 199 units heard, practice CPU 2113s, 546 answers, 2149s
+2026-10-20T12:18:19Z life_024: session 13: 192 units heard, practice CPU 2289s, 551 answers, 2343s
+2026-10-20T12:18:48Z life_025: session 13: 184 units heard, practice CPU 2323s, 553 answers, 2372s
+2026-10-20T12:43:55Z life_027: session 11: 201 units heard, practice CPU 1974s, 546 answers, 3879s
+2026-10-20T12:53:37Z life_026: session 12: 214 units heard, practice CPU 2267s, 551 answers, 4461s
+2026-10-20T12:59:38Z life_025: session 14: 180 units heard, practice CPU 2404s, 553 answers, 4822s
+2026-10-20T13:00:03Z life_024: session 14: 212 units heard, practice CPU 2442s, 561 answers, 4847s
+2026-10-20T13:22:46Z life_027: session 12: 212 units heard, practice CPU 2282s, 546 answers, 6210s
+2026-10-20T13:36:14Z life_026: session 13: 196 units heard, practice CPU 2505s, 546 answers, 7018s
+2026-10-20T13:39:22Z [segment 19 stopped: the 2-hour background limit, ~2026-10-20T13:39:10Z; done: life_000-023; checkpoints: life_024 s14, life_025 s14, life_026 s13, life_027 s12 -- the sessions in progress are redone]
+2026-10-20T13:39:23Z [segment 20 started]
+2026-10-20T13:39:25Z done life_000
+2026-10-20T13:39:25Z done life_003
+2026-10-20T13:39:25Z done life_001
+2026-10-20T13:39:25Z done life_002
+2026-10-20T13:39:25Z done life_005
+2026-10-20T13:39:25Z done life_004
+2026-10-20T13:39:25Z done life_007
+2026-10-20T13:39:25Z done life_006
+2026-10-20T13:39:25Z done life_008
+2026-10-20T13:39:25Z done life_011
+2026-10-20T13:39:25Z done life_010
+2026-10-20T13:39:25Z done life_009
+2026-10-20T13:39:25Z done life_012
+2026-10-20T13:39:25Z done life_013
+2026-10-20T13:39:25Z done life_014
+2026-10-20T13:39:25Z done life_015
+2026-10-20T13:39:25Z done life_016
+2026-10-20T13:39:25Z done life_017
+2026-10-20T13:39:25Z done life_019
+2026-10-20T13:39:25Z done life_018
+2026-10-20T13:39:25Z done life_021
+2026-10-20T13:39:25Z done life_022
+2026-10-20T13:39:25Z done life_023
+2026-10-20T13:39:26Z done life_020
+2026-10-20T13:39:26Z life_024: resumed at session 15
+2026-10-20T13:39:26Z life_027: resumed at session 13
+2026-10-20T13:39:26Z life_026: resumed at session 14
+2026-10-20T13:39:26Z life_025: resumed at session 15
+2026-10-20T14:21:10Z life_027: session 13: 204 units heard, practice CPU 2432s, 556 answers, 2504s
+2026-10-20T14:25:29Z life_026: session 14: 192 units heard, practice CPU 2698s, 546 answers, 2763s
+2026-10-20T14:25:52Z life_024: session 15: 216 units heard, practice CPU 2723s, 556 answers, 2786s
+2026-10-20T14:27:43Z life_025: session 15: 248 units heard, practice CPU 2830s, 558 answers, 2897s
+2026-10-20T15:05:30Z life_027: session 14: 189 units heard, practice CPU 2599s, 551 answers, 5164s
+2026-10-20T15:15:33Z life_024: session 16: 199 units heard, practice CPU 2912s, 591 answers, 5767s
+2026-10-20T15:15:33Z done life_024
+2026-10-20T15:15:36Z life_026: session 15: 210 units heard, practice CPU 2921s, 546 answers, 5770s
+2026-10-20T15:17:36Z life_025: session 16: 195 units heard, practice CPU 2923s, 588 answers, 5890s
+2026-10-20T15:17:37Z done life_025
+2026-10-20T15:23:57Z life_028: session 1: 223 units heard, practice CPU 489s, 541 answers, 504s
+2026-10-20T15:26:30Z life_029: session 1: 224 units heard, practice CPU 516s, 551 answers, 533s
+2026-10-20T15:36:11Z life_028: session 2: 221 units heard, practice CPU 711s, 541 answers, 1237s
+2026-10-20T15:36:48Z life_029: session 2: 219 units heard, practice CPU 599s, 556 answers, 1150s
+2026-10-20T15:39:34Z [segment 20 stopped: the 2-hour background limit, ~2026-10-20T15:39:20Z; done: life_000-025; checkpoints: life_026 s15, life_027 s14, life_028 s2, life_029 s2 -- the sessions in progress are redone]
+2026-10-20T15:39:34Z [segment 21 started]
+2026-10-20T15:39:37Z done life_002
+2026-10-20T15:39:37Z done life_001
+2026-10-20T15:39:37Z done life_000
+2026-10-20T15:39:37Z done life_003
+2026-10-20T15:39:37Z done life_006
+2026-10-20T15:39:37Z done life_004
+2026-10-20T15:39:37Z done life_005
+2026-10-20T15:39:37Z done life_007
+2026-10-20T15:39:37Z done life_008
+2026-10-20T15:39:37Z done life_009
+2026-10-20T15:39:37Z done life_012
+2026-10-20T15:39:37Z done life_011
+2026-10-20T15:39:37Z done life_010
+2026-10-20T15:39:37Z done life_013
+2026-10-20T15:39:37Z done life_015
+2026-10-20T15:39:37Z done life_016
+2026-10-20T15:39:37Z done life_014
+2026-10-20T15:39:37Z done life_017
+2026-10-20T15:39:37Z done life_020
+2026-10-20T15:39:37Z done life_019
+2026-10-20T15:39:37Z done life_018
+2026-10-20T15:39:37Z done life_021
+2026-10-20T15:39:37Z done life_023
+2026-10-20T15:39:37Z done life_024
+2026-10-20T15:39:37Z done life_022
+2026-10-20T15:39:37Z done life_025
+2026-10-20T15:39:37Z life_028: resumed at session 3
+2026-10-20T15:39:38Z life_029: resumed at session 3
+2026-10-20T15:39:38Z life_027: resumed at session 15
+2026-10-20T15:39:38Z life_026: resumed at session 16
+# the recorder lost the lines of segment 21 (it kept writing to the old file after an in-place edit of this log at 15:39:40 -- my mistake); the lines below are reconstructed from the runner output: time = the life's resume time + the seconds at the end of the line (matches the checkpoint file times to the second)
+2026-10-20T15:52:24Z (reconstructed) life_028: session 3: 151 units heard, practice CPU 748s, 541 answers, 767s
+2026-10-20T15:52:53Z (reconstructed) life_029: session 3: 191 units heard, practice CPU 776s, 551 answers, 795s
+2026-10-20T16:09:01Z (reconstructed) life_028: session 4: 196 units heard, practice CPU 974s, 541 answers, 1764s
+2026-10-20T16:11:03Z (reconstructed) life_029: session 4: 222 units heard, practice CPU 1066s, 551 answers, 1885s
+2026-10-20T16:27:25Z (reconstructed) life_027: session 15: 221 units heard, practice CPU 2812s, 551 answers, 2867s
+2026-10-20T16:30:08Z (reconstructed) life_028: session 5: 233 units heard, practice CPU 1243s, 546 answers, 3031s
+2026-10-20T16:31:06Z (reconstructed) life_026: session 16: 197 units heard, practice CPU 3006s, 586 answers, 3088s
+2026-10-20T16:31:06Z (reconstructed) done life_026
+2026-10-20T16:31:33Z (reconstructed) life_029: session 5: 234 units heard, practice CPU 1206s, 551 answers, 3115s
+2026-10-20T16:34:24Z [segment 21 stopped: container restart, after the last runner line at 2026-10-20T16:31:33Z (noticed 16:34:04); done: life_000-026; checkpoints: life_027 s15, life_028 s5 (16:30:09), life_029 s5 -- the sessions in progress are redone; new host: Intel(R) Xeon(R) Processor @ 2.80GHz, flags fma avx avx2 avx512f avx512_vnni (same type as the slow host)]
+2026-10-20T16:34:31Z [segment 22 started]
+2026-10-20T16:34:33Z done life_003
+2026-10-20T16:34:33Z done life_001
+2026-10-20T16:34:33Z done life_000
+2026-10-20T16:34:33Z done life_002
+2026-10-20T16:34:33Z done life_004
+2026-10-20T16:34:33Z done life_005
+2026-10-20T16:34:33Z done life_006
+2026-10-20T16:34:33Z done life_007
+2026-10-20T16:34:33Z done life_008
+2026-10-20T16:34:33Z done life_012
+2026-10-20T16:34:33Z done life_009
+2026-10-20T16:34:33Z done life_010
+2026-10-20T16:34:33Z done life_011
+2026-10-20T16:34:34Z done life_014
+2026-10-20T16:34:34Z done life_015
+2026-10-20T16:34:34Z done life_013
+2026-10-20T16:34:34Z done life_016
+2026-10-20T16:34:34Z done life_017
+2026-10-20T16:34:34Z done life_018
+2026-10-20T16:34:34Z done life_019
+2026-10-20T16:34:34Z done life_022
+2026-10-20T16:34:34Z done life_020
+2026-10-20T16:34:34Z done life_023
+2026-10-20T16:34:34Z done life_021
+2026-10-20T16:34:34Z done life_025
+2026-10-20T16:34:34Z done life_026
+2026-10-20T16:34:34Z done life_024
+2026-10-20T16:34:34Z life_028: resumed at session 6
+2026-10-20T16:34:34Z life_027: resumed at session 16
+2026-10-20T16:34:34Z life_029: resumed at session 6
+2026-10-20T16:56:25Z life_028: session 6: 221 units heard, practice CPU 1284s, 556 answers, 1311s
+2026-10-20T16:57:04Z life_029: session 6: 191 units heard, practice CPU 1323s, 556 answers, 1350s
+2026-10-20T17:20:20Z life_028: session 7: 202 units heard, practice CPU 1410s, 541 answers, 2746s
+2026-10-20T17:20:50Z life_027: session 16: 181 units heard, practice CPU 2728s, 586 answers, 2776s
+2026-10-20T17:20:51Z done life_027
+2026-10-20T17:23:17Z life_029: session 7: 237 units heard, practice CPU 1545s, 556 answers, 2923s
+2026-10-20T17:46:48Z life_028: session 8: 217 units heard, practice CPU 1560s, 541 answers, 4334s
+2026-10-20T17:51:22Z life_029: session 8: 213 units heard, practice CPU 1655s, 556 answers, 4607s
+2026-10-20T18:16:26Z life_028: session 9: 194 units heard, practice CPU 1746s, 541 answers, 6112s
+2026-10-20T18:22:06Z life_029: session 9: 168 units heard, practice CPU 1811s, 551 answers, 6452s
+2026-10-20T18:34:42Z [segment 22 stopped: the 2-hour background limit, ~2026-10-20T18:34:30Z; done: life_000-027; checkpoints: life_028 s9, life_029 s9 -- the sessions in progress are redone]
+2026-10-20T18:34:43Z [segment 23 started]
+2026-10-20T18:34:45Z done life_000
+2026-10-20T18:34:45Z done life_003
+2026-10-20T18:34:45Z done life_002
+2026-10-20T18:34:45Z done life_001
+2026-10-20T18:34:46Z done life_005
+2026-10-20T18:34:46Z done life_006
+2026-10-20T18:34:46Z done life_004
+2026-10-20T18:34:46Z done life_007
+2026-10-20T18:34:46Z done life_008
+2026-10-20T18:34:46Z done life_012
+2026-10-20T18:34:46Z done life_009
+2026-10-20T18:34:46Z done life_010
+2026-10-20T18:34:46Z done life_011
+2026-10-20T18:34:46Z done life_015
+2026-10-20T18:34:46Z done life_014
+2026-10-20T18:34:46Z done life_016
+2026-10-20T18:34:46Z done life_013
+2026-10-20T18:34:46Z done life_018
+2026-10-20T18:34:46Z done life_017
+2026-10-20T18:34:46Z done life_021
+2026-10-20T18:34:46Z done life_022
+2026-10-20T18:34:46Z done life_020
+2026-10-20T18:34:46Z done life_019
+2026-10-20T18:34:46Z done life_025
+2026-10-20T18:34:46Z done life_026
+2026-10-20T18:34:46Z done life_023
+2026-10-20T18:34:46Z done life_024
+2026-10-20T18:34:46Z done life_027
+2026-10-20T18:34:47Z life_029: resumed at session 10
+2026-10-20T18:34:47Z life_028: resumed at session 10
+2026-10-20T19:08:12Z life_028: session 10: 218 units heard, practice CPU 1969s, 546 answers, 2006s
+2026-10-20T19:10:49Z life_029: session 10: 259 units heard, practice CPU 2125s, 561 answers, 2162s
+2026-10-20T19:44:02Z life_028: session 11: 186 units heard, practice CPU 2113s, 546 answers, 4155s
+2026-10-20T19:48:40Z life_029: session 11: 195 units heard, practice CPU 2234s, 551 answers, 4433s
+2026-10-20T20:23:15Z life_028: session 12: 226 units heard, practice CPU 2317s, 546 answers, 6509s
+2026-10-20T20:28:51Z life_029: session 12: 203 units heard, practice CPU 2373s, 551 answers, 6845s
+2026-10-20T20:34:54Z [segment 23 stopped: the 2-hour background limit, ~2026-10-20T20:34:45Z; done: life_000-027; checkpoints: life_028 s12, life_029 s12 -- the sessions in progress are redone]
+2026-10-20T20:34:55Z [segment 24 started]
+2026-10-20T20:34:57Z done life_002
+2026-10-20T20:34:57Z done life_001
+2026-10-20T20:34:57Z done life_003
+2026-10-20T20:34:57Z done life_000
+2026-10-20T20:34:57Z done life_004
+2026-10-20T20:34:57Z done life_005
+2026-10-20T20:34:57Z done life_007
+2026-10-20T20:34:57Z done life_006
+2026-10-20T20:34:57Z done life_008
+2026-10-20T20:34:58Z done life_012
+2026-10-20T20:34:58Z done life_010
+2026-10-20T20:34:58Z done life_011
+2026-10-20T20:34:58Z done life_009
+2026-10-20T20:34:58Z done life_014
+2026-10-20T20:34:58Z done life_015
+2026-10-20T20:34:58Z done life_016
+2026-10-20T20:34:58Z done life_013
+2026-10-20T20:34:58Z done life_020
+2026-10-20T20:34:58Z done life_017
+2026-10-20T20:34:58Z done life_018
+2026-10-20T20:34:58Z done life_019
+2026-10-20T20:34:58Z done life_023
+2026-10-20T20:34:58Z done life_021
+2026-10-20T20:34:58Z done life_024
+2026-10-20T20:34:58Z done life_022
+2026-10-20T20:34:58Z done life_026
+2026-10-20T20:34:58Z done life_025
+2026-10-20T20:34:58Z done life_027
+2026-10-20T20:34:58Z life_028: resumed at session 13
+2026-10-20T20:34:58Z life_029: resumed at session 13
+2026-10-20T21:15:29Z life_029: session 13: 191 units heard, practice CPU 2397s, 551 answers, 2431s
+2026-10-20T21:15:49Z life_028: session 13: 224 units heard, practice CPU 2417s, 541 answers, 2451s
+2026-10-20T21:57:18Z life_028: session 14: 211 units heard, practice CPU 2454s, 541 answers, 4940s
+2026-10-20T21:57:24Z life_029: session 14: 207 units heard, practice CPU 2480s, 556 answers, 4946s
+2026-10-20T22:35:05Z [segment 24 stopped: the 2-hour background limit, ~2026-10-20T22:34:55Z; done: life_000-027; checkpoints: life_028 s14, life_029 s14 -- the sessions in progress are redone]
+2026-10-20T22:35:05Z [segment 25 started]
+2026-10-20T22:35:07Z done life_000
+2026-10-20T22:35:07Z done life_002
+2026-10-20T22:35:07Z done life_003
+2026-10-20T22:35:07Z done life_001
+2026-10-20T22:35:07Z done life_005
+2026-10-20T22:35:07Z done life_007
+2026-10-20T22:35:07Z done life_006
+2026-10-20T22:35:07Z done life_004
+2026-10-20T22:35:08Z done life_008
+2026-10-20T22:35:08Z done life_009
+2026-10-20T22:35:08Z done life_010
+2026-10-20T22:35:08Z done life_011
+2026-10-20T22:35:08Z done life_013
+2026-10-20T22:35:08Z done life_012
+2026-10-20T22:35:08Z done life_015
+2026-10-20T22:35:08Z done life_014
+2026-10-20T22:35:08Z done life_016
+2026-10-20T22:35:08Z done life_018
+2026-10-20T22:35:08Z done life_017
+2026-10-20T22:35:08Z done life_020
+2026-10-20T22:35:08Z done life_019
+2026-10-20T22:35:08Z done life_021
+2026-10-20T22:35:08Z done life_024
+2026-10-20T22:35:08Z done life_023
+2026-10-20T22:35:08Z done life_022
+2026-10-20T22:35:08Z done life_025
+2026-10-20T22:35:08Z done life_026
+2026-10-20T22:35:08Z done life_027
+2026-10-20T22:35:08Z life_028: resumed at session 15
+2026-10-20T22:35:08Z life_029: resumed at session 15
+2026-10-20T23:16:43Z life_028: session 15: 167 units heard, practice CPU 2460s, 546 answers, 2495s
+2026-10-20T23:18:23Z life_029: session 15: 191 units heard, practice CPU 2561s, 556 answers, 2595s
+2026-10-21T00:01:32Z life_028: session 16: 220 units heard, practice CPU 2654s, 581 answers, 5183s
+2026-10-21T00:01:32Z done life_028
+2026-10-21T00:03:46Z life_029: session 16: 228 units heard, practice CPU 2687s, 591 answers, 5317s
+2026-10-21T00:03:46Z done life_029
+2026-10-21T00:04:22Z [exam finished: all 30 lives done, last answer file 2026-10-21T00:03:46Z]

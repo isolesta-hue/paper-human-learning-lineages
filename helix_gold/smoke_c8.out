@@ -1,0 +1,19 @@
+smoke both@ascii@c8+rediscover+chain+wm+bind+wmlast+track seed 0: 16 sessions, 3874 s
+c8 keys (16): ['c8 before', 'c8 before all', 'c8 before all body', 'c8 before body', 'c8 before same', 'c8 before same all', 'c8 before same all body', 'c8 before same body', 'c8 before three', 'c8 before three all', 'c8 before three all body', 'c8 before three body', 'c8 long', 'c8 long all', 'c8 long all body', 'c8 long body']
+  c8 before                    present in 16/16 sessions, values in [0, 1]: True
+  c8 before all                present in 16/16 sessions, values in [0, 1]: True
+  c8 before all body           present in 16/16 sessions, values in [0, 1]: True
+  c8 before body               present in 16/16 sessions, values in [0, 1]: True
+  c8 before same               present in 16/16 sessions, values in [0, 1]: True
+  c8 before same all           present in 16/16 sessions, values in [0, 1]: True
+  c8 before same all body      present in 16/16 sessions, values in [0, 1]: True
+  c8 before same body          present in 16/16 sessions, values in [0, 1]: True
+  c8 before three              present in 16/16 sessions, values in [0, 1]: True
+  c8 before three all          present in 16/16 sessions, values in [0, 1]: True
+  c8 before three all body     present in 16/16 sessions, values in [0, 1]: True
+  c8 before three body         present in 16/16 sessions, values in [0, 1]: True
+  c8 long                      present in 16/16 sessions, values in [0, 1]: True
+  c8 long all                  present in 16/16 sessions, values in [0, 1]: True
+  c8 long all body             present in 16/16 sessions, values in [0, 1]: True
+  c8 long body                 present in 16/16 sessions, values in [0, 1]: True
+exit 0

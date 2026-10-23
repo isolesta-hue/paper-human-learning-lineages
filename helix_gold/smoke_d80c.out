@@ -1,0 +1,19 @@
+=== both@ascii@seq2+rediscover+scene seed 0: 16 sessions ===
+session 1: items {'seq now told': 5, 'seq before told': 5, 'seq now': 3, 'seq before': 3, 'seq still': 0} | rules written ['E', 'EQ', 'EQ1', 'EQ2', 'U'] | told-aware meanings 2 | scene events 48.0
+session 2: items {'seq now told': 0, 'seq before told': 0, 'seq now': 0, 'seq before': 0, 'seq still': 0} | rules written [] | told-aware meanings 2 | scene events 48.0
+session 3: items {'seq now told': 3, 'seq before told': 3, 'seq now': 1, 'seq before': 1, 'seq still': 0} | rules written ['E', 'EQ', 'EQ1', 'EQ2', 'U'] | told-aware meanings 2 | scene events 72.0
+session 4: items {'seq now told': 4, 'seq before told': 4, 'seq now': 4, 'seq before': 4, 'seq still': 0} | rules written ['E', 'EQ', 'EQ1', 'EQ2', 'U'] | told-aware meanings 2 | scene events 120.0
+session 5: items {'seq now told': 0, 'seq before told': 0, 'seq now': 0, 'seq before': 0, 'seq still': 0} | rules written [] | told-aware meanings 2 | scene events 120.0
+session 6: items {'seq now told': 0, 'seq before told': 0, 'seq now': 0, 'seq before': 0, 'seq still': 0} | rules written [] | told-aware meanings 2 | scene events 120.0
+session 7: items {'seq now told': 3, 'seq before told': 3, 'seq now': 1, 'seq before': 1, 'seq still': 0} | rules written ['E', 'EQ', 'EQ1', 'EQ2', 'U'] | told-aware meanings 2 | scene events 144.0
+session 8: items {'seq now told': 3, 'seq before told': 3, 'seq now': 1, 'seq before': 1, 'seq still': 0} | rules written ['E', 'EQ', 'EQ1', 'EQ2', 'U'] | told-aware meanings 2 | scene events 168.0
+session 9: items {'seq now told': 6, 'seq before told': 6, 'seq now': 2, 'seq before': 2, 'seq still': 0} | rules written ['E', 'EQ', 'EQ1', 'EQ2', 'U'] | told-aware meanings 2 | scene events 223.0
+session 10: items {'seq now told': 5, 'seq before told': 5, 'seq now': 3, 'seq before': 3, 'seq still': 0} | rules written ['E', 'EQ', 'EQ1', 'EQ2', 'U'] | told-aware meanings 2 | scene events 285.0
+session 11: items {'seq now told': 4, 'seq before told': 4, 'seq now': 4, 'seq before': 4, 'seq still': 0} | rules written ['E', 'EQ', 'EQ1', 'EQ2', 'U'] | told-aware meanings 2 | scene events 347.0
+session 12: items {'seq now told': 5, 'seq before told': 5, 'seq now': 3, 'seq before': 3, 'seq still': 0} | rules written ['E', 'EQ', 'EQ1', 'EQ2', 'U'] | told-aware meanings 2 | scene events 409.0
+session 13: items {'seq now told': 4, 'seq before told': 4, 'seq now': 4, 'seq before': 4, 'seq still': 0} | rules written ['E', 'EQ', 'EQ1', 'EQ2', 'U'] | told-aware meanings 2 | scene events 471.0
+session 14: items {'seq now told': 6, 'seq before told': 6, 'seq now': 2, 'seq before': 2, 'seq still': 0} | rules written ['E', 'EQ', 'EQ1', 'EQ2', 'U'] | told-aware meanings 2 | scene events 533.0
+session 15: items {'seq now told': 5, 'seq before told': 5, 'seq now': 3, 'seq before': 3, 'seq still': 0} | rules written ['E', 'EQ', 'EQ1', 'EQ2', 'U'] | told-aware meanings 2 | scene events 595.0
+session 16: items {'seq now told': 4, 'seq before told': 4, 'seq now': 4, 'seq before': 4, 'seq still': 0} | rules written ['E', 'EQ', 'EQ1', 'EQ2', 'U'] | told-aware meanings 2 | scene events 657.0
+exit 0
+exit-code 0

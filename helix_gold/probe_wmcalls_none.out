@@ -1,0 +1,73 @@
+world-model calls inside sessions: 38
+--- term x10, silent=None
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/../probe_wmcalls2.py", line 15, in session
+    return orig_session(self, *a, **k)
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/integrated.py", line 213, in session
+    curves = self.train_to(EPOCHS, checks)
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/integrated.py", line 543, in train_to
+    curves[k][e] = acc_items(model, items)
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_schema.py", line 164, in acc_items
+    return L.acc(model.complete(ctx), tgt)
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_schema3.py", line 636, in complete
+    wm_t = self.wm.term(ctx)
+
+--- refresh x10, silent=None
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/integrated.py", line 543, in train_to
+    curves[k][e] = acc_items(model, items)
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_schema.py", line 164, in acc_items
+    return L.acc(model.complete(ctx), tgt)
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_schema3.py", line 636, in complete
+    wm_t = self.wm.term(ctx)
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/../probe_wmcalls2.py", line 26, in g
+    return f(self, *a, **k)
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/worldmodel.py", line 880, in term
+    self.refresh()
+
+--- gap_at x4, silent=None
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/integrated.py", line 325, in prepare
+    extra_items = self.setter_items(heard) if self.setter else []
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/integrated.py", line 527, in setter_items
+    wrong = (self.model.complete(ctx).argmax(1) != tgt).numpy()
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_schema3.py", line 636, in complete
+    wm_t = self.wm.term(ctx)
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/../probe_wmcalls2.py", line 26, in g
+    return f(self, *a, **k)
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/worldmodel.py", line 958, in term
+    if float(dist[j]) < self.gap_at(int(self.to_ids[j])):
+
+--- term x3, silent=None
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/../probe_wmcalls2.py", line 15, in session
+    return orig_session(self, *a, **k)
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/integrated.py", line 212, in session
+    self.prepare(new_sents, old_by_cat, s, rng, weights)
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/integrated.py", line 308, in prepare
+    exam = S3.procedures(model, S3.formatted(D_positions(new_sents), cats, known_by_cat,
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_schema3.py", line 986, in procedures
+    z = model.complete(ctx)
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_schema3.py", line 636, in complete
+    wm_t = self.wm.term(ctx)
+
+--- refresh x3, silent=None
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/integrated.py", line 308, in prepare
+    exam = S3.procedures(model, S3.formatted(D_positions(new_sents), cats, known_by_cat,
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_schema3.py", line 986, in procedures
+    z = model.complete(ctx)
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_schema3.py", line 636, in complete
+    wm_t = self.wm.term(ctx)
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/../probe_wmcalls2.py", line 26, in g
+    return f(self, *a, **k)
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/worldmodel.py", line 880, in term
+    self.refresh()
+
+--- term x2, silent=None
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/../probe_wmcalls2.py", line 15, in session
+    return orig_session(self, *a, **k)
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/integrated.py", line 213, in session
+    curves = self.train_to(EPOCHS, checks)
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/integrated.py", line 599, in train_to
+    curves[k][EPOCHS] = acc_items(model, items)
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_schema.py", line 164, in acc_items
+    return L.acc(model.complete(ctx), tgt)
+  File "/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_schema3.py", line 636, in complete
+    wm_t = self.wm.term(ctx)
+

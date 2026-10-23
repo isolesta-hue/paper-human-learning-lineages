@@ -1,0 +1,33 @@
+=== criterion 0, element memory per subject world (10 seeds) ===
+  ascii          all 0.9996 (Wilson 95% [0.9984, 0.9999]) -> PASS
+      converted 0.999, drawn 0.999, element 1.000, word 1.000
+  ascii-kor      all 0.9996 (Wilson 95% [0.9984, 0.9999]) -> PASS
+      converted 0.999, drawn 0.999, element 1.000, word 1.000
+  ascii-multi    all 0.9996 (Wilson 95% [0.9984, 0.9999]) -> PASS
+      converted 0.999, drawn 0.999, element 1.000, word 1.000
+  ascii-tale     all 0.9996 (Wilson 95% [0.9985, 0.9999]) -> PASS
+      converted 0.999, drawn 0.999, element 1.000, word 1.000
+  ascii-objs     all 0.9996 (Wilson 95% [0.9984, 0.9999]) -> PASS
+      converted 0.999, drawn 0.999, element 1.000, word 1.000
+  ascii-grav     all 0.9996 (Wilson 95% [0.9984, 0.9999]) -> PASS
+      converted 0.999, drawn 0.999, element 1.000, word 1.000
+  ascii-contain  all 0.9996 (Wilson 95% [0.9984, 0.9999]) -> PASS
+      converted 0.999, drawn 0.999, element 1.000, word 1.000
+  ascii-count    all 0.9996 (Wilson 95% [0.9984, 0.9999]) -> PASS
+      converted 0.999, drawn 0.999, element 1.000, word 1.000
+  ascii-succ     all 0.9996 (Wilson 95% [0.9984, 0.9999]) -> PASS
+      converted 0.999, drawn 0.999, element 1.000, word 1.000
+  ascii-numrow   all 0.9996 (Wilson 95% [0.9984, 0.9999]) -> PASS
+      converted 0.999, drawn 0.999, element 1.000, word 1.000
+  ascii-numown   all 0.9996 (Wilson 95% [0.9985, 0.9999]) -> PASS
+      converted 0.999, drawn 0.999, element 1.000, word 1.000
+  ascii-views    all 0.9996 (Wilson 95% [0.9984, 0.9999]) -> PASS
+      converted 0.999, drawn 0.999, element 1.000, word 1.000
+  ascii-viewpt   all 0.9996 (Wilson 95% [0.9984, 0.9999]) -> PASS
+      converted 0.999, drawn 0.999, element 1.000, word 1.000
+  ascii-goal     all 0.9996 (Wilson 95% [0.9984, 0.9999]) -> PASS
+      converted 0.999, drawn 0.999, element 1.000, word 1.000
+  ascii-self     all 0.9996 (Wilson 95% [0.9984, 0.9999]) -> PASS
+      converted 0.999, drawn 0.999, element 1.000, word 1.000
+  ascii-frame    all 0.9993 (Wilson 95% [0.9981, 0.9998]) -> PASS
+      converted 0.999, drawn 0.999, element 1.000, word 0.999

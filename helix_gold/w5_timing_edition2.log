@@ -1,0 +1,17 @@
+start 11:22:44
+    22.5 ten_keys full items 110 took    0.6s
+    22.8 ten_keys body items 110 took    0.4s
+    89.7 ten_keys full items 110 took    0.4s
+    90.1 ten_keys body items 110 took    0.3s
+   219.0 ten_keys full items 165 took    0.7s
+   219.6 ten_keys body items 165 took    0.6s
+   472.9 ten_keys full items 275 took    1.1s
+   473.9 ten_keys body items 275 took    1.0s
+   649.9 ten_keys full items 275 took    1.4s
+   651.0 ten_keys body items 275 took    1.1s
+   827.4 ten_keys full items 275 took    1.1s
+   828.6 ten_keys body items 275 took    1.2s
+  1076.9 ten_keys full items 330 took    1.4s
+  1078.1 ten_keys body items 330 took    1.3s
+  1392.4 ten_keys full items 385 took    1.8s
+  1394.1 ten_keys body items 385 took    1.7s

@@ -1,0 +1,10 @@
+=== 30 seeds; world-model stage A (rollout over the learner's books) ===
+  chain         both@ascii+rediscover+chain+wm     0.428 0.382 0.546 0.672 0.728 0.758 0.780 0.831 0.837 0.873 0.879 0.893 0.893 0.901 0.902 0.902
+  chain         both@ascii+rediscover+chain        0.007 0.013 0.012 0.025 0.028 0.036 0.038 0.030 0.031 0.033 0.034 0.043 0.039 0.042 0.038 0.036
+  M1 chain wm - none: end +0.8662 (30:0, p=0.0000) | life +0.7402 (30:0, p=0.0000)
+/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_wm.py:50: RuntimeWarning: Mean of empty slice
+  print(f"  {key:13} {c:34} " + " ".join("  -  " if np.isnan(v) else f"{v:.3f}" for v in np.nanmean(g[c], 0)))
+  chain flipped both@ascii+rediscover+chain+wm       -     -     -     -     -     -     -     -     -     -     -     -   0.733 0.881 0.882 0.897
+  chain flipped both@ascii+rediscover+chain          -     -     -     -     -     -     -     -     -     -     -     -   0.022 0.052 0.044 0.043
+  M2 chain flipped wm - none: end +0.8540 (30:0, p=0.0000) | life +0.8081 (30:0, p=0.0000)
+  M3 never-heard max |wm - none| = 3.28e-02

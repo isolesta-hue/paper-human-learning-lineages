@@ -1,0 +1,5 @@
+cut exit 17
+oot 297115029 Oct 16 08:35 cache_long_v2_
+dumps: file 297 MB; held after load 1.46 GB (peak 1.53); peak after write 1.86 GB -> the write adds +0.33 GB over the load peak (8 s)
+dump: file 297 MB; held after load 1.46 GB (peak 1.53); peak after write 2.14 GB -> the write adds +0.61 GB over the load peak (12 s); bytes equal to dumps: True
+Fri Oct 16 08:36:39 UTC 2026

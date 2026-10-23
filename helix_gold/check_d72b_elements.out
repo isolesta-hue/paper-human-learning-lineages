@@ -1,0 +1,5 @@
+=== criterion 0, element memory per subject world (10 seeds) ===
+  ascii-d72neg   all 0.9996 (Wilson 95% [0.9984, 0.9999]) -> PASS
+      converted 0.999, drawn 0.999, element 1.000, word 1.000
+  ascii-d72chain all 0.9996 (Wilson 95% [0.9984, 0.9999]) -> PASS
+      converted 0.999, drawn 0.999, element 1.000, word 1.000

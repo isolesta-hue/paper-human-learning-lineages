@@ -1,0 +1,92 @@
+=== 100 seeds; templates chained, setter and solver ===
+
+--- never-heard ---
+compose base             0.324  0.319  0.331  0.347  0.386  0.415  0.441  0.458
+compose compose          0.324  0.319  0.331  0.347  0.386  0.417  0.443  0.460
+compose setter           0.412  0.395  0.403  0.408  0.430  0.447  0.460  0.463
+compose setter-random    0.403  0.386  0.396  0.404  0.431  0.447  0.458  0.464
+compose compose+setter   0.412  0.395  0.403  0.408  0.430  0.448  0.461  0.465
+random  base             0.345  0.342  0.345  0.359  0.397  0.428  0.451  0.469
+random  compose          0.345  0.342  0.345  0.359  0.397  0.428  0.451  0.469
+random  setter           0.436  0.432  0.434  0.439  0.463  0.483  0.490  0.498
+random  setter-random    0.425  0.424  0.428  0.436  0.459  0.481  0.489  0.497
+random  compose+setter   0.436  0.432  0.434  0.439  0.464  0.483  0.490  0.497
+
+--- newest ---
+compose base             0.324  0.304  0.308  0.315  0.441  0.443  0.442  0.439
+compose compose          0.324  0.304  0.308  0.315  0.441  0.443  0.443  0.439
+compose setter           0.412  0.379  0.380  0.381  0.465  0.468  0.472  0.471
+compose setter-random    0.403  0.365  0.368  0.370  0.460  0.463  0.463  0.463
+compose compose+setter   0.412  0.379  0.380  0.381  0.465  0.468  0.472  0.472
+random  base             0.345  0.331  0.323  0.314  0.457  0.461  0.441  0.449
+random  compose          0.345  0.331  0.323  0.314  0.457  0.460  0.441  0.449
+random  setter           0.436  0.420  0.418  0.414  0.499  0.501  0.489  0.497
+random  setter-random    0.425  0.406  0.403  0.397  0.491  0.492  0.478  0.484
+random  compose+setter   0.436  0.420  0.418  0.414  0.499  0.501  0.489  0.497
+
+--- compose all ---
+compose base             0.019  0.019  0.018  0.017  0.018  0.018  0.020  0.019
+compose compose          0.019  0.019  0.018  0.019  0.022  0.022  0.026  0.026
+compose setter           0.018  0.025  0.023  0.022  0.022  0.024  0.025  0.022
+compose setter-random    0.018  0.023  0.021  0.023  0.023  0.022  0.022  0.022
+compose compose+setter   0.018  0.025  0.023  0.023  0.025  0.026  0.028  0.028
+random  base               -      -      -      -      -      -      -      -  
+random  compose            -      -      -      -      -      -      -      -  
+random  setter             -      -      -      -      -      -      -      -  
+random  setter-random      -      -      -      -      -      -      -      -  
+random  compose+setter     -      -      -      -      -      -      -      -  
+
+--- unseen all ---
+compose base             0.024  0.023  0.025  0.032  0.031  0.034  0.039  0.038
+compose compose          0.024  0.023  0.025  0.032  0.030  0.034  0.039  0.037
+compose setter           0.024  0.027  0.028  0.038  0.037  0.037  0.042  0.040
+compose setter-random    0.023  0.023  0.029  0.035  0.035  0.036  0.042  0.039
+compose compose+setter   0.024  0.027  0.028  0.037  0.037  0.038  0.041  0.039
+random  base             0.016  0.023  0.019  0.021  0.018  0.022  0.020  0.019
+random  compose          0.016  0.023  0.019  0.021  0.018  0.022  0.020  0.019
+random  setter           0.019  0.027  0.024  0.026  0.025  0.024  0.025  0.025
+random  setter-random    0.018  0.026  0.024  0.025  0.026  0.026  0.025  0.023
+random  compose+setter   0.019  0.027  0.024  0.026  0.025  0.024  0.025  0.025
+
+--- once all ---
+compose base             0.252  0.219  0.227  0.235  0.258  0.274  0.294  0.306
+compose compose          0.252  0.219  0.227  0.234  0.258  0.275  0.295  0.307
+compose setter           0.335  0.271  0.264  0.257  0.267  0.270  0.278  0.274
+compose setter-random    0.323  0.254  0.244  0.244  0.258  0.260  0.265  0.264
+compose compose+setter   0.335  0.271  0.264  0.257  0.266  0.271  0.280  0.274
+random  base             0.226  0.201  0.189  0.189  0.205  0.219  0.234  0.244
+random  compose          0.226  0.201  0.189  0.189  0.205  0.219  0.235  0.244
+random  setter           0.296  0.255  0.238  0.232  0.242  0.250  0.252  0.255
+random  setter-random    0.281  0.243  0.222  0.218  0.224  0.235  0.236  0.239
+random  compose+setter   0.296  0.255  0.238  0.232  0.242  0.250  0.252  0.254
+
+--- pairs all ---
+compose base             0.526  0.544  0.566  0.596  0.661  0.706  0.745  0.770
+compose compose          0.526  0.544  0.566  0.597  0.662  0.710  0.749  0.775
+compose setter           0.664  0.672  0.696  0.714  0.746  0.777  0.796  0.803
+compose setter-random    0.656  0.668  0.695  0.717  0.755  0.786  0.801  0.813
+compose compose+setter   0.664  0.672  0.696  0.715  0.747  0.779  0.797  0.807
+random  base             0.531  0.530  0.547  0.575  0.639  0.685  0.719  0.746
+random  compose          0.531  0.530  0.547  0.575  0.639  0.685  0.719  0.746
+random  setter           0.652  0.669  0.687  0.698  0.740  0.769  0.780  0.794
+random  setter-random    0.641  0.665  0.686  0.703  0.745  0.775  0.791  0.804
+random  compose+setter   0.652  0.669  0.687  0.698  0.740  0.769  0.780  0.794
+
+--- composed pairs, first sight (epoch 0) ---
+compose base             0.005  0.005  0.001  0.009  0.007  0.006  0.003  0.005
+compose compose          0.005  0.005  0.001  0.013  0.010  0.009  0.013  0.017
+compose setter           0.005  0.006  0.001  0.009  0.006  0.006  0.003  0.005
+compose setter-random    0.005  0.006  0.001  0.009  0.006  0.006  0.003  0.005
+compose compose+setter   0.005  0.006  0.001  0.012  0.008  0.009  0.013  0.018
+
+--- paired ---
+compose: compose         vs base          life +0.001 (67/25*)  end +0.002 (55/32)  compose end +0.007 (40/6*)  once end +0.000 (44/39)
+compose: setter          vs base          life +0.049 (100/0*)  end +0.005 (64/33*)  compose end +0.003 (40/24)  once end -0.032 (14/83*)
+compose: setter          vs setter-random life +0.004 (71/29*)  end -0.001 (37/58)  compose end -0.000 (26/26)  once end +0.010 (66/23*)
+compose: setter-random   vs base          life +0.046 (100/0*)  end +0.006 (67/31*)  compose end +0.003 (37/20)  once end -0.043 (7/93*)
+compose: compose+setter  vs base          life +0.050 (100/0*)  end +0.007 (70/30*)  compose end +0.009 (58/18*)  once end -0.032 (15/82*)
+random: compose         vs base          life -0.000 (5/9)  end -0.000 (4/9)  compose end +0.000 (0/0)  once end +0.000 (6/8)
+random: setter          vs base          life +0.067 (100/0*)  end +0.028 (94/6*)  compose end +0.000 (0/0)  once end +0.011 (61/32*)
+random: setter          vs setter-random life +0.004 (72/28*)  end +0.001 (54/41)  compose end +0.000 (0/0)  once end +0.016 (81/14*)
+random: setter-random   vs base          life +0.063 (100/0*)  end +0.027 (94/6*)  compose end +0.000 (0/0)  once end -0.005 (41/54)
+random: compose+setter  vs base          life +0.067 (100/0*)  end +0.028 (94/6*)  compose end +0.000 (0/0)  once end +0.010 (59/34)

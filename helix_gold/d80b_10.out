@@ -1,0 +1,11 @@
+=== D80 v1.1 (the equals sign also learns the answer's channel): "@seq", seeds 10-19, both@ascii@seq+rediscover ===
+  seq now (right after the room arrived): U 0.149 / E 0.683 / EQ 0.683 / EQ1 1.000; EQ1 - U +0.8510 (10:0, p=0.0020); EQ1 - EQ +0.3167 (10:0, p=0.0020)
+  seq before (right after the room arrived): U 0.208 / E 0.000 / EQ 1.000 / EQ1 1.000; EQ1 - U +0.7922 (10:0, p=0.0020); EQ1 - EQ +0.0000 (0:0, p=nan)
+  learned answer channels at the last session: qbefore+qwhere: ['where'] (10 seeds); qwhere: ['where'] (10 seeds)
+  learned meanings at the last session: qbefore+qwhere: ['before'] (10 seeds); qwhere: ['last'] (10 seeds)
+  V3 old keys at the last session (U / EQ1):
+    old motion: U 0.052 | EQ1 0.052 (+0.0000 (0:0, p=nan))
+    old name: U 0.703 | EQ1 0.703 (+0.0000 (0:0, p=nan))
+    old scene: U 0.209 | EQ1 0.209 (+0.0000 (0:0, p=nan))
+  replication of v1 on new seeds: E now 0.683, EQ before 1.000
+  V1 now EQ1 1.000 (p = 0.0020); V2 before EQ1 1.000 (p = 0.0020); V3 drops 0 -> verdict: 성공

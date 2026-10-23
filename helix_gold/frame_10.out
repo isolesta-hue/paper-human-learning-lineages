@@ -1,0 +1,21 @@
+=== 10 seeds; the room's frame (stage-1 step 4+, reference frames) ===
+  chain          +wmframe   0.333 0.243 0.394 0.650 0.726 0.789 0.789 0.842 0.856 0.891 0.931 0.924 0.925 0.939 0.935 0.942
+  chain          +wmctx     0.333 0.243 0.394 0.650 0.726 0.789 0.789 0.842 0.856 0.891 0.931 0.924 0.886 0.839 0.794 0.765
+  chain          (stage A)  0.333 0.243 0.394 0.650 0.726 0.789 0.789 0.842 0.856 0.891 0.931 0.924 0.884 0.802 0.727 0.671
+/home/user/recursive-improvement-experiment/run_frame.py:52: RuntimeWarning: Mean of empty slice
+  " ".join("  -  " if np.isnan(v) else f"{v:.3f}" for v in np.nanmean(g(c, k), 0)))
+  chain quarter  +wmframe     -     -     -     -     -     -     -     -     -     -     -     -   0.700 0.839 0.877 0.912
+  chain quarter  +wmctx       -     -     -     -     -     -     -     -     -     -     -     -   0.033 0.000 0.042 0.050
+  chain quarter  (stage A)    -     -     -     -     -     -     -     -     -     -     -     -   0.000 0.000 0.033 0.030
+  chain half     +wmframe     -     -     -     -     -     -     -     -     -     -     -     -     -   1.000 0.917 0.898
+  chain half     +wmctx       -     -     -     -     -     -     -     -     -     -     -     -     -   1.000 0.917 0.898
+  chain half     (stage A)    -     -     -     -     -     -     -     -     -     -     -     -     -   0.000 0.000 0.000
+  chain flipped  +wmframe     -     -     -     -     -     -     -     -     -     -     -     -   0.700 0.867 0.893 0.910
+  chain flipped  +wmctx       -     -     -     -     -     -     -     -     -     -     -     -   0.033 0.233 0.300 0.329
+  chain flipped  (stage A)    -     -     -     -     -     -     -     -     -     -     -     -   0.000 0.000 0.020 0.019
+  F1 quarter, frame - ctx: end +0.8621 (10:0, p=0.0020) | life +0.8008 (10:0, p=0.0020)
+/home/user/recursive-improvement-experiment/run_frame.py:56: RuntimeWarning: Mean of empty slice
+  print(f"  {tag}: end {sgn(d[:, -1])} | life {sgn(np.nanmean(d, 1))}")
+  F2 half, frame - ctx: end +0.0000 (0:0, p=nan) | life +0.0000 (0:0, p=nan)
+  F3 turned rooms, frame - none: end +0.8905 (10:0, p=0.0020) | life +0.8326 (10:0, p=0.0020)
+  F4 never-heard: max |frame - none| 0.00e+00 | end +0.0000 (0:0, p=nan)

@@ -1,0 +1,2 @@
+reg regression max diff 0.0 | keys only new: ['describe', 'describe flipped', 'describe wm fired', 'describe wm right']
+time 1513

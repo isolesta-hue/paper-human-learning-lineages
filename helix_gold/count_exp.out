@@ -1,0 +1,10 @@
+EPOCHS 200 PER_SESSION 2 HOLD 0.25
+ascii-ten    rooms  32 sessions  16 heard  2153 kept  1614 words  18291 vocab  469 ex [76, 39, 63]
+ascii-sp     rooms  32 sessions  16 heard  2222 kept  1666 words  15343 vocab  460 ex [76, 39, 63]
+ascii-kor    rooms  32 sessions  16 heard  1808 kept  1356 words   9731 vocab  454 ex [76, 39, 63]
+ascii-c8     rooms  32 sessions  16 heard  2038 kept  1528 words  13687 vocab  457 ex [76, 39, 63]
+ascii-when   rooms  32 sessions  16 heard  2222 kept  1666 words  17813 vocab  461 ex [76, 39, 63]
+ascii-bi     rooms  32 sessions  16 heard  2747 kept  2060 words  16279 vocab  581 ex [76, 39, 63]
+ascii-count  rooms  32 sessions  16 heard  2176 kept  1632 words  16447 vocab  462 ex [76, 39, 63]
+ascii-tale   rooms  32 sessions  16 heard  2148 kept  1611 words  14706 vocab  473 ex [76, 39, 63]
+ascii-nw     rooms  32 sessions  16 heard  1457 kept  1092 words   7585 vocab  451 ex [76, 39, 63]

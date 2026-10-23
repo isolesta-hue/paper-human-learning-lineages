@@ -1,0 +1,13 @@
+first round == memorize(): True (rounds 1, recalled 1.000)
+conv:life_000    V  4056  plain 0.9852 (1.8s)  rehearse 0.9998 (5.0s, rounds 4)
+conv:life_001    V  3969  plain 0.9829 (1.2s)  rehearse 0.9997 (12.3s, rounds 9)
+ascii:0          V   453  plain 1.0000 (0.3s)  rehearse 1.0000 (0.3s, rounds 1)
+ascii-kor:0      V   456  plain 1.0000 (0.3s)  rehearse 1.0000 (0.3s, rounds 1)
+ascii-multi:0    V   458  plain 1.0000 (0.4s)  rehearse 1.0000 (0.3s, rounds 1)
+ascii-ten:0      V   471  plain 1.0000 (0.2s)  rehearse 1.0000 (0.3s, rounds 1)
+ascii-sp:0       V   462  plain 1.0000 (0.3s)  rehearse 1.0000 (0.3s, rounds 1)
+ascii-bi:0       V   587  plain 1.0000 (0.2s)  rehearse 1.0000 (0.3s, rounds 1)
+ascii-c8:0       V   459  plain 1.0000 (0.2s)  rehearse 1.0000 (0.3s, rounds 1)
+ascii-nw:0       V   453  plain 0.9956 (0.3s)  rehearse 1.0000 (0.5s, rounds 2)
+ascii-when:0     V   463  plain 1.0000 (0.2s)  rehearse 1.0000 (0.3s, rounds 1)
+exit 0

@@ -1,0 +1,5 @@
+items read back (seeds 0-9): {('c8', 'c8 before same'): 690, ('c8', 'c8 before three'): 690, ('c8', 'c8 long'): 690, ('c8', 'c8-before-heard'): 920, ('c8shuf', 'c8 before same'): 690, ('c8shuf', 'c8 before three'): 690, ('c8shuf', 'c8 long'): 690, ('c8shuf', 'c8-before-heard'): 920}
+heard 'before' answers equal to the rule's cell: c8 920/920, c8shuf 39/920
+problems: none
+exit 0 (6 s)
+Fri Oct 16 03:19:01 UTC 2026

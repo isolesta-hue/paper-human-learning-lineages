@@ -1,0 +1,33 @@
+MLP lr 0.001 epochs 10 life 0: judged items 416, accuracy 0.4135
+MLP lr 0.001 epochs 10 life 1: judged items 417, accuracy 0.2902
+MLP lr 0.001 epochs 10 life 2: judged items 417, accuracy 0.3381
+MLP lr 0.001 epochs 40 life 0: judged items 416, accuracy 0.4014
+MLP lr 0.001 epochs 40 life 1: judged items 417, accuracy 0.3333
+MLP lr 0.001 epochs 40 life 2: judged items 417, accuracy 0.3597
+MLP lr 0.003 epochs 10 life 0: judged items 416, accuracy 0.3846
+MLP lr 0.003 epochs 10 life 1: judged items 417, accuracy 0.3261
+MLP lr 0.003 epochs 10 life 2: judged items 417, accuracy 0.3285
+MLP lr 0.003 epochs 40 life 0: judged items 416, accuracy 0.4183
+MLP lr 0.003 epochs 40 life 1: judged items 417, accuracy 0.3549
+MLP lr 0.003 epochs 40 life 2: judged items 417, accuracy 0.3861
+TF lr 0.001 epochs 10 life 0: judged items 416, accuracy 0.3822
+TF lr 0.001 epochs 10 life 1: judged items 417, accuracy 0.3429
+TF lr 0.001 epochs 10 life 2: judged items 417, accuracy 0.3621
+TF lr 0.001 epochs 40 life 0: judged items 416, accuracy 0.3774
+TF lr 0.001 epochs 40 life 1: judged items 417, accuracy 0.3861
+TF lr 0.001 epochs 40 life 2: judged items 417, accuracy 0.3837
+TF lr 0.003 epochs 10 life 0: judged items 416, accuracy 0.3846
+TF lr 0.003 epochs 10 life 1: judged items 417, accuracy 0.3789
+TF lr 0.003 epochs 10 life 2: judged items 417, accuracy 0.4197
+TF lr 0.003 epochs 40 life 0: judged items 416, accuracy 0.3870
+TF lr 0.003 epochs 40 life 1: judged items 417, accuracy 0.4053
+TF lr 0.003 epochs 40 life 2: judged items 417, accuracy 0.4029
+  MLP (0.001, 10): mean 0.3473
+  MLP (0.001, 40): mean 0.3648
+  MLP (0.003, 10): mean 0.3464
+  MLP (0.003, 40): mean 0.3864  <- chosen
+  TF (0.001, 10): mean 0.3624
+  TF (0.001, 40): mean 0.3824
+  TF (0.003, 10): mean 0.3944
+  TF (0.003, 40): mean 0.3984  <- chosen
+CHOSEN = {'MLP': (0.003, 40), 'TF': (0.003, 40)}

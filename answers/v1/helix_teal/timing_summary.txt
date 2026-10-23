@@ -1,0 +1,55 @@
+edition opened 10-19 03:00, first start 10-19 03:22:45, last answer file 10-21 00:03:46 UTC
+wall clock: opened -> last 45h03m, first start -> last 44h41m
+stops: 24 (20 by the 2-hour background limit, 4 by container restarts); stopped (not running) 0h15m; running 44h25m
+work redone after stops (sum over lives, last checkpoint -> stop): 17h11m
+
+per life: sessions, practice CPU (sum), wall (first session start -> done), session 1 / 8 / 16 practice CPU
+  life_000: 16 sessions, CPU 3h56m, wall 4h27m, s1 225s s8 828s s16 1570s
+  life_001: 16 sessions, CPU 3h39m, wall 3h49m, s1 203s s8 763s s16 1449s
+  life_002: 16 sessions, CPU 4h02m, wall 4h26m, s1 268s s8 818s s16 1539s
+  life_003: 16 sessions, CPU 4h01m, wall 4h27m, s1 222s s8 880s s16 1557s
+  life_004: 16 sessions, CPU 3h52m, wall 4h05m, s1 186s s8 790s s16 1541s
+  life_005: 16 sessions, CPU 4h24m, wall 4h57m, s1 253s s8 914s s16 1673s
+  life_006: 16 sessions, CPU 3h52m, wall 4h26m, s1 249s s8 839s s16 1620s
+  life_007: 16 sessions, CPU 3h44m, wall 3h59m, s1 188s s8 827s s16 1508s
+  life_008: 16 sessions, CPU 4h13m, wall 4h43m, s1 243s s8 896s s16 1650s
+  life_009: 16 sessions, CPU 4h17m, wall 4h56m, s1 178s s8 977s s16 1572s
+  life_010: 16 sessions, CPU 4h00m, wall 4h27m, s1 181s s8 906s s16 1493s
+  life_011: 16 sessions, CPU 4h03m, wall 4h20m, s1 248s s8 899s s16 1468s
+  life_012: 16 sessions, CPU 3h53m, wall 4h13m, s1 232s s8 813s s16 1597s
+  life_013: 16 sessions, CPU 4h12m, wall 4h28m, s1 222s s8 815s s16 1566s
+  life_014: 16 sessions, CPU 3h56m, wall 4h22m, s1 178s s8 862s s16 1482s
+  life_015: 16 sessions, CPU 3h43m, wall 3h59m, s1 173s s8 824s s16 1443s
+  life_016: 16 sessions, CPU 3h48m, wall 4h24m, s1 262s s8 834s s16 1422s
+  life_017: 16 sessions, CPU 3h49m, wall 4h22m, s1 303s s8 813s s16 1563s
+  life_018: 16 sessions, CPU 3h35m, wall 3h56m, s1 202s s8 757s s16 1404s
+  life_019: 16 sessions, CPU 3h33m, wall 3h50m, s1 283s s8 773s s16 1346s
+  life_020: 16 sessions, CPU 4h32m, wall 5h39m, s1 209s s8 816s s16 2623s
+  life_021: 16 sessions, CPU 4h52m, wall 5h19m, s1 235s s8 803s s16 2561s
+  life_022: 16 sessions, CPU 5h21m, wall 6h03m, s1 255s s8 843s s16 2759s
+  life_023: 16 sessions, CPU 5h32m, wall 6h56m, s1 224s s8 833s s16 2759s
+  life_024: 16 sessions, CPU 7h04m, wall 8h53m, s1 419s s8 1424s s16 2912s
+  life_025: 16 sessions, CPU 7h11m, wall 8h54m, s1 467s s8 1487s s16 2923s
+  life_026: 16 sessions, CPU 7h40m, wall 9h22m, s1 385s s8 1578s s16 3006s
+  life_027: 16 sessions, CPU 7h18m, wall 8h54m, s1 460s s8 1558s s16 2728s
+  life_028: 16 sessions, CPU 7h22m, wall 8h45m, s1 489s s8 1560s s16 2654s
+  life_029: 16 sessions, CPU 7h35m, wall 8h46m, s1 516s s8 1655s s16 2687s
+CPUs left idle (4 workers): 14h21m CPU-time in all; the last batch began 10-20 15:17
+
+practice CPU per session, mean (lives on the first hosts vs after the host change at 10-20 03:38):
+  session  1:    226s (n=24)     456s (n= 6)  x2.02
+  session  2:    323s (n=24)     622s (n= 6)  x1.93
+  session  3:    406s (n=24)     765s (n= 6)  x1.88
+  session  4:    503s (n=24)     942s (n= 6)  x1.87
+  session  5:    599s (n=24)    1108s (n= 6)  x1.85
+  session  6:    671s (n=24)    1236s (n= 6)  x1.84
+  session  7:    750s (n=24)    1403s (n= 6)  x1.87
+  session  8:    838s (n=24)    1544s (n= 6)  x1.84
+  session  9:    924s (n=24)    1764s (n= 6)  x1.91
+  session 10:   1013s (n=24)    1898s (n= 6)  x1.87
+  session 11:   1107s (n=23)    2032s (n= 7)  x1.84
+  session 12:   1185s (n=22)    2218s (n= 8)  x1.87
+  session 13:   1262s (n=21)    2297s (n= 9)  x1.82
+  session 14:   1363s (n=20)    2428s (n=10)  x1.78
+  session 15:   1436s (n=20)    2613s (n=10)  x1.82
+  session 16:   1523s (n=20)    2761s (n=10)  x1.81

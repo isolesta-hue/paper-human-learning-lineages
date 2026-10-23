@@ -1,0 +1,11 @@
+=== 30 seeds; world-model stage B (context book from the room's surprises) ===
+/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_wmB.py:47: RuntimeWarning: Mean of empty slice
+  m = np.nanmean(g(c, key), 0)
+  chain flipped both@ascii@hold+rediscover+chain+wmctx     -     -     -     -     -     -     -     -     -     -     -     -   0.756 0.893 0.907 0.917
+  chain flipped both@ascii@hold+rediscover+chain+wm        -     -     -     -     -     -     -     -     -     -     -     -   0.033 0.015 0.018 0.022
+  B1 chain flipped B - A: end +0.8952 (30:0, p=0.0000) | s13-16 +0.8460 (30:0, p=0.0000)
+  chain         both@ascii@hold+rediscover+chain+wmctx   0.391 0.389 0.501 0.668 0.744 0.779 0.796 0.827 0.844 0.894 0.908 0.923 0.918 0.923 0.921 0.921
+  chain         both@ascii@hold+rediscover+chain+wm      0.391 0.389 0.501 0.668 0.744 0.779 0.796 0.827 0.844 0.894 0.908 0.923 0.876 0.785 0.710 0.649
+  B2 chain B - A: end +0.2725 (30:0, p=0.0000)
+  B3 never-heard: max |B - A| 0.00e+00 | end +0.0000 (0:0, p=nan)
+  B3 once all: max |B - A| 0.00e+00 | end +0.0000 (0:0, p=nan)

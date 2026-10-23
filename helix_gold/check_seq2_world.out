@@ -1,0 +1,24 @@
+unchanged worlds: PASS (114 builds)
+seq2 seed 0: walking rooms 23, scene lines removed 368 (= the told moves' scenes), the rest of every room equal to "@seq" True, elements and other attributes equal True, items 184 (told 114)
+seq2 seed 1: walking rooms 23, scene lines removed 368 (= the told moves' scenes), the rest of every room equal to "@seq" True, elements and other attributes equal True, items 184 (told 118)
+seq2 seed 2: walking rooms 23, scene lines removed 368 (= the told moves' scenes), the rest of every room equal to "@seq" True, elements and other attributes equal True, items 184 (told 120)
+seq2 seed 3: walking rooms 23, scene lines removed 368 (= the told moves' scenes), the rest of every room equal to "@seq" True, elements and other attributes equal True, items 184 (told 120)
+seq2 seed 4: walking rooms 23, scene lines removed 368 (= the told moves' scenes), the rest of every room equal to "@seq" True, elements and other attributes equal True, items 184 (told 124)
+seq2 seed 5: walking rooms 23, scene lines removed 368 (= the told moves' scenes), the rest of every room equal to "@seq" True, elements and other attributes equal True, items 184 (told 122)
+seq2 seed 6: walking rooms 23, scene lines removed 368 (= the told moves' scenes), the rest of every room equal to "@seq" True, elements and other attributes equal True, items 184 (told 128)
+seq2 seed 7: walking rooms 23, scene lines removed 368 (= the told moves' scenes), the rest of every room equal to "@seq" True, elements and other attributes equal True, items 184 (told 126)
+seq2 seed 8: walking rooms 23, scene lines removed 368 (= the told moves' scenes), the rest of every room equal to "@seq" True, elements and other attributes equal True, items 184 (told 122)
+seq2 seed 9: walking rooms 23, scene lines removed 368 (= the told moves' scenes), the rest of every room equal to "@seq" True, elements and other attributes equal True, items 184 (told 128)
+world @scene (10 seeds): one-picture one-cell moments WITH a word (no longer observations), by kind: none
+world @seq (10 seeds): one-picture one-cell moments WITH a word (no longer observations), by kind: {'seq-heard': 920}
+world @seq2 (10 seeds): one-picture one-cell moments WITH a word (no longer observations), by kind: {'seq-heard': 920}
+device logic (no body, 10 seeds): seq before       seen-only  right 309/309 = 1.000
+device logic (no body, 10 seeds): seq before       told-aware right 309/309 = 1.000
+device logic (no body, 10 seeds): seq before told  seen-only  right 57/611 = 0.093
+device logic (no body, 10 seeds): seq before told  told-aware right 609/611 = 0.997
+device logic (no body, 10 seeds): seq now          seen-only  right 309/309 = 1.000
+device logic (no body, 10 seeds): seq now          told-aware right 309/309 = 1.000
+device logic (no body, 10 seeds): seq now told     seen-only  right 49/611 = 0.080
+device logic (no body, 10 seeds): seq now told     told-aware right 609/611 = 0.997
+exit 0
+exit-code 0

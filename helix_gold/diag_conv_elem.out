@@ -1,0 +1,17 @@
+life_000: V 4056, failing 60 (0.9852 recalled)
+  failing whose landing element has IDENTICAL raw features: 0 / 60
+  raw distance to the landing element: median 0.9733, max 1.2073
+  recall error of the failing ones: median 0.9740; of all pictures: 0.6801
+  nearest-other raw distance, all pictures: median 0.8671, 1% 0.6886; elements with an identical twin: 0
+   t3_20                        -> t3_5397                      raw 0.8902 err 1.0094
+   t0_36                        -> t0_1718                      raw 1.0077 err 0.9723
+   t0_89                        -> t0_5374                      raw 0.9948 err 0.9220
+   t0_99                        -> t0_266                       raw 1.0672 err 1.1157
+   t9_162                       -> t9_4465                      raw 0.9923 err 0.8703
+   t7_243                       -> t7_781                       raw 0.8101 err 0.8455
+   t0_285                       -> t0_946                       raw 1.0161 err 0.9989
+   t4_303                       -> t4_136                       raw 1.2073 err 0.9856
+   t6_388                       -> t6_1707                      raw 1.0335 err 0.9794
+   t0_702                       -> t0_59                        raw 0.9726 err 0.9378
+   t7_821                       -> t7_5036                      raw 1.1129 err 1.0317
+   t0_1029                      -> t0_1785                      raw 1.0463 err 0.9422

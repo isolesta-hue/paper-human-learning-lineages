@@ -1,0 +1,8 @@
+=== exam-form cost check: element memory at birth (no sentence heard, no item read) ===
+{"case": "conv:life_000", "V": 4056, "build_s": 0.8, "birth_s": 5.6, "check_s": 15.2, "recall_all": 0.9852, "recall_by_type": {"element": 1.0, "picture": 0.9847, "word": 1.0}, "peak_birth_gb": 1.01, "peak_gb": 3.53}
+{"case": "conv:life_001", "V": 3969, "build_s": 0.8, "birth_s": 3.5, "check_s": 10.2, "recall_all": 0.9829, "recall_by_type": {"element": 1.0, "picture": 0.9823, "word": 1.0}, "peak_birth_gb": 1.0, "peak_gb": 3.41}
+{"case": "ascii-multi:0", "V": 458, "build_s": 0.3, "birth_s": 1.8, "check_s": 0.2, "recall_all": 1.0, "recall_by_type": {"converted": 1.0, "drawn": 1.0, "element": 1.0, "word": 1.0}, "peak_birth_gb": 0.65, "peak_gb": 0.68}
+{"case": "ascii-bi:0", "V": 587, "build_s": 0.4, "birth_s": 1.8, "check_s": 0.3, "recall_all": 1.0, "recall_by_type": {"converted": 1.0, "drawn": 1.0, "element": 1.0, "word": 1.0}, "peak_birth_gb": 0.65, "peak_gb": 0.7}
+{"case": "ascii-ten:0", "V": 471, "build_s": 0.4, "birth_s": 1.8, "check_s": 0.2, "recall_all": 1.0, "recall_by_type": {"converted": 1.0, "drawn": 1.0, "element": 1.0, "word": 1.0}, "peak_birth_gb": 0.65, "peak_gb": 0.68}
+exit 0
+Fri Oct 16 01:07:32 UTC 2026

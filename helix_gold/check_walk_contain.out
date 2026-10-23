@@ -1,0 +1,3 @@
+ascii-walk-contain seed 0: moments 2307, probes 138 ({'contain in': 69, 'contain by': 69}), problems 0; no-tracking baseline (last shown cell): by 1.00, in 0.04
+ascii-walk-contain seed 3: moments 2305, probes 138 ({'contain in': 69, 'contain by': 69}), problems 0; no-tracking baseline (last shown cell): by 1.00, in 0.06
+ascii-walk-contain seed 5: moments 2322, probes 138 ({'contain in': 69, 'contain by': 69}), problems 0; no-tracking baseline (last shown cell): by 1.00, in 0.07

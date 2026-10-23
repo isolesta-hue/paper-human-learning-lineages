@@ -1,0 +1,17 @@
+=== D72 subject 1 (cat, outside) + control (verb, inside) + base, 10 seeds (development test) ===
+R1 CAT word: k 0: 0.239 (46) | k 1: 0.105 (62) | k 2: 0.027 (65) | k 3-4: 0.018 (141) | k 5-8: 0.002 (129) | k 9-16: 0.000 (117) | k 17+: 0.000 (80) | does not reach 0.80
+R1 CAT pic: k 0: 0.261 (46) | k 1: 0.270 (62) | k 2: 0.246 (65) | k 3-4: 0.223 (141) | k 5-8: 0.176 (129) | k 9-16: 0.096 (117) | k 17+: 0.131 (80) | does not reach 0.80
+R1 CAT cat: k 0: 0.250 (46) | k 1: 0.188 (62) | k 2: 0.137 (65) | k 3-4: 0.121 (141) | k 5-8: 0.089 (129) | k 9-16: 0.048 (117) | k 17+: 0.066 (80) | does not reach 0.80
+R2 CAT END mean - chance: -0.144 (0:10, p = 0.0020); END 0.106
+R4 CAT body alone END: 0.106 (whole brain 0.106)
+R1 VERB verb: k 0: 0.181 (65) | k 1: 0.242 (103) | k 2: 0.239 (109) | k 3-4: 0.270 (117) | k 5-8: 0.303 (102) | k 9-16: 0.322 (76) | k 17+: 0.422 (40) | does not reach 0.80
+R2 VERB END mean - chance: -0.004 (5:5, p = 1.0000); END 0.246
+R4 VERB body alone END: 0.246 (whole brain 0.246)
+R3 VERB - CAT over 1 <= k <= 8: +0.140 (10:0, p = 0.0020)
+R5 CAT - BASE over 57 END keys: decided down 3 [('fmt blank', -0.046), ('never-heard', -0.046), ('older', -0.049)], up 0 []
+R5 VERB - BASE over 57 END keys: decided down 0 [], up 0 []
+R6 both@ascii@d72cat+rediscover+chain+wm+wmctx+wmlast: CPU per life 15.8 min, peak 2.33 GB
+R6 both@ascii@d72verb+rediscover+chain+wm+wmctx+wmlast: CPU per life 15.5 min, peak 2.25 GB
+R6 both@ascii+rediscover+chain+wm+wmctx+wmlast: CPU per life 15.0 min, peak 2.16 GB
+DECISION: CAT 아직, VERB 아직, reliance 설계에 기댐
+exit 0

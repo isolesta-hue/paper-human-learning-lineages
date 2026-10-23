@@ -1,0 +1,5 @@
+conv-v1 version conv-v1; smoke True; sessions 2
+session 0: rows 546, cpu 65s, unchanged True
+session 1: rows 1092, cpu 134s, unchanged True
+{"rows": 1092, "due": 1092, "keys_match": true, "unchanged_while_answering": true, "rehearse_rounds": 4, "rehearse_recall": 0.9997514292816306, "cpu_s": 134.3, "V": 4048, "items": 626}
+exit 0

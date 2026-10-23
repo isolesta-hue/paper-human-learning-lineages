@@ -1,0 +1,5 @@
+cut after session 5: exit 17 (17 expected), state written for session 5, 209 MB, not written (made again): [] (295 s)
+resumed: exit 0; ['D11 resume: session 6/16 on'] (2276 s)
+resume check both@ascii@multi+rediscover+chain+wm+bind+wmlast+track seed 0 cut after 5: sessions 16 / 16, keys differing none (type-strict, NaN-aware); pickle bytes equal to the cache: False (bytes may differ only by shared-object memo: the first sessions' dicts come back from the written state as new objects)
+memo-free pickle bytes equal: True
+exit 0

@@ -1,0 +1,12 @@
+items checked: {'when test': 4140, 'when heard': 2760, 'shuf test': 4140, 'shuf heard': 2760}
+problems: none
+  to   n 2: answer moment spread [656, 724] | L (word overlap) 0.503 (chance 0.500)
+  to   n 3: answer moment spread [464, 470, 446] | L (word overlap) 0.488 (chance 0.333)
+  to   n 4: answer moment spread [324, 356, 340, 360] | L (word overlap) 0.449 (chance 0.250)
+  echo n 2: answer moment spread [730, 650] | L (word overlap) 0.948 (chance 0.500)
+  echo n 3: answer moment spread [428, 468, 484] | L (word overlap) 0.945 (chance 0.333)
+  echo n 4: answer moment spread [306, 344, 380, 350] | L (word overlap) 0.941 (chance 0.250)
+  @whenshuf heard answers right: n 2 0.487 (expected 0.500)
+  @whenshuf heard answers right: n 3 0.348 (expected 0.333)
+  @whenshuf heard answers right: n 4 0.253 (expected 0.250)
+time 10

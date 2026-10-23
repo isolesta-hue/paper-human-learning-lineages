@@ -1,0 +1,5 @@
+cut after session 11: exit 17 (17 expected), state written for session 11, 441 MB, not written (made again): [] (2716 s)
+resumed: exit 0; ['D11 resume: session 12/16 on'] (4376 s)
+resume check both@ascii@ten+rediscover+chain+wm+wmctx+wmrev+bind+wmlast+track+count+contain+props+grav+wmframe+succ+scale+views+vturn+goal+self seed 0 cut after 11: sessions 16 / 16, keys differing none (type-strict, NaN-aware); pickle bytes equal to the cache: False (bytes may differ only by shared-object memo: the first sessions' dicts come back from the written state as new objects)
+memo-free pickle bytes equal: True
+exit 0

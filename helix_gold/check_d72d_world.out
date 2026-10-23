@@ -1,0 +1,10 @@
+unchanged worlds: PASS (111 builds)
+next seed 0: V 457 (+4), dens [2, 4, 1, 8], bell pairs per word [12, 6, 23, 3], bell -> one up next 44/44, plain -> another neighbour next 132/132, verbless moves up / not 44 / 132 (by direction [((-1, 0), 44), ((0, -1), 44), ((0, 1), 44), ((1, 0), 44)]), test items 276 (per word [69, 69, 69, 69]), right = up & stay & 4 distinct & cell new 276/276, new elements last True, kinds ['name'], moments 1928 (base 1576)
+next seed 1: V 457 (+4), dens [8, 4, 1, 2], bell pairs per word [3, 6, 23, 12], bell -> one up next 44/44, plain -> another neighbour next 132/132, verbless moves up / not 44 / 132 (by direction [((-1, 0), 44), ((0, -1), 44), ((0, 1), 44), ((1, 0), 44)]), test items 276 (per word [69, 69, 69, 69]), right = up & stay & 4 distinct & cell new 276/276, new elements last True, kinds ['name'], moments 1928 (base 1576)
+next seed 2: V 457 (+4), dens [1, 2, 8, 4], bell pairs per word [23, 12, 3, 6], bell -> one up next 44/44, plain -> another neighbour next 132/132, verbless moves up / not 44 / 132 (by direction [((-1, 0), 44), ((0, -1), 44), ((0, 1), 44), ((1, 0), 44)]), test items 276 (per word [69, 69, 69, 69]), right = up & stay & 4 distinct & cell new 276/276, new elements last True, kinds ['name'], moments 1928 (base 1576)
+device on cat (10 seeds, after every room): item looks 9920, with exactly one picture 4960, with a learned meaning too (the device could speak) 0; word sets ever learned: none
+device on chain (10 seeds, after every room): item looks 95040, with exactly one picture 0, with a learned meaning too (the device could speak) 0; word sets ever learned: none
+device on neg (10 seeds, after every room): item looks 42240, with exactly one picture 0, with a learned meaning too (the device could speak) 0; word sets ever learned: none
+device on ice (10 seeds, after every room): item looks 42240, with exactly one picture 0, with a learned meaning too (the device could speak) 0; word sets ever learned: none
+device on next (10 seeds, after every room): item looks 42240, with exactly one picture 0, with a learned meaning too (the device could speak) 0; word sets ever learned: none
+exit 0

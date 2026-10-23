@@ -1,0 +1,37 @@
+=== 100 seeds; the method layer with the side part's knobs (life32) ===
+
+--- never-heard ---
+content+recomb-side       0.383  0.428  0.459  0.483  0.502  0.518  0.529  0.540  0.558  0.577  0.589  0.602  0.607  0.611  0.617  0.622
+both+recomb-side          0.383  0.475  0.507  0.525  0.536  0.550  0.554  0.557  0.576  0.589  0.603  0.612  0.615  0.621  0.622  0.627
+both+recomb-sideknobs     0.383  0.497  0.533  0.541  0.542  0.546  0.547  0.550  0.566  0.580  0.589  0.593  0.594  0.596  0.602  0.608
+
+--- once all ---
+content+recomb-side       0.236  0.246  0.269  0.287  0.305  0.312  0.324  0.335  0.341  0.353  0.362  0.376  0.377  0.376  0.382  0.388
+both+recomb-side          0.236  0.278  0.292  0.306  0.318  0.337  0.338  0.342  0.359  0.368  0.382  0.393  0.393  0.398  0.396  0.403
+both+recomb-sideknobs     0.236  0.291  0.305  0.300  0.296  0.300  0.297  0.301  0.316  0.330  0.340  0.347  0.346  0.345  0.352  0.361
+
+--- lr ---
+content+recomb-side       0.010  0.010  0.010  0.010  0.010  0.010  0.010  0.010  0.010  0.010  0.010  0.010  0.010  0.010  0.010  0.010
+both+recomb-side          0.010  0.021  0.026  0.027  0.028  0.027  0.026  0.024  0.025  0.024  0.026  0.025  0.024  0.025  0.023  0.023
+both+recomb-sideknobs     0.010  0.016  0.022  0.025  0.025  0.025  0.024  0.025  0.023  0.023  0.022  0.022  0.019  0.019  0.019  0.018
+
+--- review ---
+content+recomb-side       0.500  0.500  0.500  0.500  0.500  0.500  0.500  0.500  0.500  0.500  0.500  0.500  0.500  0.500  0.500  0.500
+both+recomb-side          0.500  0.497  0.531  0.520  0.514  0.532  0.522  0.531  0.511  0.516  0.512  0.529  0.521  0.512  0.509  0.511
+both+recomb-sideknobs     0.500  0.500  0.515  0.537  0.535  0.550  0.532  0.510  0.529  0.553  0.556  0.548  0.533  0.522  0.528  0.515
+
+--- side w ---
+/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_sideknobs.py:36: RuntimeWarning: Mean of empty slice
+  print(f"{c:24} " + " ".join(f"{np.nanmean([r[c][i].get(key, np.nan) for r in res]):6.3f}" for i in range(n)))
+content+recomb-side         nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan
+both+recomb-side            nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan
+both+recomb-sideknobs     1.000  1.580  1.860  1.950  1.960  1.980  1.990  1.990  1.990  2.000  1.980  1.990  2.000  2.000  1.990  1.960
+
+--- side decay ---
+content+recomb-side         nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan
+both+recomb-side            nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan
+both+recomb-sideknobs     1.000  1.000  1.000  0.995  0.975  0.990  0.980  0.975  0.965  0.980  0.975  0.990  1.000  0.985  0.975  0.995
+
+K1 sideknobs vs side: life -0.005 (35/65*)  end -0.019 (28/72*)
+K2 completion (sideknobs - content+side) by session +0.000 +0.069 +0.074 +0.058 +0.040 +0.028 +0.018 +0.011 +0.008 +0.003 +0.000 -0.009 -0.013 -0.015 -0.015 -0.014
+end -0.014 (32/67*) | widening s13-16 - s2-4 -0.081 (2/98*)

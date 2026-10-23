@@ -1,0 +1,16 @@
+=== 30 seeds; scene -> motion word, the books read backwards (stage-1 step 3a) ===
+  describe           +wmrev       1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000
+  describe           (body only)  0.236 0.257 0.327 0.403 0.430 0.476 0.501 0.534 0.544 0.545 0.523 0.503 0.436 0.364 0.322 0.301
+/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_rev.py:51: RuntimeWarning: Mean of empty slice
+  " ".join("  -  " if np.isnan(v) else f"{v:.3f}" for v in np.nanmean(g(c, k), 0)))
+  describe flipped   +wmrev         -     -     -     -     -     -     -     -     -     -     -     -   1.000 1.000 1.000 1.000
+  describe flipped   (body only)    -     -     -     -     -     -     -     -     -     -     -     -   0.144 0.195 0.216 0.236
+  describe wm fired  +wmrev       1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000
+  describe wm fired  (body only)  0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+  describe wm right  +wmrev       1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000
+  describe wm right  (body only)  0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+  R1 describe, wmrev - body: end +0.6988 (30:0, p=0.0000) | life +0.5772 (30:0, p=0.0000)
+  R2 describe flipped, wmrev - body: end +0.7644 (30:0, p=0.0000) | life +0.8022 (30:0, p=0.0000)
+  R3 body only, describe by session: 0.236 0.257 0.327 0.403 0.430 0.476 0.501 0.534 0.544 0.545 0.523 0.503 0.436 0.364 0.322 0.301
+  R4 chain: max |wmrev - body| 0.00e+00 | end +0.0000 (0:0, p=nan)
+  R4 never-heard: max |wmrev - body| 6.31e-02 | end -0.0009 (14:15, p=1.0000)

@@ -1,0 +1,54 @@
+{
+  "version": "closed-v1 (2026-10-12)",
+  "decided_by": "user 2026-10-12: the Voyager session collects the closed-class words from dictionaries and uses them without further approval",
+  "sources": {
+    "ko": "표준국어대사전(국립국어원) 표제어 — 낱말 자체(표제어)만 쓰고 뜻풀이는 옮기지 않음",
+    "en": "English dictionary headwords (Merriam-Webster, Oxford Learner's Dictionaries) — headwords only, no definitions copied"
+  },
+  "scope": "closed-class words only. Open-class words (people, objects, places, verbs) are pseudo-words generated anew for every edition (EXAM_DESIGN.md section 2). Articles are left out in v1 (short one-event sentences, similar length in both languages).",
+  "numbers": [
+    {"n": 1, "ko": "하나", "en": "one"},
+    {"n": 2, "ko": "둘", "en": "two"},
+    {"n": 3, "ko": "셋", "en": "three"},
+    {"n": 4, "ko": "넷", "en": "four"},
+    {"n": 5, "ko": "다섯", "en": "five"},
+    {"n": 6, "ko": "여섯", "en": "six"},
+    {"n": 7, "ko": "일곱", "en": "seven"},
+    {"n": 8, "ko": "여덟", "en": "eight"},
+    {"n": 9, "ko": "아홉", "en": "nine"},
+    {"n": 10, "ko": "열", "en": "ten"}
+  ],
+  "numbers_note": "Korean uses the native cardinal numerals (수사) placed after the noun, e.g. '공 셋' (grammatical apposition), so each number is one token in both languages.",
+  "spatial": [
+    {"relation": "on (resting on top, supported)", "ko": "위", "en": "on"},
+    {"relation": "under", "ko": "아래", "en": "under"},
+    {"relation": "in (contained)", "ko": "안", "en": "in"},
+    {"relation": "beside", "ko": "옆", "en": "beside"}
+  ],
+  "spatial_note": "Korean spatial nouns take the particle 에 after them ('상자 안에'); English prepositions come before the noun ('in box').",
+  "wh": [
+    {"slot": "who", "ko": "누가", "en": "who"},
+    {"slot": "what", "ko": "무엇", "en": "what"},
+    {"slot": "where", "ko": "어디", "en": "where"},
+    {"slot": "when", "ko": "언제", "en": "when"},
+    {"slot": "how", "ko": "어떻게", "en": "how"},
+    {"slot": "why", "ko": "왜", "en": "why"},
+    {"slot": "how many", "ko": ["몇", "개"], "en": ["how", "many"]}
+  ],
+  "ko_particles": [
+    {"role": "subject", "after_consonant": "이", "after_vowel": "가"},
+    {"role": "object", "after_consonant": "을", "after_vowel": "를"},
+    {"role": "location (static, also after spatial nouns)", "form": "에"},
+    {"role": "location of an action", "form": "에서"},
+    {"role": "direction / goal of motion", "after_consonant": "으로", "after_vowel_or_rieul": "로"}
+  ],
+  "ko_particles_note": "The allomorph is chosen by the final sound of the preceding (pseudo-)word: a final consonant (받침) takes 이 / 을 / 으로; a final vowel takes 가 / 를 / 로; a final ㄹ takes 로.",
+  "en_function": [
+    {"role": "direction / goal of motion", "form": "to"},
+    {"role": "source of motion", "form": "from"},
+    {"role": "existence", "forms": ["there", "is", "are"]}
+  ],
+  "ko_function": [
+    {"role": "existence", "form": "있다"}
+  ]
+}

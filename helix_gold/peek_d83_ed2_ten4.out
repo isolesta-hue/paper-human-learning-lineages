@@ -1,0 +1,30 @@
+exit 0
+peek both@ascii@ten+rediscover+chain+wm+wmctx+wmrev+bind+wmlast+track+count+contain+props+grav+wmframe+succ+scale+views+vturn+goal+self+useful seed 0 after session 4 (cut exit 17, 241 s):
+  wmctx    FIT  net    +0 changed     0  forms   0  speaks in   0
+  wmrev    FIT  net   +29 changed    29  forms   2  speaks in   2
+      form from/to/drawn                            net    +7 changed    7 -> speaks
+      form from/to/drawn/converted                  net   +22 changed   22 -> speaks
+  bind     FIT  net    -4 changed    12  forms   1  speaks in   0
+      form verb/name/particle                       net    -4 changed   12 -> quiet
+  track    FIT  net   +40 changed    60  forms   3  speaks in   2
+      form at/verb/name/particle                    net    +0 changed   20 -> quiet
+      form at/name/particle                         net   +10 changed   10 -> speaks
+      form verb/name/particle                       net   +30 changed   30 -> speaks
+  props    non  net    +0 changed     0  forms   0  speaks in   0
+  grav     non  net   -18 changed    12  forms   1  speaks in   0
+      form verb/name/particle                       net   -18 changed   12 -> quiet
+  wmframe  non  net    +0 changed     0  forms   0  speaks in   0
+  contain  FIT  net    +0 changed     0  forms   0  speaks in   0
+  count    FIT  net   +15 changed    15  forms   1  speaks in   1
+      form at/name/particle                         net   +15 changed   15 -> speaks
+  succ     non  net    +0 changed     0  forms   0  speaks in   0
+  scale    non  net    +0 changed     0  forms   0  speaks in   0
+  views    non  net    +0 changed     0  forms   0  speaks in   0
+  vturn    non  net    +0 changed     0  forms   0  speaks in   0
+  goal     non  net   -10 changed    10  forms   1  speaks in   0
+      form at/name/particle                         net   -10 changed   10 -> quiet
+  self     non  net    +0 changed     0  forms   0  speaks in   0
+  answer rows 18904, decisions by a form record 4545, by the all-forms record 84578, views 68
+exit 0
+
+[exited with code 0]

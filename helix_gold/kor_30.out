@@ -1,0 +1,12 @@
+=== 30 seeds; Korean particle stories -> scenes (finding 123) ===
+  story both@ascii@kor+rediscover+chain+wm+bind        0.373 0.403 0.383 0.393 0.397 0.394 0.397 0.401 0.399 0.397 0.401 0.407 0.410 0.404 0.410 0.407
+  story both@ascii@kor+rediscover+chain+wm+bindrand    0.196 0.222 0.191 0.187 0.187 0.184 0.188 0.197 0.192 0.182 0.192 0.194 0.194 0.197 0.195 0.194
+  story both@ascii@kor+rediscover+chain+wm             0.125 0.113 0.065 0.077 0.072 0.080 0.078 0.089 0.082 0.071 0.076 0.073 0.072 0.076 0.070 0.072
+  story both@ascii@kor+rediscover+chain+wm+bind+wmlast 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000
+  K1 bind - no binding: end +0.3349 (30:0, p=0.0000) | life +0.3189 (30:0, p=0.0000)
+  K2 bind - bindrand: end +0.2130 (30:0, p=0.0000) | life +0.2059 (30:0, p=0.0000)
+  K3 never-heard: max |bind - none| 0.00e+00 | end +0.0000 (0:0, p=nan)
+  K3 chain: max |bind - none| 0.00e+00 | end +0.0000 (0:0, p=nan)
+  K4 story wmlast - bind: end +0.5928 (30:0, p=0.0000) | life +0.6011 (30:0, p=0.0000)
+  K5 chain wmlast - bind: end +0.0705 (30:0, p=0.0000) | life +0.1864 (30:0, p=0.0000)
+  K6 never-heard: max |wmlast - bind| 8.24e-02 | end -0.0010 (5:2, p=0.4531)

@@ -1,0 +1,11 @@
+conf_matrix memory-only change (2026-10-21; run_schema3.iter_template_matrices -- a running maximum instead of every
+template's V x V matrix held at once). Checks:
+1. Where the memory went (mem_probe on life_007's conv-v1j checkpoint, session 5 of 16; peak RSS per step):
+   S3.conf_matrix 7.96 GB (33 s); every other step <= 3.24 GB (help_harm), the session's practice 2.23 GB.
+   Templates in use 109, known words 770, V 3969 -> 109 x 63 MB. Session 6 of life_001 alone: 12.2 GB.
+2. Same values: on that state, new conf_matrix == old conf_matrix, torch.equal True (independent=True and False);
+   peak 7.92 -> 1.45 GB, 30 s -> 10 s.
+3. End to end with the changed code:
+   - the exam's conv-v1 life_000, sessions 0-1: 1,097 / 1,097 answer rows identical to the recorded exam answers;
+   - the conv-v1j smoke (life_001, sessions 0-1): identical to the byte (cmp).
+Exam-code fingerprint 0551dd3a140d -> 78809e282067 (exam_fingerprint.py; the answers are the same).

@@ -1,0 +1,42 @@
+lives 3: seed 0 same as cached False, 16 sessions, seed 1 same as cached False, 16 sessions, seed 2 same as cached False, 16 sessions
+largest split error 1.91e-06
+
+=== word: novel picture -> word (768 item-sessions) ===
+(1) right by this part alone, by the item's k: k 0 | k 1-2 | k 3-8 | k 9+
+  full     0.250 (52) | 0.026 (156) | 0.012 (324) | 0.000 (236)
+  sim      0.462 (52) | 0.314 (156) | 0.241 (324) | 0.013 (236)
+  assoc    0.000 (52) | 0.000 (156) | 0.000 (324) | 0.000 (236)
+  pattern  0.000 (52) | 0.000 (156) | 0.000 (324) | 0.000 (236)
+  chunk    0.000 (52) | 0.000 (156) | 0.000 (324) | 0.000 (236)
+  side     0.000 (52) | 0.000 (156) | 0.000 (324) | 0.000 (236)
+  wm       0.000 (52) | 0.000 (156) | 0.000 (324) | 0.000 (236)
+(2) the part's score on [right family] and [candidate's k] (centred within the item), by the item's k range; (3) mean spread over the four candidates
+  full     all items: b_family +0.018, c_k -0.0018 per hearing, spread 0.231 || items with a heard candidate: b_family +0.018, c_k -0.0018 per hearing, spread 0.231
+  sim      all items: b_family -0.323, c_k -0.1258 per hearing, spread 2.801 || items with a heard candidate: b_family -0.323, c_k -0.1258 per hearing, spread 2.801
+  assoc    all items: b_family +0.000, c_k +0.0000 per hearing, spread 0.000 || items with a heard candidate: b_family +0.000, c_k +0.0000 per hearing, spread 0.000
+  pattern  all items: b_family +0.000, c_k +0.0000 per hearing, spread 0.000 || items with a heard candidate: b_family +0.000, c_k +0.0000 per hearing, spread 0.000
+  chunk    all items: b_family +0.000, c_k +0.0000 per hearing, spread 0.000 || items with a heard candidate: b_family +0.000, c_k +0.0000 per hearing, spread 0.000
+  side     all items: b_family +0.000, c_k +0.0000 per hearing, spread 0.000 || items with a heard candidate: b_family +0.000, c_k +0.0000 per hearing, spread 0.000
+  wm       all items: b_family +0.000, c_k +0.0000 per hearing, spread 0.000 || items with a heard candidate: b_family +0.000, c_k +0.0000 per hearing, spread 0.000
+
+=== pic: word -> novel picture (768 item-sessions) ===
+(1) right by this part alone, by the item's k: k 0 | k 1-2 | k 3-8 | k 9+
+  full     0.327 (52) | 0.135 (156) | 0.198 (324) | 0.144 (236)
+  sim      0.327 (52) | 0.186 (156) | 0.160 (324) | 0.216 (236)
+  assoc    0.000 (52) | 0.276 (156) | 0.395 (324) | 0.220 (236)
+  pattern  0.000 (52) | 0.000 (156) | 0.000 (324) | 0.000 (236)
+  chunk    0.000 (52) | 0.167 (156) | 0.127 (324) | 0.165 (236)
+  side     0.000 (52) | 0.013 (156) | 0.022 (324) | 0.051 (236)
+  wm       0.000 (52) | 0.000 (156) | 0.000 (324) | 0.000 (236)
+(2) the part's score on [right family] and [candidate's k] (centred within the item), by the item's k range; (3) mean spread over the four candidates
+  full     all items: b_family -0.036, c_k -0.0008 per hearing, spread 0.282 || items with a heard candidate: b_family -0.036, c_k -0.0008 per hearing, spread 0.282
+  sim      all items: b_family -0.073, c_k +0.0013 per hearing, spread 0.499 || items with a heard candidate: b_family -0.073, c_k +0.0013 per hearing, spread 0.499
+  assoc    all items: b_family +0.040, c_k -0.0022 per hearing, spread 0.298 || items with a heard candidate: b_family +0.040, c_k -0.0022 per hearing, spread 0.298
+  pattern  all items: b_family +0.000, c_k +0.0000 per hearing, spread 0.000 || items with a heard candidate: b_family +0.000, c_k +0.0000 per hearing, spread 0.000
+  chunk    all items: b_family +0.000, c_k +0.0000 per hearing, spread 0.000 || items with a heard candidate: b_family +0.000, c_k +0.0000 per hearing, spread 0.000
+  side     all items: b_family -0.002, c_k +0.0002 per hearing, spread 0.016 || items with a heard candidate: b_family -0.002, c_k +0.0002 per hearing, spread 0.016
+  wm       all items: b_family +0.000, c_k +0.0000 per hearing, spread 0.000 || items with a heard candidate: b_family +0.000, c_k +0.0000 per hearing, spread 0.000
+
+=== which candidate the full answer picks (word direction, items with distinct k): its k rank, 0 = most heard ===
+  word: picks the most heard 0.258, 2nd 0.244, 3rd 0.247, least heard 0.252 (624 items)
+  pic: picks the most heard 0.147, 2nd 0.295, 3rd 0.271, least heard 0.287 (624 items)

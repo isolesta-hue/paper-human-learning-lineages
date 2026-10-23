@@ -1,0 +1,18 @@
+=== D72 subject 2 (neg, outside) + control (chain, inside) vs base, 10 seeds (development test) ===
+R1 NEG: k 0: 0.289 (65) | k 1: 0.203 (103) | k 2: 0.204 (109) | k 3-4: 0.208 (117) | k 5-8: 0.226 (102) | k 9-16: 0.216 (76) | k 17+: 0.220 (40) | does not reach 0.80
+R2 NEG END 0.201: (a) - chance -0.049 (1:9, p = 0.0215); (b) - own k = 0 -0.068 (3:7, p = 0.3438)
+R4 NEG body alone END: 0.201 (whole brain 0.201)
+R1 CHAIN: k 0: 0.270 (142) | k 1: 1.000 (194) | k 2: 1.000 (182) | k 3-4: 1.000 (142) | k 5-8: 1.000 (72) | k 9-16: 1.000 (33) | k 17+: nan (0) | reaches 0.80 at k >= 1
+R2 CHAIN END 1.000: (a) - chance +0.750 (10:0, p = 0.0020); (b) - own k = 0 +0.737 (10:0, p = 0.0020)
+R4 CHAIN body alone END: 0.212 (whole brain 1.000)
+R4 CHAIN whole - body at END: +0.788 (10:0, p = 0.0020); the world model changes CHAIN answers: yes
+R3 CHAIN - NEG over 1 <= k <= 8: +0.790 (10:0, p = 0.0020)
+R5 NEG - BASE over 57 END keys: decided down 0 [], up 0 []
+R5 CHAIN - BASE over 57 END keys: decided down 0 [], up 0 []
+R7 CHAIN = VERB on every key the VERB life has: seeds that differ 0 (0 expected)
+R8 NEG abstaining (all four tie): k 0: 0.000 | k 1: 0.000 | k 2: 0.000 | k 3-4: 0.000 | k 5-8: 0.000 | k 9-16: 0.000 | k 17+: 0.000
+R8 CHAIN abstaining (all four tie): k 0: 0.000 | k 1: 0.000 | k 2: 0.000 | k 3-4: 0.000 | k 5-8: 0.000 | k 9-16: 0.000 | k 17+: -
+R6 both@ascii@d72neg+rediscover+chain+wm+wmctx+wmlast: CPU per life 11.8 min, peak 2.28 GB
+R6 both@ascii@d72chain+rediscover+chain+wm+wmctx+wmlast: CPU per life 12.2 min, peak 2.24 GB
+DECISION: NEG 아직, CHAIN 배움, reliance 설계에 기댐
+exit 0

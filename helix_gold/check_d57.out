@@ -1,0 +1,5 @@
+D57 checks (2026-10-15)
+pool: check_d57_pool.py -- order kept: True; a SIGKILLed worker -> 'LIFE LOST (D57): task 4 -- exit code -9 (killed by a signal)' at once, RuntimeError at the end after the other tasks finished; no temp files left
+report: run_ten.py 10 2 on the cached W5 lives with the new map_lives -> ten_10.out byte-identical
+life: check_d57_reg.py both@ascii+rediscover+chain+wm+wmlast+lpcur seed 1 (progress lines on) -> 0 keys differ; the fresh life's pickle bytes equal the cached file (a first comparison's 'inf' was the script's NaN != NaN inside the 'curve once' dict, not a difference)
+progress lines: cache_long_v2_progress/seed1_...lpcur.log, 16 lines; the alarm line from the recorded lpcur lives (e.g. session 16: units 2301, line 4784)

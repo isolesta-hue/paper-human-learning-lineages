@@ -1,0 +1,707 @@
+edition edition generator gen-v1 lives 30 seed_sha256 f894a86e9eac; Dami fingerprint 0551dd3a140d; conv-v1 conv-v1; smoke False; sessions all; workers 4
+session 0: rows 547, cpu 116s, unchanged True
+session 0: rows 546, cpu 131s, unchanged True
+session 0: rows 548, cpu 130s, unchanged True
+session 0: rows 537, cpu 136s, unchanged True
+session 1: rows 1094, cpu 228s, unchanged True
+session 1: rows 1096, cpu 243s, unchanged True
+session 1: rows 1097, cpu 251s, unchanged True
+session 1: rows 1074, cpu 254s, unchanged True
+session 2: rows 1641, cpu 397s, unchanged True
+session 2: rows 1644, cpu 422s, unchanged True
+session 2: rows 1648, cpu 429s, unchanged True
+session 2: rows 1616, cpu 452s, unchanged True
+session 3: rows 2188, cpu 593s, unchanged True
+session 3: rows 2197, cpu 644s, unchanged True
+session 3: rows 2194, cpu 647s, unchanged True
+session 3: rows 2163, cpu 657s, unchanged True
+session 4: rows 2740, cpu 836s, unchanged True
+session 4: rows 2740, cpu 900s, unchanged True
+session 4: rows 2745, cpu 914s, unchanged True
+session 4: rows 2700, cpu 929s, unchanged True
+session 5: rows 3287, cpu 1111s, unchanged True
+session 5: rows 3291, cpu 1185s, unchanged True
+session 5: rows 3308, cpu 1191s, unchanged True
+session 5: rows 3237, cpu 1235s, unchanged True
+session 6: rows 3844, cpu 1424s, unchanged True
+session 6: rows 3856, cpu 1529s, unchanged True
+session 6: rows 3842, cpu 1527s, unchanged True
+session 6: rows 3774, cpu 1567s, unchanged True
+session 7: rows 4396, cpu 1774s, unchanged True
+session 7: rows 4404, cpu 1873s, unchanged True
+session 7: rows 4388, cpu 1908s, unchanged True
+session 7: rows 4316, cpu 1937s, unchanged True
+session 8: rows 4943, cpu 2149s, unchanged True
+session 8: rows 4962, cpu 2277s, unchanged True
+session 8: rows 4939, cpu 2311s, unchanged True
+session 8: rows 4858, cpu 2340s, unchanged True
+session 9: rows 5495, cpu 2563s, unchanged True
+session 9: rows 5515, cpu 2728s, unchanged True
+session 9: rows 5485, cpu 2760s, unchanged True
+session 9: rows 5395, cpu 2790s, unchanged True
+session 10: rows 6047, cpu 3015s, unchanged True
+session 10: rows 6063, cpu 3211s, unchanged True
+session 10: rows 6031, cpu 3238s, unchanged True
+session 10: rows 5937, cpu 3275s, unchanged True
+session 11: rows 6594, cpu 3479s, unchanged True
+session 11: rows 6616, cpu 3704s, unchanged True
+session 11: rows 6582, cpu 3736s, unchanged True
+session 11: rows 6474, cpu 3794s, unchanged True
+session 12: rows 7141, cpu 3968s, unchanged True
+session 12: rows 7133, cpu 4266s, unchanged True
+session 12: rows 7164, cpu 4294s, unchanged True
+session 12: rows 7016, cpu 4347s, unchanged True
+session 13: rows 7693, cpu 4561s, unchanged True
+session 13: rows 7684, cpu 4823s, unchanged True
+session 13: rows 7712, cpu 4869s, unchanged True
+session 13: rows 7553, cpu 4922s, unchanged True
+session 14: rows 8245, cpu 5178s, unchanged True
+session 14: rows 8230, cpu 5427s, unchanged True
+session 14: rows 8260, cpu 5486s, unchanged True
+session 14: rows 8095, cpu 5534s, unchanged True
+session 15: rows 8832, cpu 5759s, unchanged True
+PIECE DEADLINE: no new exam life after the piece's deadline (life_004)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_005)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_006)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_007)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_008)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_009)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_010)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_011)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_012)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_013)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_014)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_015)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_016)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_017)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_018)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_019)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_020)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_021)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_022)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_023)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_024)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_025)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_026)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_027)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_028)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_029)
+session 15: rows 8816, cpu 6059s, unchanged True
+session 15: rows 8848, cpu 6121s, unchanged True
+session 15: rows 8672, cpu 6185s, unchanged True
+lives: kept 0, new 4, not started 26
+=== piece 04:48:37Z ===
+edition edition generator gen-v1 lives 30 seed_sha256 f894a86e9eac; Dami fingerprint 0551dd3a140d; conv-v1 conv-v1; smoke False; sessions all; workers 4
+session 0: rows 547, cpu 99s, unchanged True
+session 0: rows 552, cpu 104s, unchanged True
+session 0: rows 547, cpu 104s, unchanged True
+session 0: rows 546, cpu 115s, unchanged True
+session 1: rows 1094, cpu 210s, unchanged True
+session 1: rows 1109, cpu 218s, unchanged True
+session 1: rows 1094, cpu 225s, unchanged True
+session 1: rows 1092, cpu 283s, unchanged True
+session 2: rows 1646, cpu 383s, unchanged True
+session 2: rows 1641, cpu 404s, unchanged True
+session 2: rows 1666, cpu 421s, unchanged True
+session 2: rows 1648, cpu 480s, unchanged True
+session 3: rows 2193, cpu 594s, unchanged True
+session 3: rows 2188, cpu 605s, unchanged True
+session 3: rows 2218, cpu 667s, unchanged True
+session 3: rows 2199, cpu 717s, unchanged True
+session 4: rows 2745, cpu 841s, unchanged True
+session 4: rows 2740, cpu 853s, unchanged True
+session 4: rows 2770, cpu 952s, unchanged True
+session 4: rows 2745, cpu 1004s, unchanged True
+session 5: rows 3297, cpu 1126s, unchanged True
+session 5: rows 3292, cpu 1148s, unchanged True
+session 5: rows 3322, cpu 1229s, unchanged True
+session 5: rows 3296, cpu 1321s, unchanged True
+session 6: rows 3844, cpu 1445s, unchanged True
+session 6: rows 3849, cpu 1476s, unchanged True
+session 6: rows 3879, cpu 1581s, unchanged True
+session 6: rows 3842, cpu 1691s, unchanged True
+session 7: rows 4396, cpu 1810s, unchanged True
+session 7: rows 4396, cpu 1832s, unchanged True
+session 7: rows 4436, cpu 1917s, unchanged True
+session 7: rows 4388, cpu 2084s, unchanged True
+session 8: rows 4943, cpu 2190s, unchanged True
+session 8: rows 4943, cpu 2222s, unchanged True
+session 8: rows 4988, cpu 2330s, unchanged True
+session 8: rows 4934, cpu 2532s, unchanged True
+session 9: rows 5490, cpu 2616s, unchanged True
+session 9: rows 5490, cpu 2642s, unchanged True
+session 9: rows 5540, cpu 2787s, unchanged True
+session 9: rows 5490, cpu 3032s, unchanged True
+session 10: rows 6052, cpu 3096s, unchanged True
+session 10: rows 6037, cpu 3107s, unchanged True
+session 10: rows 6097, cpu 3294s, unchanged True
+session 10: rows 6041, cpu 3557s, unchanged True
+session 11: rows 6599, cpu 3578s, unchanged True
+session 11: rows 6584, cpu 3595s, unchanged True
+session 11: rows 6654, cpu 3814s, unchanged True
+session 12: rows 7151, cpu 4109s, unchanged True
+session 11: rows 6587, cpu 4134s, unchanged True
+session 12: rows 7136, cpu 4136s, unchanged True
+session 12: rows 7206, cpu 4397s, unchanged True
+session 13: rows 7698, cpu 4694s, unchanged True
+session 13: rows 7693, cpu 4713s, unchanged True
+session 12: rows 7133, cpu 4750s, unchanged True
+session 13: rows 7763, cpu 4996s, unchanged True
+session 14: rows 8245, cpu 5303s, unchanged True
+session 14: rows 8245, cpu 5314s, unchanged True
+session 13: rows 7684, cpu 5396s, unchanged True
+session 14: rows 8320, cpu 5641s, unchanged True
+session 15: rows 8832, cpu 5948s, unchanged True
+PIECE DEADLINE: no new exam life after the piece's deadline (life_008)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_009)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_010)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_011)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_012)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_013)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_014)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_015)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_016)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_017)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_018)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_019)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_020)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_021)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_022)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_023)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_024)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_025)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_026)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_027)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_028)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_029)
+session 15: rows 8832, cpu 5961s, unchanged True
+session 14: rows 8230, cpu 6072s, unchanged True
+session 15: rows 8912, cpu 6328s, unchanged True
+session 15: rows 8816, cpu 6789s, unchanged True
+lives: kept 4, new 4, not started 22
+=== piece 06:44:52Z workers 3 ===
+edition edition generator gen-v1 lives 30 seed_sha256 f894a86e9eac; Dami fingerprint 0551dd3a140d; conv-v1 conv-v1; smoke False; sessions all; workers 3
+session 0: rows 536, cpu 95s, unchanged True
+session 0: rows 545, cpu 112s, unchanged True
+session 0: rows 543, cpu 130s, unchanged True
+session 1: rows 1090, cpu 242s, unchanged True
+session 1: rows 1077, cpu 267s, unchanged True
+session 1: rows 1091, cpu 296s, unchanged True
+session 2: rows 1640, cpu 438s, unchanged True
+session 2: rows 1613, cpu 469s, unchanged True
+session 2: rows 1634, cpu 494s, unchanged True
+session 3: rows 2190, cpu 682s, unchanged True
+session 3: rows 2149, cpu 708s, unchanged True
+session 3: rows 2182, cpu 723s, unchanged True
+session 4: rows 2735, cpu 960s, unchanged True
+session 4: rows 2690, cpu 988s, unchanged True
+session 4: rows 2730, cpu 1002s, unchanged True
+session 5: rows 3280, cpu 1282s, unchanged True
+session 5: rows 3236, cpu 1324s, unchanged True
+session 5: rows 3273, cpu 1326s, unchanged True
+session 6: rows 3830, cpu 1636s, unchanged True
+session 6: rows 3772, cpu 1686s, unchanged True
+session 6: rows 3821, cpu 1690s, unchanged True
+session 7: rows 4380, cpu 2016s, unchanged True
+session 7: rows 4364, cpu 2081s, unchanged True
+session 7: rows 4308, cpu 2091s, unchanged True
+session 8: rows 4925, cpu 2441s, unchanged True
+session 8: rows 4854, cpu 2531s, unchanged True
+session 8: rows 4912, cpu 2531s, unchanged True
+session 9: rows 5470, cpu 2911s, unchanged True
+session 9: rows 5390, cpu 3005s, unchanged True
+session 9: rows 5455, cpu 3005s, unchanged True
+session 10: rows 6015, cpu 3415s, unchanged True
+session 10: rows 5931, cpu 3506s, unchanged True
+session 10: rows 5998, cpu 3516s, unchanged True
+session 11: rows 6570, cpu 3952s, unchanged True
+session 11: rows 6467, cpu 4056s, unchanged True
+session 11: rows 6546, cpu 4080s, unchanged True
+session 12: rows 7120, cpu 4533s, unchanged True
+session 12: rows 7003, cpu 4642s, unchanged True
+session 12: rows 7089, cpu 4690s, unchanged True
+session 13: rows 7670, cpu 5230s, unchanged True
+session 13: rows 7544, cpu 5281s, unchanged True
+session 13: rows 7637, cpu 5345s, unchanged True
+session 14: rows 8215, cpu 5886s, unchanged True
+session 14: rows 8080, cpu 5943s, unchanged True
+session 14: rows 8185, cpu 6027s, unchanged True
+session 15: rows 8656, cpu 6619s, unchanged True
+PIECE DEADLINE: no new exam life after the piece's deadline (life_011)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_012)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_013)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_014)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_015)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_016)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_017)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_018)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_019)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_020)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_021)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_022)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_023)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_024)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_025)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_026)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_027)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_028)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_029)
+session 15: rows 8800, cpu 6636s, unchanged True
+session 15: rows 8768, cpu 6740s, unchanged True
+lives: kept 8, new 3, not started 19
+=== piece 08:40:52Z workers 3 ===
+edition edition generator gen-v1 lives 30 seed_sha256 f894a86e9eac; Dami fingerprint 0551dd3a140d; conv-v1 conv-v1; smoke False; sessions all; workers 3
+session 0: rows 545, cpu 120s, unchanged True
+session 0: rows 547, cpu 121s, unchanged True
+session 0: rows 548, cpu 126s, unchanged True
+session 1: rows 1094, cpu 253s, unchanged True
+session 1: rows 1095, cpu 258s, unchanged True
+session 1: rows 1096, cpu 261s, unchanged True
+session 2: rows 1641, cpu 443s, unchanged True
+session 2: rows 1640, cpu 445s, unchanged True
+session 2: rows 1649, cpu 473s, unchanged True
+session 3: rows 2193, cpu 676s, unchanged True
+session 3: rows 2185, cpu 679s, unchanged True
+session 3: rows 2212, cpu 697s, unchanged True
+session 4: rows 2745, cpu 961s, unchanged True
+session 4: rows 2740, cpu 984s, unchanged True
+session 4: rows 2760, cpu 997s, unchanged True
+session 5: rows 3292, cpu 1284s, unchanged True
+session 5: rows 3290, cpu 1304s, unchanged True
+session 5: rows 3308, cpu 1315s, unchanged True
+session 6: rows 3849, cpu 1625s, unchanged True
+session 6: rows 3835, cpu 1650s, unchanged True
+session 6: rows 3856, cpu 1666s, unchanged True
+session 7: rows 4396, cpu 1991s, unchanged True
+session 7: rows 4380, cpu 2036s, unchanged True
+session 7: rows 4404, cpu 2050s, unchanged True
+session 8: rows 4953, cpu 2402s, unchanged True
+session 8: rows 4925, cpu 2446s, unchanged True
+session 8: rows 4952, cpu 2457s, unchanged True
+session 9: rows 5505, cpu 2853s, unchanged True
+session 9: rows 5500, cpu 2914s, unchanged True
+session 9: rows 5470, cpu 2916s, unchanged True
+session 10: rows 6052, cpu 3346s, unchanged True
+session 10: rows 6020, cpu 3400s, unchanged True
+session 10: rows 6053, cpu 3406s, unchanged True
+session 11: rows 6604, cpu 3859s, unchanged True
+session 11: rows 6570, cpu 3930s, unchanged True
+session 11: rows 6606, cpu 3941s, unchanged True
+session 12: rows 7151, cpu 4408s, unchanged True
+session 12: rows 7115, cpu 4491s, unchanged True
+session 12: rows 7154, cpu 4512s, unchanged True
+session 13: rows 7698, cpu 5043s, unchanged True
+session 13: rows 7665, cpu 5091s, unchanged True
+session 13: rows 7702, cpu 5106s, unchanged True
+session 14: rows 8245, cpu 5733s, unchanged True
+session 14: rows 8215, cpu 5742s, unchanged True
+session 14: rows 8260, cpu 5760s, unchanged True
+session 15: rows 8832, cpu 6372s, unchanged True
+PIECE DEADLINE: no new exam life after the piece's deadline (life_014)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_015)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_016)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_017)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_018)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_019)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_020)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_021)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_022)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_023)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_024)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_025)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_026)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_027)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_028)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_029)
+session 15: rows 8800, cpu 6407s, unchanged True
+session 15: rows 8848, cpu 6436s, unchanged True
+lives: kept 11, new 3, not started 16
+=== piece 10:30:30Z workers 3 ===
+edition edition generator gen-v1 lives 30 seed_sha256 f894a86e9eac; Dami fingerprint 0551dd3a140d; conv-v1 conv-v1; smoke False; sessions all; workers 3
+session 0: rows 543, cpu 110s, unchanged True
+session 0: rows 543, cpu 114s, unchanged True
+session 0: rows 548, cpu 119s, unchanged True
+session 1: rows 1091, cpu 229s, unchanged True
+session 1: rows 1086, cpu 230s, unchanged True
+session 1: rows 1096, cpu 255s, unchanged True
+session 2: rows 1629, cpu 404s, unchanged True
+session 2: rows 1639, cpu 407s, unchanged True
+session 2: rows 1654, cpu 423s, unchanged True
+session 3: rows 2172, cpu 616s, unchanged True
+session 3: rows 2187, cpu 630s, unchanged True
+session 3: rows 2202, cpu 654s, unchanged True
+session 4: rows 2715, cpu 882s, unchanged True
+session 4: rows 2730, cpu 905s, unchanged True
+session 4: rows 2755, cpu 940s, unchanged True
+session 5: rows 3258, cpu 1185s, unchanged True
+session 5: rows 3273, cpu 1227s, unchanged True
+session 5: rows 3303, cpu 1252s, unchanged True
+session 6: rows 3806, cpu 1522s, unchanged True
+session 6: rows 3821, cpu 1568s, unchanged True
+session 6: rows 3851, cpu 1629s, unchanged True
+session 7: rows 4364, cpu 1878s, unchanged True
+session 7: rows 4364, cpu 1930s, unchanged True
+session 7: rows 4404, cpu 1998s, unchanged True
+session 8: rows 4907, cpu 2272s, unchanged True
+session 8: rows 4907, cpu 2324s, unchanged True
+session 8: rows 4957, cpu 2417s, unchanged True
+session 9: rows 5455, cpu 2713s, unchanged True
+session 9: rows 5450, cpu 2765s, unchanged True
+session 9: rows 5505, cpu 2903s, unchanged True
+session 10: rows 6003, cpu 3185s, unchanged True
+session 10: rows 6003, cpu 3243s, unchanged True
+session 10: rows 6053, cpu 3420s, unchanged True
+session 11: rows 6546, cpu 3694s, unchanged True
+session 11: rows 6546, cpu 3741s, unchanged True
+session 11: rows 6601, cpu 3953s, unchanged True
+session 12: rows 7099, cpu 4242s, unchanged True
+session 12: rows 7094, cpu 4274s, unchanged True
+session 12: rows 7149, cpu 4533s, unchanged True
+session 13: rows 7642, cpu 4834s, unchanged True
+session 13: rows 7642, cpu 4855s, unchanged True
+session 13: rows 7707, cpu 5165s, unchanged True
+session 14: rows 8185, cpu 5463s, unchanged True
+session 14: rows 8185, cpu 5473s, unchanged True
+session 14: rows 8260, cpu 5827s, unchanged True
+session 15: rows 8768, cpu 6077s, unchanged True
+PIECE DEADLINE: no new exam life after the piece's deadline (life_017)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_018)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_019)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_020)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_021)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_022)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_023)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_024)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_025)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_026)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_027)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_028)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_029)
+session 15: rows 8768, cpu 6146s, unchanged True
+session 15: rows 8848, cpu 6536s, unchanged True
+lives: kept 14, new 3, not started 13
+=== piece 12:21:39Z workers 3 ===
+edition edition generator gen-v1 lives 30 seed_sha256 f894a86e9eac; Dami fingerprint 0551dd3a140d; conv-v1 conv-v1; smoke False; sessions all; workers 3
+session 0: rows 546, cpu 111s, unchanged True
+session 0: rows 545, cpu 134s, unchanged True
+session 0: rows 547, cpu 138s, unchanged True
+session 1: rows 1092, cpu 227s, unchanged True
+session 1: rows 1095, cpu 281s, unchanged True
+session 1: rows 1104, cpu 311s, unchanged True
+session 2: rows 1643, cpu 413s, unchanged True
+session 2: rows 1645, cpu 497s, unchanged True
+session 2: rows 1651, cpu 512s, unchanged True
+session 3: rows 2194, cpu 633s, unchanged True
+session 3: rows 2190, cpu 738s, unchanged True
+session 3: rows 2203, cpu 765s, unchanged True
+session 4: rows 2740, cpu 913s, unchanged True
+session 4: rows 2740, cpu 1030s, unchanged True
+session 4: rows 2750, cpu 1066s, unchanged True
+session 5: rows 3291, cpu 1216s, unchanged True
+session 5: rows 3290, cpu 1350s, unchanged True
+session 5: rows 3302, cpu 1393s, unchanged True
+session 6: rows 3837, cpu 1551s, unchanged True
+session 6: rows 3835, cpu 1711s, unchanged True
+session 6: rows 3849, cpu 1749s, unchanged True
+session 7: rows 4388, cpu 1898s, unchanged True
+session 7: rows 4380, cpu 2104s, unchanged True
+session 7: rows 4396, cpu 2130s, unchanged True
+session 8: rows 4939, cpu 2266s, unchanged True
+session 8: rows 4930, cpu 2534s, unchanged True
+session 8: rows 4943, cpu 2548s, unchanged True
+session 9: rows 5485, cpu 2673s, unchanged True
+session 9: rows 5475, cpu 2992s, unchanged True
+session 9: rows 5495, cpu 3006s, unchanged True
+session 10: rows 6031, cpu 3126s, unchanged True
+session 10: rows 6020, cpu 3470s, unchanged True
+session 10: rows 6042, cpu 3482s, unchanged True
+session 11: rows 6582, cpu 3591s, unchanged True
+session 11: rows 6565, cpu 3990s, unchanged True
+session 11: rows 6594, cpu 4045s, unchanged True
+session 12: rows 7128, cpu 4081s, unchanged True
+session 12: rows 7120, cpu 4568s, unchanged True
+session 13: rows 7679, cpu 4624s, unchanged True
+session 12: rows 7141, cpu 4659s, unchanged True
+session 13: rows 7670, cpu 5160s, unchanged True
+session 14: rows 8230, cpu 5204s, unchanged True
+session 13: rows 7693, cpu 5307s, unchanged True
+session 14: rows 8215, cpu 5826s, unchanged True
+session 15: rows 8816, cpu 5853s, unchanged True
+PIECE DEADLINE: no new exam life after the piece's deadline (life_020)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_021)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_022)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_023)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_024)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_025)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_026)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_027)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_028)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_029)
+session 14: rows 8245, cpu 6031s, unchanged True
+session 15: rows 8800, cpu 6520s, unchanged True
+session 15: rows 8832, cpu 6781s, unchanged True
+lives: kept 17, new 3, not started 10
+=== piece 14:17:36Z workers 2 ===
+edition edition generator gen-v1 lives 30 seed_sha256 f894a86e9eac; Dami fingerprint 0551dd3a140d; conv-v1 conv-v1; smoke False; sessions all; workers 2
+session 0: rows 546, cpu 115s, unchanged True
+session 0: rows 544, cpu 127s, unchanged True
+session 1: rows 1097, cpu 248s, unchanged True
+session 1: rows 1088, cpu 264s, unchanged True
+session 2: rows 1648, cpu 432s, unchanged True
+session 2: rows 1632, cpu 468s, unchanged True
+session 3: rows 2194, cpu 640s, unchanged True
+session 3: rows 2176, cpu 689s, unchanged True
+session 4: rows 2740, cpu 909s, unchanged True
+session 4: rows 2720, cpu 963s, unchanged True
+session 5: rows 3291, cpu 1204s, unchanged True
+session 5: rows 3274, cpu 1272s, unchanged True
+session 6: rows 3837, cpu 1541s, unchanged True
+session 6: rows 3823, cpu 1611s, unchanged True
+session 7: rows 4388, cpu 1917s, unchanged True
+session 7: rows 4372, cpu 1971s, unchanged True
+session 8: rows 4934, cpu 2330s, unchanged True
+session 8: rows 4916, cpu 2399s, unchanged True
+session 9: rows 5485, cpu 2797s, unchanged True
+session 9: rows 5465, cpu 2859s, unchanged True
+session 10: rows 6041, cpu 3289s, unchanged True
+session 10: rows 6009, cpu 3399s, unchanged True
+session 11: rows 6587, cpu 3794s, unchanged True
+session 11: rows 6553, cpu 3917s, unchanged True
+session 12: rows 7133, cpu 4313s, unchanged True
+session 12: rows 7102, cpu 4462s, unchanged True
+session 13: rows 7684, cpu 4877s, unchanged True
+session 13: rows 7646, cpu 5037s, unchanged True
+session 14: rows 8230, cpu 5461s, unchanged True
+session 14: rows 8200, cpu 5652s, unchanged True
+=== piece 15:56:08Z workers 2 (after container restart; lives 20-21 lost at session 14) ===
+edition edition generator gen-v1 lives 30 seed_sha256 f894a86e9eac; Dami fingerprint 0551dd3a140d; conv-v1 conv-v1; smoke False; sessions all; workers 2
+=== piece 15:56:53Z workers 3 (2-worker piece stopped at start: no speed-up per life) ===
+edition edition generator gen-v1 lives 30 seed_sha256 f894a86e9eac; Dami fingerprint 0551dd3a140d; conv-v1 conv-v1; smoke False; sessions all; workers 3
+session 0: rows 546, cpu 107s, unchanged True
+session 0: rows 548, cpu 109s, unchanged True
+session 0: rows 544, cpu 123s, unchanged True
+session 1: rows 1097, cpu 237s, unchanged True
+session 1: rows 1101, cpu 243s, unchanged True
+session 1: rows 1088, cpu 262s, unchanged True
+session 2: rows 1648, cpu 427s, unchanged True
+session 2: rows 1654, cpu 451s, unchanged True
+session 2: rows 1632, cpu 456s, unchanged True
+session 3: rows 2202, cpu 652s, unchanged True
+session 3: rows 2194, cpu 670s, unchanged True
+session 3: rows 2176, cpu 687s, unchanged True
+session 4: rows 2750, cpu 915s, unchanged True
+session 4: rows 2740, cpu 945s, unchanged True
+session 4: rows 2720, cpu 965s, unchanged True
+session 5: rows 3298, cpu 1227s, unchanged True
+session 5: rows 3291, cpu 1244s, unchanged True
+session 5: rows 3274, cpu 1287s, unchanged True
+session 6: rows 3851, cpu 1558s, unchanged True
+session 6: rows 3837, cpu 1589s, unchanged True
+session 6: rows 3823, cpu 1638s, unchanged True
+session 7: rows 4404, cpu 1944s, unchanged True
+session 7: rows 4388, cpu 1962s, unchanged True
+session 7: rows 4372, cpu 1998s, unchanged True
+session 8: rows 4957, cpu 2323s, unchanged True
+session 8: rows 4934, cpu 2357s, unchanged True
+session 8: rows 4916, cpu 2399s, unchanged True
+session 9: rows 5505, cpu 2769s, unchanged True
+session 9: rows 5485, cpu 2791s, unchanged True
+session 9: rows 5465, cpu 2834s, unchanged True
+session 10: rows 6041, cpu 3266s, unchanged True
+session 10: rows 6053, cpu 3265s, unchanged True
+session 10: rows 6009, cpu 3316s, unchanged True
+session 11: rows 6587, cpu 3755s, unchanged True
+session 11: rows 6616, cpu 3772s, unchanged True
+session 11: rows 6553, cpu 3853s, unchanged True
+session 12: rows 7133, cpu 4270s, unchanged True
+session 12: rows 7164, cpu 4308s, unchanged True
+session 12: rows 7102, cpu 4390s, unchanged True
+session 13: rows 7684, cpu 4886s, unchanged True
+session 13: rows 7712, cpu 4883s, unchanged True
+session 13: rows 7646, cpu 4981s, unchanged True
+session 14: rows 8230, cpu 5479s, unchanged True
+session 14: rows 8260, cpu 5516s, unchanged True
+session 14: rows 8200, cpu 5596s, unchanged True
+session 15: rows 8816, cpu 6113s, unchanged True
+PIECE DEADLINE: no new exam life after the piece's deadline (life_023)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_024)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_025)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_026)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_027)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_028)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_029)
+session 15: rows 8848, cpu 6178s, unchanged True
+session 15: rows 8784, cpu 6243s, unchanged True
+lives: kept 20, new 3, not started 7
+=== piece 17:43:13Z workers 3 ===
+edition edition generator gen-v1 lives 30 seed_sha256 f894a86e9eac; Dami fingerprint 0551dd3a140d; conv-v1 conv-v1; smoke False; sessions all; workers 3
+session 0: rows 551, cpu 118s, unchanged True
+session 0: rows 544, cpu 121s, unchanged True
+session 0: rows 548, cpu 136s, unchanged True
+session 1: rows 1107, cpu 250s, unchanged True
+session 1: rows 1098, cpu 267s, unchanged True
+session 1: rows 1101, cpu 274s, unchanged True
+session 2: rows 1668, cpu 448s, unchanged True
+session 2: rows 1659, cpu 465s, unchanged True
+session 2: rows 1642, cpu 477s, unchanged True
+session 3: rows 2224, cpu 656s, unchanged True
+session 3: rows 2207, cpu 692s, unchanged True
+session 3: rows 2186, cpu 711s, unchanged True
+session 4: rows 2775, cpu 915s, unchanged True
+session 4: rows 2755, cpu 966s, unchanged True
+session 4: rows 2730, cpu 991s, unchanged True
+session 5: rows 3326, cpu 1200s, unchanged True
+session 5: rows 3303, cpu 1279s, unchanged True
+session 5: rows 3274, cpu 1287s, unchanged True
+session 6: rows 3877, cpu 1538s, unchanged True
+session 6: rows 3856, cpu 1622s, unchanged True
+session 6: rows 3828, cpu 1663s, unchanged True
+session 7: rows 4428, cpu 1907s, unchanged True
+session 7: rows 4404, cpu 2022s, unchanged True
+session 7: rows 4372, cpu 2077s, unchanged True
+session 8: rows 4979, cpu 2311s, unchanged True
+session 8: rows 4952, cpu 2453s, unchanged True
+session 8: rows 4926, cpu 2537s, unchanged True
+session 9: rows 5535, cpu 2756s, unchanged True
+session 9: rows 5500, cpu 2912s, unchanged True
+session 9: rows 5470, cpu 3009s, unchanged True
+session 10: rows 6086, cpu 3224s, unchanged True
+session 10: rows 6048, cpu 3402s, unchanged True
+session 10: rows 6019, cpu 3520s, unchanged True
+session 11: rows 6637, cpu 3778s, unchanged True
+session 11: rows 6596, cpu 3928s, unchanged True
+session 11: rows 6563, cpu 4076s, unchanged True
+session 12: rows 7188, cpu 4361s, unchanged True
+session 12: rows 7149, cpu 4534s, unchanged True
+session 12: rows 7112, cpu 4676s, unchanged True
+session 13: rows 7749, cpu 4985s, unchanged True
+session 13: rows 7702, cpu 5101s, unchanged True
+session 13: rows 7656, cpu 5282s, unchanged True
+session 14: rows 8305, cpu 5629s, unchanged True
+session 14: rows 8260, cpu 5719s, unchanged True
+session 14: rows 8200, cpu 5926s, unchanged True
+session 15: rows 8896, cpu 6319s, unchanged True
+PIECE DEADLINE: no new exam life after the piece's deadline (life_026)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_027)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_028)
+PIECE DEADLINE: no new exam life after the piece's deadline (life_029)
+session 15: rows 8848, cpu 6428s, unchanged True
+session 15: rows 8784, cpu 6588s, unchanged True
+lives: kept 23, new 3, not started 4
+=== piece 19:35:36Z workers 3 ===
+edition edition generator gen-v1 lives 30 seed_sha256 f894a86e9eac; Dami fingerprint 0551dd3a140d; conv-v1 conv-v1; smoke False; sessions all; workers 3
+session 0: rows 546, cpu 93s, unchanged True
+session 0: rows 541, cpu 100s, unchanged True
+session 0: rows 546, cpu 115s, unchanged True
+session 1: rows 1092, cpu 207s, unchanged True
+session 1: rows 1082, cpu 250s, unchanged True
+session 1: rows 1092, cpu 266s, unchanged True
+session 2: rows 1638, cpu 399s, unchanged True
+session 2: rows 1623, cpu 420s, unchanged True
+session 2: rows 1643, cpu 476s, unchanged True
+session 3: rows 2184, cpu 612s, unchanged True
+session 3: rows 2164, cpu 629s, unchanged True
+session 3: rows 2194, cpu 712s, unchanged True
+session 4: rows 2740, cpu 886s, unchanged True
+session 4: rows 2710, cpu 902s, unchanged True
+session 4: rows 2745, cpu 1009s, unchanged True
+session 5: rows 3266, cpu 1205s, unchanged True
+session 5: rows 3291, cpu 1218s, unchanged True
+session 5: rows 3291, cpu 1337s, unchanged True
+session 6: rows 3807, cpu 1533s, unchanged True
+session 6: rows 3842, cpu 1575s, unchanged True
+session 6: rows 3837, cpu 1690s, unchanged True
+session 7: rows 4348, cpu 1910s, unchanged True
+session 7: rows 4388, cpu 1962s, unchanged True
+session 7: rows 4388, cpu 2090s, unchanged True
+session 8: rows 4889, cpu 2319s, unchanged True
+session 8: rows 4944, cpu 2392s, unchanged True
+session 8: rows 4934, cpu 2533s, unchanged True
+session 9: rows 5435, cpu 2774s, unchanged True
+session 9: rows 5495, cpu 2839s, unchanged True
+session 9: rows 5480, cpu 3008s, unchanged True
+session 10: rows 5981, cpu 3258s, unchanged True
+session 10: rows 6041, cpu 3333s, unchanged True
+session 10: rows 6026, cpu 3514s, unchanged True
+session 11: rows 6527, cpu 3782s, unchanged True
+session 11: rows 6592, cpu 3868s, unchanged True
+session 11: rows 6572, cpu 4067s, unchanged True
+session 12: rows 7068, cpu 4347s, unchanged True
+session 12: rows 7138, cpu 4482s, unchanged True
+session 12: rows 7128, cpu 4653s, unchanged True
+session 13: rows 7609, cpu 4944s, unchanged True
+session 13: rows 7684, cpu 5068s, unchanged True
+session 13: rows 7679, cpu 5260s, unchanged True
+session 14: rows 8155, cpu 5610s, unchanged True
+session 14: rows 8230, cpu 5734s, unchanged True
+session 14: rows 8230, cpu 5917s, unchanged True
+session 15: rows 8736, cpu 6267s, unchanged True
+PIECE DEADLINE: no new exam life after the piece's deadline (life_029)
+session 15: rows 8816, cpu 6383s, unchanged True
+session 15: rows 8816, cpu 6580s, unchanged True
+lives: kept 26, new 3, not started 1
+=== piece 21:27:30Z workers 3 (last life) ===
+edition edition generator gen-v1 lives 30 seed_sha256 f894a86e9eac; Dami fingerprint 0551dd3a140d; conv-v1 conv-v1; smoke False; sessions all; workers 3
+session 0: rows 551, cpu 112s, unchanged True
+session 1: rows 1107, cpu 229s, unchanged True
+session 2: rows 1658, cpu 397s, unchanged True
+session 3: rows 2209, cpu 630s, unchanged True
+session 4: rows 2760, cpu 894s, unchanged True
+session 5: rows 3316, cpu 1184s, unchanged True
+session 6: rows 3872, cpu 1526s, unchanged True
+session 7: rows 4428, cpu 1894s, unchanged True
+session 8: rows 4979, cpu 2282s, unchanged True
+session 9: rows 5540, cpu 2726s, unchanged True
+session 10: rows 6091, cpu 3185s, unchanged True
+session 11: rows 6642, cpu 3718s, unchanged True
+session 12: rows 7193, cpu 4240s, unchanged True
+session 13: rows 7749, cpu 4783s, unchanged True
+session 14: rows 8305, cpu 5351s, unchanged True
+session 15: rows 8896, cpu 5941s, unchanged True
+lives: kept 29, new 1, not started 0
+life_000: rows 8816/8816 keys_match True unchanged True rehearse 5 recall 0.9980 cpu 6060s peak 2.90 GB
+life_001: rows 8832/8832 keys_match True unchanged True rehearse 3 recall 0.9997 cpu 5760s peak 2.40 GB
+life_002: rows 8672/8672 keys_match True unchanged True rehearse 5 recall 0.9988 cpu 6185s peak 2.54 GB
+life_003: rows 8848/8848 keys_match True unchanged True rehearse 4 recall 0.9997 cpu 6122s peak 2.39 GB
+life_004: rows 8912/8912 keys_match True unchanged True rehearse 4 recall 0.9990 cpu 6329s peak 2.92 GB
+life_005: rows 8816/8816 keys_match True unchanged True rehearse 5 recall 0.9995 cpu 6790s peak 2.97 GB
+life_006: rows 8832/8832 keys_match True unchanged True rehearse 3 recall 1.0000 cpu 5962s peak 2.35 GB
+life_007: rows 8832/8832 keys_match True unchanged True rehearse 4 recall 1.0000 cpu 5948s peak 2.23 GB
+life_008: rows 8768/8768 keys_match True unchanged True rehearse 7 recall 0.9998 cpu 6741s peak 2.83 GB
+life_009: rows 8656/8656 keys_match True unchanged True rehearse 5 recall 0.9997 cpu 6620s peak 2.51 GB
+life_010: rows 8800/8800 keys_match True unchanged True rehearse 3 recall 0.9998 cpu 6636s peak 2.38 GB
+life_011: rows 8832/8832 keys_match True unchanged True rehearse 4 recall 1.0000 cpu 6372s peak 2.75 GB
+life_012: rows 8848/8848 keys_match True unchanged True rehearse 4 recall 0.9998 cpu 6437s peak 2.60 GB
+life_013: rows 8800/8800 keys_match True unchanged True rehearse 3 recall 0.9993 cpu 6408s peak 2.77 GB
+life_014: rows 8848/8848 keys_match True unchanged True rehearse 4 recall 0.9998 cpu 6537s peak 2.91 GB
+life_015: rows 8768/8768 keys_match True unchanged True rehearse 4 recall 1.0000 cpu 6078s peak 2.91 GB
+life_016: rows 8768/8768 keys_match True unchanged True rehearse 4 recall 0.9995 cpu 6147s peak 2.41 GB
+life_017: rows 8832/8832 keys_match True unchanged True rehearse 4 recall 0.9998 cpu 6782s peak 3.05 GB
+life_018: rows 8816/8816 keys_match True unchanged True rehearse 3 recall 1.0000 cpu 5853s peak 2.31 GB
+life_019: rows 8800/8800 keys_match True unchanged True rehearse 5 recall 0.9998 cpu 6521s peak 2.57 GB
+life_020: rows 8816/8816 keys_match True unchanged True rehearse 4 recall 1.0000 cpu 6114s peak 2.41 GB
+life_021: rows 8784/8784 keys_match True unchanged True rehearse 4 recall 1.0000 cpu 6244s peak 2.66 GB
+life_022: rows 8848/8848 keys_match True unchanged True rehearse 5 recall 0.9997 cpu 6179s peak 2.74 GB
+life_023: rows 8784/8784 keys_match True unchanged True rehearse 5 recall 0.9995 cpu 6588s peak 2.84 GB
+life_024: rows 8896/8896 keys_match True unchanged True rehearse 4 recall 1.0000 cpu 6320s peak 2.75 GB
+life_025: rows 8848/8848 keys_match True unchanged True rehearse 7 recall 0.9992 cpu 6429s peak 3.07 GB
+life_026: rows 8816/8816 keys_match True unchanged True rehearse 3 recall 1.0000 cpu 6384s peak 2.58 GB
+life_027: rows 8816/8816 keys_match True unchanged True rehearse 5 recall 0.9993 cpu 6581s peak 3.07 GB
+life_028: rows 8736/8736 keys_match True unchanged True rehearse 4 recall 1.0000 cpu 6267s peak 2.69 GB
+life_029: rows 8896/8896 keys_match True unchanged True rehearse 4 recall 0.9995 cpu 5942s peak 3.10 GB
+
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/user/shared-curriculum/exam/grade.py", line 275, in <module>
+    results[name] = grade(a.edition, d, ro)
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/shared-curriculum/exam/grade.py", line 90, in grade
+    keys = load(os.path.join(edition, "keys", f"{life}.jsonl"))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/shared-curriculum/exam/grade.py", line 43, in load
+    with open(path, encoding="utf-8") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/user/shared-curriculum/exam/v1/keys/life_000.jsonl'
+
+grader exit 1

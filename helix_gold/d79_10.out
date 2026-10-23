@@ -1,0 +1,21 @@
+=== D79 v1, the relational equals sign at answer time: "@nwf", 10 seeds, both@ascii@nwf+rediscover+chain+wm+wmlast+eq ===
+  E0 regression (every key of the stored P life == the +eq life): PASS (0 differences)
+  picture -> new name, right after exposure (items pooled; usual / rule):
+    bare 0.284 / 0.240 (rule - usual -0.0449 (2:8, p=0.1094)); framed 0.111 / 0.237 (rule - usual +0.1263 (10:0, p=0.0020))
+    framed - bare: usual -0.1734 (0:10, p=0.0020) | rule -0.0022 (0:3, p=0.2500)
+    n=1: bare 0.092 / 0.175 (+0.0828 (9:0, p=0.0039)); framed 0.040 / 0.173 (+0.1333 (10:0, p=0.0020)); framed - bare under the rule -0.0022 (0:2, p=0.5000)
+    n=2: bare 0.172 / 0.224 (+0.0516 (6:4, p=0.7539)); framed 0.076 / 0.223 (+0.1462 (10:0, p=0.0020)); framed - bare under the rule -0.0011 (0:1, p=1.0000)
+    n=4: bare 0.328 / 0.244 (-0.0839 (0:10, p=0.0020)); framed 0.118 / 0.242 (+0.1237 (10:0, p=0.0020)); framed - bare under the rule -0.0022 (0:1, p=1.0000)
+    n=8: bare 0.545 / 0.315 (-0.2301 (0:10, p=0.0020)); framed 0.210 / 0.312 (+0.1022 (8:2, p=0.1094)); framed - bare under the rule -0.0032 (0:2, p=0.5000)
+    under the rule: flips bare right & framed wrong 8, the reverse 0 (p = 0.00781); flip answers {'common': 0.0, 'frame': 0.0, 'name': 0.0, 'other': 8.0}; all framed errors {'common': 56.0, 'frame': 18.0, 'name': 2708.0, 'other': 55.0}
+    room-names reading (usual): bare 0.413, framed 0.397
+    room-names reading (rule): bare 0.470, framed 0.470
+    nw1 new (both directions, mean over sessions): usual 0.265 / rule 0.306 (+0.0411 (9:1, p=0.0215))
+    nw2 new (both directions, mean over sessions): usual 0.397 / rule 0.427 (+0.0297 (7:3, p=0.3438))
+    nw4 new (both directions, mean over sessions): usual 0.558 / rule 0.518 (-0.0396 (0:10, p=0.0020))
+    nw8 new (both directions, mean over sessions): usual 0.719 / rule 0.605 (-0.1141 (0:10, p=0.0020))
+  E3 old word-answer keys at the last session (usual / rule):
+    name same (n pooled): 0.739 / 0.485 (-0.2544 (0:10, p=0.0020)) -> DROP
+    nwbc all: 0.715 / 0.066 (-0.6495 (0:10, p=0.0020)) -> DROP
+    nwfc all: 0.843 / 0.066 (-0.7774 (0:10, p=0.0020)) -> DROP
+  E1 framed - bare under the rule -0.002 -> 틀 영향 사라짐; E2 one hearing under the rule 0.175 -> 0.40 못 미침; E3 옛 열쇠 떨어짐 -> verdict: 실패

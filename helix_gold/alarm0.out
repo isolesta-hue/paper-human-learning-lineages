@@ -1,0 +1,31 @@
+=== finding 121: do the learner's own eyes agree, and does agreement mark trustworthy choices? (cached lives) ===
+
+##### plain
+  [chunk] A1 agreement S-W 0.68 (n=150) | B-W 0.71 (n=150) | S-B 0.88 (n=150)
+  [chunk] A2 outside gain of W's choice: S agrees +0.0060 (>=0 0.75, n=102) | S disagrees -0.0018 (>=0 0.81, n=48) | B agrees +0.0062 (>=0 0.78, n=107) | B disagrees -0.0032 (>=0 0.77, n=43)
+  [chunk] A3 s2-16: (i) W +0.0035 (9:1, p=0.021) | (ii) - (i) +0.0006 (7:1, p=0.070) | (iii) - (i) +0.0009 (8:1, p=0.039) | (iv) - (i) +0.0002 (7:3, p=0.344)
+  [chunk] A3 s9-16: (i) W +0.0091 (10:0, p=0.002) | (ii) - (i) +0.0000 (0:0, p=nan) | (iii) - (i) +0.0000 (0:0, p=nan) | (iv) - (i) +0.0008 (5:1, p=0.219)
+  [assoc] A1 agreement S-W 0.11 (n=150) | B-W 0.57 (n=150) | S-B 0.18 (n=150)
+  [assoc] A2 outside gain of W's choice: S agrees -0.0241 (>=0 0.06, n=17) | S disagrees +0.0125 (>=0 0.88, n=133) | B agrees +0.0090 (>=0 0.84, n=86) | B disagrees +0.0074 (>=0 0.72, n=64)
+  [assoc] A3 s2-16: (i) W +0.0084 (9:1, p=0.021) | (ii) - (i) -0.0111 (1:9, p=0.021) | (iii) - (i) -0.0032 (3:7, p=0.344) | (iv) - (i) -0.0080 (0:10, p=0.002)
+  [assoc] A3 s9-16: (i) W -0.0026 (2:8, p=0.109) | (ii) - (i) -0.0007 (5:4, p=1.000) | (iii) - (i) +0.0002 (5:3, p=0.727) | (iv) - (i) -0.0046 (4:5, p=1.000)
+
+##### share
+  [chunk] A1 agreement S-W 0.57 (n=150) | B-W 0.63 (n=150) | S-B 0.85 (n=150)
+  [chunk] A2 outside gain of W's choice: S agrees +0.0084 (>=0 0.75, n=85) | S disagrees -0.0028 (>=0 0.78, n=65) | B agrees +0.0073 (>=0 0.77, n=94) | B disagrees -0.0028 (>=0 0.77, n=56)
+  [chunk] A3 s2-16: (i) W +0.0036 (8:2, p=0.109) | (ii) - (i) +0.0012 (9:0, p=0.004) | (iii) - (i) +0.0010 (9:1, p=0.021) | (iv) - (i) +0.0001 (7:3, p=0.344)
+  [chunk] A3 s9-16: (i) W +0.0101 (9:1, p=0.021) | (ii) - (i) +0.0008 (3:0, p=0.250) | (iii) - (i) +0.0005 (2:1, p=1.000) | (iv) - (i) +0.0015 (8:2, p=0.109)
+  [assoc] A1 agreement S-W 0.12 (n=150) | B-W 0.55 (n=150) | S-B 0.26 (n=150)
+  [assoc] A2 outside gain of W's choice: S agrees -0.0293 (>=0 0.06, n=18) | S disagrees +0.0143 (>=0 0.92, n=132) | B agrees +0.0066 (>=0 0.85, n=82) | B disagrees +0.0121 (>=0 0.78, n=68)
+  [assoc] A3 s2-16: (i) W +0.0091 (8:2, p=0.109) | (ii) - (i) -0.0126 (1:9, p=0.021) | (iii) - (i) -0.0055 (2:8, p=0.109) | (iv) - (i) -0.0120 (1:9, p=0.021)
+  [assoc] A3 s9-16: (i) W -0.0007 (4:6, p=0.754) | (ii) - (i) -0.0035 (2:8, p=0.109) | (iii) - (i) +0.0001 (5:3, p=0.727) | (iv) - (i) -0.0059 (3:7, p=0.344)
+
+##### glyph
+  [chunk] A1 agreement S-W 0.75 (n=150)
+  [chunk] A2 outside gain of W's choice: S agrees -0.0012 (>=0 0.59, n=113) | S disagrees -0.0076 (>=0 0.73, n=37)
+  [chunk] A3 s2-16: (i) W -0.0028 (2:8, p=0.109) | (ii) - (i) +0.0019 (5:1, p=0.219)
+  [chunk] A3 s9-16: (i) W -0.0001 (4:6, p=0.754) | (ii) - (i) +0.0025 (1:0, p=1.000)
+  [assoc] A1 agreement S-W 0.78 (n=150)
+  [assoc] A2 outside gain of W's choice: S agrees -0.0021 (>=0 0.56, n=117) | S disagrees -0.0006 (>=0 0.70, n=33)
+  [assoc] A3 s2-16: (i) W -0.0017 (3:7, p=0.344) | (ii) - (i) +0.0001 (5:3, p=0.727)
+  [assoc] A3 s9-16: (i) W -0.0002 (5:5, p=1.000) | (ii) - (i) +0.0001 (1:0, p=1.000)

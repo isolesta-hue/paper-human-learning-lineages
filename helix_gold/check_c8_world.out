@@ -1,0 +1,4 @@
+world regression: 26 worlds x 3 seeds, differing: none
+'@c8' contains '@multi' (seeds 0, 3, 5): yes -- tokens and lists the same, heard = prefix
+exit 0 (51 s)
+Fri Oct 16 03:18:19 UTC 2026

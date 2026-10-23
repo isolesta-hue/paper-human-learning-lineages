@@ -1,0 +1,13 @@
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/tmp/claude-0/-home-user/4d89f7c6-148e-5983-a102-97596081b421/scratchpad/v1_shared/exam/grade.py", line 275, in <module>
+    results[name] = grade(a.edition, d, ro)
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/claude-0/-home-user/4d89f7c6-148e-5983-a102-97596081b421/scratchpad/v1_shared/exam/grade.py", line 90, in grade
+    keys = load(os.path.join(edition, "keys", f"{life}.jsonl"))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/claude-0/-home-user/4d89f7c6-148e-5983-a102-97596081b421/scratchpad/v1_shared/exam/grade.py", line 43, in load
+    with open(path, encoding="utf-8") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/tmp/claude-0/-home-user/4d89f7c6-148e-5983-a102-97596081b421/scratchpad/v1_shared/exam/v1/keys/life_000.jsonl'

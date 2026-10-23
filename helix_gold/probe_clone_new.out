@@ -1,0 +1,10 @@
+both@ascii@tale+rediscover+chain+wm+bind+wmlast+track+grav wall 600s
+  TOTAL clone      22.2s  n=0  
+  cued             19.6s  n=83  CuedPatterns
+  chunks            1.6s  n=83  ChunkMemory
+  model             0.5s  n=83  NormPatternKnowDo
+  pattern           0.3s  n=83  TrustPatternMemory
+  plas2             0.2s  n=83  dict len=5
+  hebb              0.0s  n=83  ConfDirectionalHebbian
+  plas              0.0s  n=83  dict len=5
+  replay            0.0s  n=83  Hebbian2

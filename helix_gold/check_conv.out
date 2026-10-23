@@ -1,0 +1,22 @@
+=== conv-v1 format checks on /home/user/shared-curriculum/exam_dev/dev1000 (2 lives; development cases only, never training) ===
+life_000: 1797 exposure lines -> 7884 moments (1797 sentences + 6087 scene lines; line moments not [picture, at]: 0); 626 items; elements 4056 (25 at + boundary + 110 words + 3920 things; first met in the items: 1656)
+  (1) twice the same: True (digest 0c0e169582eb4bdd, fresh process 0c0e169582eb4bdd)
+  (2) records rebuilt from the moments == the originals: True
+life_001: 1803 exposure lines -> 7738 moments (1803 sentences + 5935 scene lines; line moments not [picture, at]: 0); 619 items; elements 3969 (25 at + boundary + 110 words + 3833 things; first met in the items: 1644)
+  (1) twice the same: True (digest 371c09c256b961e3, fresh process 371c09c256b961e3)
+  (2) records rebuilt from the moments == the originals: True
+  (3) oracle body (grader's rule, judged answers; missing 0):
+      blank   1.000 (472/472); chance 0.094 [99%: 0.059, 0.129]
+      slot    1.000 (453/453); chance 0.285 [99%: 0.230, 0.340]
+      choice  1.000 (160/160); chance 0.312 [99%: 0.218, 0.407]
+      pair    1.000 (160/160); chance 0.500 [99%: 0.398, 0.602]
+  (5) answering left the body and the converted world unchanged (oracle): True
+  (4) random body (grader's rule, judged answers; missing 0):
+      blank   0.091 (43/472); chance 0.094 [99%: 0.059, 0.129]
+      slot    0.313 (142/453); chance 0.285 [99%: 0.230, 0.340]
+      choice  0.294 (47/160); chance 0.312 [99%: 0.218, 0.407]
+      pair    0.581 (93/160); chance 0.500 [99%: 0.398, 0.602]
+  (5) answering left the body and the converted world unchanged (random): True
+ALL CHECKS PASS: True
+exit 0
+Thu Oct 15 13:30:16 UTC 2026

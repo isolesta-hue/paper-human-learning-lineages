@@ -1,0 +1,23 @@
+=== Q14 frame test ("@nwf"): new names asked without / with a frame never heard with names, 10 seeds (0-9), both@ascii@nwf+rediscover+chain+wm+wmlast ===
+  B / F = bare / framed right, items pooled over the sessions right after exposure (each item once); D = F - B
+  seed  0: B 0.263 F 0.102 D -0.161
+  seed  1: B 0.237 F 0.097 D -0.140
+  seed  2: B 0.290 F 0.126 D -0.164
+  seed  3: B 0.263 F 0.091 D -0.172
+  seed  4: B 0.253 F 0.113 D -0.140
+  seed  5: B 0.301 F 0.078 D -0.223
+  seed  6: B 0.296 F 0.140 D -0.156
+  seed  7: B 0.363 F 0.113 D -0.250
+  seed  8: B 0.280 F 0.110 D -0.169
+  seed  9: B 0.298 F 0.140 D -0.159
+  pooled n: B 0.284 F 0.111 D -0.1734 (0:10, p=0.0020)
+  n=1: B 0.092 F 0.040 D -0.0527 (0:10, p=0.0020)
+  n=2: B 0.172 F 0.076 D -0.0957 (0:10, p=0.0020)
+  n=4: B 0.328 F 0.118 D -0.2097 (0:10, p=0.0020)
+  n=8: B 0.545 F 0.210 D -0.3355 (0:10, p=0.0020)
+  flips pooled over seeds: bare right & framed wrong 688, the reverse 43 (p = 1.248e-150)
+  the flips' framed answers: common 549, frame 8, name 124, other 7 -> common or frame word 0.810
+  all framed errors' answers: common 1739, frame 27, name 1490, other 51
+  room-names reading (the answer beats the room's 3 other new names; chance 0.25): bare 0.413, framed 0.397
+  Q3 the frame's own use at the last session (all rooms): bare common picture -> word 0.715, framed 0.843 (framed - bare +0.1280 (9:1, p=0.0215))
+  Q1 verdict: mean D -0.173, seeds 0:10 p = 0.0020, flips to common / frame word 0.810 -> 지지 -- 틀이 장면을 이김

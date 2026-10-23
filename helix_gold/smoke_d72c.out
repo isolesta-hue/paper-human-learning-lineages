@@ -1,0 +1,18 @@
+=== both@ascii@d72ice+rediscover+chain+wm+wmctx+wmlast seed 0: 16 sessions ===
+session 1: k [1, 0, 2, 1] | ice items 24
+session 2: k [1, 0, 2, 1] | ice items 24
+session 3: k [1, 0, 3, 1] | ice items 36
+session 4: k [2, 0, 5, 1] | ice items 60
+session 5: k [2, 0, 5, 1] | ice items 60
+session 6: k [2, 0, 5, 1] | ice items 60
+session 7: k [3, 1, 6, 1] | ice items 72
+session 8: k [4, 1, 7, 1] | ice items 84
+session 9: k [4, 2, 9, 1] | ice items 108
+session 10: k [5, 3, 11, 1] | ice items 132
+session 11: k [6, 3, 13, 2] | ice items 156
+session 12: k [8, 4, 15, 2] | ice items 180
+session 13: k [9, 4, 17, 3] | ice items 204
+session 14: k [11, 5, 19, 3] | ice items 228
+session 15: k [12, 6, 21, 3] | ice items 252
+session 16: k [12, 6, 23, 3] | ice items 276
+exit 0

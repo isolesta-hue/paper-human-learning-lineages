@@ -1,0 +1,8 @@
+Tue Oct 20 07:58:59 UTC 2026
+=== life_000, sessions 0-1: 1097 recorded rows; fingerprint 0551dd3a140d ===
+numpy 2.4.6, torch 2.14.0+cu130, torch threads 1, env [('OPENBLAS_NUM_THREADS', None), ('OMP_NUM_THREADS', None), ('MKL_NUM_THREADS', None)]
+exam: same rows True; scores exactly equal 1097/1097; top answer equal 1097/1097; largest score difference 0
+numpy 2.4.6, torch 2.14.0+cu130, torch threads 1, env [('OPENBLAS_NUM_THREADS', '1'), ('OMP_NUM_THREADS', '1'), ('MKL_NUM_THREADS', '1')]
+one: same rows True; scores exactly equal 1097/1097; top answer equal 1097/1097; largest score difference 0
+exit 0
+Tue Oct 20 08:02:24 UTC 2026

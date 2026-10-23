@@ -1,0 +1,9 @@
+both@ascii@d72cat+rediscover+chain+wm+wmctx+wmlast seed 0 after session 3 (cut exit 17):
+  session 1: 24 d72 keys, times heard [0, 0, 2, 0], forms ['d72 pic', 'd72 word']
+  session 2: 24 d72 keys, times heard [0, 0, 4, 0], forms ['d72 pic', 'd72 word']
+  session 3: 24 d72 keys, times heard [0, 0, 6, 0], forms ['d72 pic', 'd72 word']
+both@ascii@d72verb+rediscover+chain+wm+wmctx+wmlast seed 0 after session 3 (cut exit 17):
+  session 1: 16 d72 keys, times heard [0, 0, 2, 0], forms ['d72 verb']
+  session 2: 16 d72 keys, times heard [0, 0, 2, 0], forms ['d72 verb']
+  session 3: 16 d72 keys, times heard [0, 0, 3, 0], forms ['d72 verb']
+exit 0

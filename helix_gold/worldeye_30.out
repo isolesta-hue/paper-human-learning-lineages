@@ -1,0 +1,66 @@
+=== 30 seeds; the world-shaped eye in the judge, attention body ===
+
+--- never-heard ---
+content@ascii+fix+attend                            0.865  0.870  0.868  0.854  0.857  0.847  0.837  0.828  0.834  0.828  0.820  0.810  0.798  0.776  0.764  0.755
+both@ascii+fix-routeknobs+attend                    0.865  0.872  0.867  0.860  0.853  0.844  0.832  0.824  0.819  0.811  0.800  0.792  0.780  0.763  0.753  0.742
+both@ascii+fix-routeknobs+attend+worldeye           0.865  0.877  0.869  0.871  0.857  0.853  0.842  0.833  0.826  0.819  0.807  0.794  0.783  0.772  0.761  0.751
+content+world+recomb-side+attend                    0.610  0.566  0.547  0.541  0.540  0.543  0.541  0.542  0.559  0.574  0.585  0.597  0.601  0.604  0.612  0.618
+both+world+recomb-side-routeknobs+attend            0.610  0.557  0.536  0.532  0.543  0.546  0.549  0.547  0.562  0.575  0.577  0.595  0.599  0.604  0.610  0.614
+both+world+recomb-side-routeknobs+attend+worldeye   0.610  0.555  0.540  0.538  0.544  0.549  0.540  0.546  0.561  0.569  0.576  0.581  0.583  0.587  0.593  0.601
+
+--- once all ---
+content@ascii+fix+attend                            0.946  0.927  0.945  0.917  0.904  0.893  0.887  0.880  0.862  0.819  0.769  0.736  0.686  0.612  0.574  0.536
+both@ascii+fix-routeknobs+attend                    0.946  0.892  0.927  0.904  0.906  0.867  0.836  0.818  0.785  0.736  0.696  0.659  0.614  0.559  0.525  0.491
+both@ascii+fix-routeknobs+attend+worldeye           0.946  0.932  0.914  0.889  0.849  0.824  0.790  0.783  0.738  0.694  0.643  0.594  0.553  0.513  0.479  0.449
+content+world+recomb-side+attend                    0.549  0.467  0.457  0.430  0.422  0.417  0.411  0.411  0.414  0.418  0.421  0.435  0.430  0.430  0.440  0.445
+both+world+recomb-side-routeknobs+attend            0.549  0.452  0.438  0.401  0.411  0.411  0.418  0.407  0.423  0.424  0.421  0.446  0.442  0.443  0.446  0.447
+both+world+recomb-side-routeknobs+attend+worldeye   0.549  0.442  0.426  0.417  0.418  0.427  0.420  0.424  0.437  0.433  0.431  0.430  0.418  0.419  0.427  0.436
+
+--- unseen all ---
+content@ascii+fix+attend                            0.188  0.326  0.403  0.490  0.525  0.489  0.500  0.512  0.535  0.541  0.545  0.524  0.531  0.432  0.389  0.367
+both@ascii+fix-routeknobs+attend                    0.188  0.437  0.431  0.519  0.490  0.520  0.454  0.464  0.419  0.447  0.444  0.444  0.439  0.367  0.350  0.337
+both@ascii+fix-routeknobs+attend+worldeye           0.188  0.377  0.416  0.469  0.401  0.414  0.367  0.376  0.352  0.364  0.368  0.339  0.344  0.294  0.251  0.234
+content+world+recomb-side+attend                    0.031  0.022  0.035  0.039  0.039  0.041  0.036  0.035  0.039  0.040  0.046  0.049  0.045  0.048  0.048  0.047
+both+world+recomb-side-routeknobs+attend            0.031  0.026  0.030  0.042  0.042  0.046  0.038  0.050  0.051  0.051  0.051  0.056  0.050  0.052  0.056  0.060
+both+world+recomb-side-routeknobs+attend+worldeye   0.031  0.032  0.032  0.035  0.041  0.054  0.046  0.051  0.048  0.048  0.043  0.045  0.043  0.043  0.040  0.042
+
+--- pattern w ---
+/tmp/claude-0/-home-user/23cc98b2-a804-5343-bef4-6479ad5f8346/scratchpad/rie/run_worldeye.py:42: RuntimeWarning: Mean of empty slice
+  print(f"{c:50} " + " ".join(f"{np.nanmean([r[c][i].get(key, np.nan) for r in res]):6.3f}" for i in range(n)))
+content@ascii+fix+attend                              nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan
+both@ascii+fix-routeknobs+attend                    1.000  1.033  1.083  1.117  1.167  1.067  1.017  0.933  0.783  0.817  0.817  0.817  0.817  0.800  0.800  0.800
+both@ascii+fix-routeknobs+attend+worldeye           1.000  0.967  1.000  1.050  1.050  1.050  1.067  1.100  1.033  1.050  1.083  1.100  1.133  1.167  1.033  1.017
+content+world+recomb-side+attend                      nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan
+both+world+recomb-side-routeknobs+attend            1.000  1.050  1.067  1.083  1.100  1.183  1.117  1.000  1.100  1.017  0.983  0.983  1.000  0.933  0.917  0.917
+both+world+recomb-side-routeknobs+attend+worldeye   1.000  0.950  0.917  0.967  1.017  1.017  1.033  0.917  0.967  0.917  0.867  0.867  0.833  0.800  0.783  0.800
+
+--- chunk w ---
+content@ascii+fix+attend                              nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan
+both@ascii+fix-routeknobs+attend                    1.000  1.083  1.100  1.167  1.250  1.233  1.250  1.400  1.383  1.300  1.433  1.450  1.533  1.533  1.533  1.533
+both@ascii+fix-routeknobs+attend+worldeye           1.000  1.267  1.517  1.783  2.150  2.083  2.117  2.083  2.083  2.117  2.250  2.183  2.083  2.083  2.083  2.083
+content+world+recomb-side+attend                      nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan    nan
+both+world+recomb-side-routeknobs+attend            1.000  0.950  0.917  0.767  0.717  0.650  0.617  0.567  0.583  0.583  0.600  0.600  0.567  0.533  0.550  0.567
+both+world+recomb-side-routeknobs+attend+worldeye   1.000  0.983  0.900  0.867  0.767  0.783  0.783  0.733  0.750  0.700  0.700  0.683  0.683  0.650  0.683  0.683
+
+--- lr ---
+content@ascii+fix+attend                            0.010  0.010  0.010  0.010  0.010  0.010  0.010  0.010  0.010  0.010  0.010  0.010  0.010  0.010  0.010  0.010
+both@ascii+fix-routeknobs+attend                    0.010  0.010  0.010  0.011  0.014  0.016  0.015  0.014  0.013  0.014  0.014  0.014  0.015  0.015  0.014  0.014
+both@ascii+fix-routeknobs+attend+worldeye           0.010  0.010  0.013  0.013  0.013  0.014  0.013  0.012  0.011  0.012  0.011  0.011  0.011  0.010  0.010  0.010
+content+world+recomb-side+attend                    0.010  0.010  0.010  0.010  0.010  0.010  0.010  0.010  0.010  0.010  0.010  0.010  0.010  0.010  0.010  0.010
+both+world+recomb-side-routeknobs+attend            0.010  0.011  0.012  0.013  0.014  0.015  0.016  0.014  0.015  0.015  0.014  0.015  0.015  0.015  0.013  0.011
+both+world+recomb-side-routeknobs+attend+worldeye   0.010  0.011  0.010  0.013  0.011  0.011  0.011  0.009  0.009  0.009  0.009  0.010  0.009  0.009  0.009  0.009
+
+--- review ---
+content@ascii+fix+attend                            0.500  0.500  0.500  0.500  0.500  0.500  0.500  0.500  0.500  0.500  0.500  0.500  0.500  0.500  0.500  0.500
+both@ascii+fix-routeknobs+attend                    0.500  0.492  0.500  0.503  0.495  0.515  0.493  0.502  0.512  0.512  0.512  0.520  0.562  0.558  0.558  0.558
+both@ascii+fix-routeknobs+attend+worldeye           0.500  0.508  0.533  0.542  0.558  0.575  0.567  0.575  0.608  0.608  0.608  0.608  0.608  0.625  0.625  0.642
+content+world+recomb-side+attend                    0.500  0.500  0.500  0.500  0.500  0.500  0.500  0.500  0.500  0.500  0.500  0.500  0.500  0.500  0.500  0.500
+both+world+recomb-side-routeknobs+attend            0.500  0.475  0.478  0.483  0.533  0.533  0.567  0.600  0.583  0.608  0.592  0.592  0.625  0.633  0.595  0.587
+both+world+recomb-side-routeknobs+attend+worldeye   0.500  0.483  0.500  0.550  0.583  0.587  0.595  0.608  0.625  0.625  0.642  0.633  0.650  0.633  0.642  0.658
+
+W1 both@ascii+fix-routeknobs+attend+worldeye vs both@ascii+fix-routeknobs+attend: life +0.006 (18/12, p=0.3616)  end +0.009 (17/13, p=0.5847)
+W2 completion (both@ascii+fix-routeknobs+attend+worldeye - content@ascii+fix+attend) by session +0.000 +0.007 +0.002 +0.017 +0.000 +0.006 +0.005 +0.005 -0.008 -0.009 -0.013 -0.016 -0.016 -0.005 -0.004 -0.005
+   end -0.005 (10/20, p=0.0987) | widening s13-16 - s2-4 -0.016 (6/24, p=0.0014)
+W3 both+world+recomb-side-routeknobs+attend+worldeye vs both+world+recomb-side-routeknobs+attend: life -0.005 (15/15, p=1.0000)  end -0.013 (14/16, p=0.8555)
+W4 completion (both+world+recomb-side-routeknobs+attend+worldeye - content+world+recomb-side+attend) by session +0.000 -0.011 -0.006 -0.003 +0.003 +0.006 -0.001 +0.004 +0.002 -0.005 -0.008 -0.016 -0.018 -0.017 -0.018 -0.017
+   end -0.017 (13/17, p=0.5847) | widening s13-16 - s2-4 -0.011 (15/15, p=1.0000)

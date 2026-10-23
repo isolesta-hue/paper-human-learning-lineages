@@ -1,0 +1,18 @@
+diagnosis (conv-v1j): lives ['life_001', 'life_007', 'life_018'] (done before: []), sessions all, workers 3, deadline 02:56:33Z, fingerprint 0551dd3a140d
+session 0: rows 547, cpu 111s, unchanged True
+session 0: rows 547, cpu 115s, unchanged True
+session 0: rows 546, cpu 121s, unchanged True
+session 1: rows 1092, cpu 277s, unchanged True
+session 1: rows 1094, cpu 278s, unchanged True
+session 1: rows 1094, cpu 300s, unchanged True
+session 2: rows 1641, cpu 473s, unchanged True
+session 2: rows 1643, cpu 483s, unchanged True
+session 2: rows 1641, cpu 497s, unchanged True
+session 3: rows 2188, cpu 700s, unchanged True
+session 3: rows 2188, cpu 721s, unchanged True
+session 3: rows 2194, cpu 745s, unchanged True
+session 4: rows 2740, cpu 994s, unchanged True
+session 4: rows 2740, cpu 1002s, unchanged True
+session 4: rows 2740, cpu 1055s, unchanged True
+session 5: rows 3287, cpu 1341s, unchanged True
+session 5: rows 3291, cpu 1440s, unchanged True

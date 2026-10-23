@@ -1,0 +1,11 @@
+diagnosis (conv-v1j): lives ['life_007'] (done before: []), sessions all, workers 1, deadline 07:06:09Z, fingerprint 78809e282067
+resumed at session 14 (cpu so far 6219s)
+session 14: rows 8245, cpu 7184s, unchanged True
+session 15: rows 8832, cpu 8301s, unchanged True
+{"life": "life_007", "converter": "conv-v1j", "sessions": "all", "rebuild_ok": true, "units": 1752, "exposure_lines": 1752, "rows": 8832, "duplicated": 0, "same_rows_as_recorded": true, "due": 8832, "keys_match": true, "unchanged_while_answering": true, "cpu_s": 8301.6, "wall_s_last_piece": 2108.5, "V": 3990, "items": 627}
+exit 0
+diagnosis (conv-v1j): lives ['life_018'] (done before: []), sessions all, workers 1, deadline 07:06:09Z, fingerprint 78809e282067
+resumed at session 15 (cpu so far 7074s)
+session 15: rows 8816, cpu 8124s, unchanged True
+{"life": "life_018", "converter": "conv-v1j", "sessions": "all", "rebuild_ok": true, "units": 1771, "exposure_lines": 1771, "rows": 8816, "duplicated": 0, "same_rows_as_recorded": true, "due": 8816, "keys_match": true, "unchanged_while_answering": true, "cpu_s": 8124.7, "wall_s_last_piece": 1064.6, "V": 3981, "items": 626}
+exit 0

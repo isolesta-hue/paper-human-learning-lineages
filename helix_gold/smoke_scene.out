@@ -1,0 +1,9 @@
+both@ascii@scene+rediscover+scene seed 0 after session 3 (cut exit 17):
+  session 1: 12 scene keys, events 54.0, words 12.0
+  session 2: 12 scene keys, events 54.0, words 12.0
+  session 3: 12 scene keys, events 81.0, words 16.0
+both@ascii@sceneshuf+rediscover+scene seed 0 after session 3 (cut exit 17):
+  session 1: 12 scene keys, events 54.0, words 12.0
+  session 2: 12 scene keys, events 54.0, words 12.0
+  session 3: 12 scene keys, events 81.0, words 16.0
+exit 0

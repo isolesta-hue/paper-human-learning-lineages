@@ -1,0 +1,5 @@
+=== both@ascii@d72neg+rediscover+chain+wm+wmctx+wmlast+d82 seed 0: 16 sessions (stored 16) ===
+R0 on seed 0: d72 keys differing 0 []
+d82 keys written at the last session: ['d82 d72 neg 0 conf', 'd82 d72 neg 0 pairs', 'd82 d72 neg 1 conf', 'd82 d72 neg 1 pairs', 'd82 d72 neg 2 conf', 'd82 d72 neg 2 pairs']
+exit 0
+exit-code 0

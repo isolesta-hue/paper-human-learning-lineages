@@ -1,0 +1,5 @@
+unchanged worlds: PASS (108 builds)
+seq seed 0: V 455 (+2), question moments 92, tests {'seq now': 92, 'seq before': 92}; old elements same ok, new words last ok, kinds ok, rooms = @scene rooms + start scene + question moments + seq ok, question moments and tests true from what was seen ok
+seq seed 1: V 455 (+2), question moments 92, tests {'seq now': 92, 'seq before': 92}; old elements same ok, new words last ok, kinds ok, rooms = @scene rooms + start scene + question moments + seq ok, question moments and tests true from what was seen ok
+seq seed 2: V 455 (+2), question moments 92, tests {'seq now': 92, 'seq before': 92}; old elements same ok, new words last ok, kinds ok, rooms = @scene rooms + start scene + question moments + seq ok, question moments and tests true from what was seen ok
+seq shapes: PASS

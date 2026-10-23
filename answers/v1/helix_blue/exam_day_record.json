@@ -1,0 +1,245 @@
+{
+ "version": "sia-conv-v3",
+ "fingerprint": "7d03b3b4d445",
+ "expected": "7d03b3b4d445",
+ "runner_sha": "878e0d99840e",
+ "body_seed": "1000 x 1000 + life number",
+ "edition": "/tmp/claude-0/-home-user/4d89f7c6-148e-5983-a102-97596081b421/scratchpad/v1_shared/exam/v1",
+ "manifest_sha256": "4ac9e097785711a6228dc9c67ab7eb15e5ef2c41db6fa37c07adf0e28ea37d65",
+ "lives": [
+  "life_000",
+  "life_001",
+  "life_002",
+  "life_003",
+  "life_004",
+  "life_005",
+  "life_006",
+  "life_007",
+  "life_008",
+  "life_009",
+  "life_010",
+  "life_011",
+  "life_012",
+  "life_013",
+  "life_014",
+  "life_015",
+  "life_016",
+  "life_017",
+  "life_018",
+  "life_019",
+  "life_020",
+  "life_021",
+  "life_022",
+  "life_023",
+  "life_024",
+  "life_025",
+  "life_026",
+  "life_027",
+  "life_028",
+  "life_029"
+ ],
+ "started": "2026-10-19 03:21:20 UTC",
+ "lives_run": {
+  "life_000": {
+   "kept": false,
+   "rc": 0,
+   "secs": 415.0,
+   "tail": "life_000 노출 161.8초 · 답 248.9초 · 답 줄 8816\n"
+  },
+  "life_001": {
+   "kept": false,
+   "rc": 0,
+   "secs": 415.4,
+   "tail": "life_001 노출 156.6초 · 답 254.5초 · 답 줄 8832\n"
+  },
+  "life_002": {
+   "kept": false,
+   "rc": 0,
+   "secs": 442.8,
+   "tail": "life_002 노출 181.1초 · 답 257.5초 · 답 줄 8672\n"
+  },
+  "life_003": {
+   "kept": false,
+   "rc": 0,
+   "secs": 441.9,
+   "tail": "life_003 노출 178.8초 · 답 258.8초 · 답 줄 8848\n"
+  },
+  "life_004": {
+   "kept": false,
+   "rc": 0,
+   "secs": 427.9,
+   "tail": "life_004 노출 167.9초 · 답 259.2초 · 답 줄 8912\n"
+  },
+  "life_005": {
+   "kept": false,
+   "rc": 0,
+   "secs": 438.8,
+   "tail": "life_005 노출 189.0초 · 답 249.1초 · 답 줄 8816\n"
+  },
+  "life_006": {
+   "kept": false,
+   "rc": 0,
+   "secs": 433.1,
+   "tail": "life_006 노출 172.4초 · 답 259.7초 · 답 줄 8832\n"
+  },
+  "life_007": {
+   "kept": false,
+   "rc": 0,
+   "secs": 405.5,
+   "tail": "life_007 노출 158.0초 · 답 246.7초 · 답 줄 8832\n"
+  },
+  "life_008": {
+   "kept": false,
+   "rc": 0,
+   "secs": 428.8,
+   "tail": "life_008 노출 175.8초 · 답 251.9초 · 답 줄 8768\n"
+  },
+  "life_009": {
+   "kept": false,
+   "rc": 0,
+   "secs": 428.5,
+   "tail": "life_009 노출 180.5초 · 답 246.8초 · 답 줄 8656\n"
+  },
+  "life_010": {
+   "kept": false,
+   "rc": 0,
+   "secs": 427.3,
+   "tail": "life_010 노출 177.8초 · 답 248.5초 · 답 줄 8800\n"
+  },
+  "life_011": {
+   "kept": false,
+   "rc": 0,
+   "secs": 418.2,
+   "tail": "life_011 노출 171.2초 · 답 246.1초 · 답 줄 8832\n"
+  },
+  "life_012": {
+   "kept": false,
+   "rc": 0,
+   "secs": 440.1,
+   "tail": "life_012 노출 181.7초 · 답 257.5초 · 답 줄 8848\n"
+  },
+  "life_013": {
+   "kept": false,
+   "rc": 0,
+   "secs": 432.3,
+   "tail": "life_013 노출 177.6초 · 답 253.7초 · 답 줄 8800\n"
+  },
+  "life_014": {
+   "kept": false,
+   "rc": 0,
+   "secs": 436.2,
+   "tail": "life_014 노출 180.8초 · 답 254.4초 · 답 줄 8848\n"
+  },
+  "life_015": {
+   "kept": false,
+   "rc": 0,
+   "secs": 410.6,
+   "tail": "life_015 노출 164.7초 · 답 245.0초 · 답 줄 8768\n"
+  },
+  "life_016": {
+   "kept": false,
+   "rc": 0,
+   "secs": 418.5,
+   "tail": "life_016 노출 170.9초 · 답 246.5초 · 답 줄 8768\n"
+  },
+  "life_017": {
+   "kept": false,
+   "rc": 0,
+   "secs": 426.3,
+   "tail": "life_017 노출 174.2초 · 답 251.1초 · 답 줄 8832\n"
+  },
+  "life_018": {
+   "kept": false,
+   "rc": 0,
+   "secs": 417.2,
+   "tail": "life_018 노출 161.7초 · 답 254.5초 · 답 줄 8816\n"
+  },
+  "life_019": {
+   "kept": false,
+   "rc": 0,
+   "secs": 430.0,
+   "tail": "life_019 노출 179.1초 · 답 249.9초 · 답 줄 8800\n"
+  },
+  "life_020": {
+   "kept": false,
+   "rc": 0,
+   "secs": 427.8,
+   "tail": "life_020 노출 169.7초 · 답 257.2초 · 답 줄 8816\n"
+  },
+  "life_021": {
+   "kept": false,
+   "rc": 0,
+   "secs": 410.6,
+   "tail": "life_021 노출 159.1초 · 답 250.4초 · 답 줄 8784\n"
+  },
+  "life_022": {
+   "kept": false,
+   "rc": 0,
+   "secs": 424.4,
+   "tail": "life_022 노출 177.1초 · 답 246.4초 · 답 줄 8848\n"
+  },
+  "life_023": {
+   "kept": false,
+   "rc": 0,
+   "secs": 419.6,
+   "tail": "life_023 노출 172.0초 · 답 246.5초 · 답 줄 8784\n"
+  },
+  "life_024": {
+   "kept": false,
+   "rc": 0,
+   "secs": 463.1,
+   "tail": "life_024 노출 170.5초 · 답 291.7초 · 답 줄 8896\n"
+  },
+  "life_025": {
+   "kept": false,
+   "rc": 0,
+   "secs": 442.0,
+   "tail": "life_025 노출 176.7초 · 답 264.3초 · 답 줄 8848\n"
+  },
+  "life_026": {
+   "kept": false,
+   "rc": 0,
+   "secs": 438.3,
+   "tail": "life_026 노출 180.1초 · 답 257.1초 · 답 줄 8816\n"
+  },
+  "life_027": {
+   "kept": false,
+   "rc": 0,
+   "secs": 430.7,
+   "tail": "life_027 노출 169.8초 · 답 260.0초 · 답 줄 8816\n"
+  },
+  "life_028": {
+   "kept": false,
+   "rc": 0,
+   "secs": 429.2,
+   "tail": "life_028 노출 178.6초 · 답 249.3초 · 답 줄 8736\n"
+  },
+  "life_029": {
+   "kept": false,
+   "rc": 0,
+   "secs": 457.5,
+   "tail": "life_029 노출 198.5초 · 답 258.1초 · 답 줄 8896\n"
+  }
+ },
+ "errors": [],
+ "grade_rc": 1,
+ "grade_missing": [],
+ "finished": "2026-10-19 04:18:56 UTC",
+ "timing": {
+  "started": "2026-10-19 03:21:20 UTC",
+  "finished": "2026-10-19 04:18:56 UTC",
+  "wall_min": 57.6,
+  "procs": 4,
+  "per_life_s": {
+   "mean": 429.3,
+   "min": 405.5,
+   "max": 463.1
+  },
+  "sum_all_lives_h": 3.58,
+  "live_sleep_s_mean": 173.8,
+  "answer_s_mean": 254.1,
+  "rows": 264336
+ },
+ "rows_complete": true,
+ "grade_note": "열쇠 (keys/)는 봉인되어 판에 없음 — 실행기의 채점 단계는 예상대로 열쇠를 못 찾아 멈춤 (답에는 영향 없음; 채점은 보이저 세션이 열쇠를 올린 뒤)"
+}
